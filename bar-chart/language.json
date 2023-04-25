@@ -1,0 +1,6242 @@
+[
+  {
+    "year": "2020-11",
+    "language": "Estonian",
+    "value": 2,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "German",
+    "value": 4,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "Indonesian",
+    "value": 1,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "Polish",
+    "value": 2,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "Romanian",
+    "value": 2,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "Tagalog",
+    "value": 2,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "Turkish",
+    "value": 1,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "Welsh",
+    "value": 2,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "Finnish",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "Hindi",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "Somali",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "Swedish",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "Afrikaans",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "Bengali",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "Danish",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "Italian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "French",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "Slovenian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "Catalan",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "Malayalam",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "Swahili (macrolanguage)",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "Croatian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "Latvian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "Marathi",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "Nepali (macrolanguage)",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "Norwegian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "Slovak",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "Hungarian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "Panjabi",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "Persian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "Dutch",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "Portuguese",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "Albanian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "Lithuanian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "Spanish",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "Telugu",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "Vietnamese",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "Czech",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "Russian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-11",
+    "language": "Tamil",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-12",
+    "language": "Estonian",
+    "value": 2,
+    "lastValue": 2
+  },
+  {
+    "year": "2020-12",
+    "language": "German",
+    "value": 4,
+    "lastValue": 4
+  },
+  {
+    "year": "2020-12",
+    "language": "Indonesian",
+    "value": 3,
+    "lastValue": 1
+  },
+  {
+    "year": "2020-12",
+    "language": "Polish",
+    "value": 3,
+    "lastValue": 2
+  },
+  {
+    "year": "2020-12",
+    "language": "Romanian",
+    "value": 2,
+    "lastValue": 2
+  },
+  {
+    "year": "2020-12",
+    "language": "Tagalog",
+    "value": 3,
+    "lastValue": 2
+  },
+  {
+    "year": "2020-12",
+    "language": "Turkish",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2020-12",
+    "language": "Welsh",
+    "value": 2,
+    "lastValue": 2
+  },
+  {
+    "year": "2020-12",
+    "language": "Finnish",
+    "value": 1,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-12",
+    "language": "Hindi",
+    "value": 1,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-12",
+    "language": "Somali",
+    "value": 1,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-12",
+    "language": "Swedish",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-12",
+    "language": "Afrikaans",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-12",
+    "language": "Bengali",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-12",
+    "language": "Danish",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-12",
+    "language": "Italian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-12",
+    "language": "French",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-12",
+    "language": "Slovenian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-12",
+    "language": "Catalan",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-12",
+    "language": "Malayalam",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-12",
+    "language": "Swahili (macrolanguage)",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-12",
+    "language": "Croatian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-12",
+    "language": "Latvian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-12",
+    "language": "Marathi",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-12",
+    "language": "Nepali (macrolanguage)",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-12",
+    "language": "Norwegian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-12",
+    "language": "Slovak",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-12",
+    "language": "Hungarian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-12",
+    "language": "Panjabi",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-12",
+    "language": "Persian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-12",
+    "language": "Dutch",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-12",
+    "language": "Portuguese",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-12",
+    "language": "Albanian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-12",
+    "language": "Lithuanian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-12",
+    "language": "Spanish",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-12",
+    "language": "Telugu",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-12",
+    "language": "Vietnamese",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-12",
+    "language": "Czech",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-12",
+    "language": "Russian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2020-12",
+    "language": "Tamil",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-01",
+    "language": "Estonian",
+    "value": 2,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-01",
+    "language": "German",
+    "value": 6,
+    "lastValue": 4
+  },
+  {
+    "year": "2021-01",
+    "language": "Indonesian",
+    "value": 3,
+    "lastValue": 3
+  },
+  {
+    "year": "2021-01",
+    "language": "Polish",
+    "value": 3,
+    "lastValue": 3
+  },
+  {
+    "year": "2021-01",
+    "language": "Romanian",
+    "value": 2,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-01",
+    "language": "Tagalog",
+    "value": 3,
+    "lastValue": 3
+  },
+  {
+    "year": "2021-01",
+    "language": "Turkish",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-01",
+    "language": "Welsh",
+    "value": 2,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-01",
+    "language": "Finnish",
+    "value": 2,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-01",
+    "language": "Hindi",
+    "value": 3,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-01",
+    "language": "Somali",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-01",
+    "language": "Swedish",
+    "value": 1,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-01",
+    "language": "Afrikaans",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-01",
+    "language": "Bengali",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-01",
+    "language": "Danish",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-01",
+    "language": "Italian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-01",
+    "language": "French",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-01",
+    "language": "Slovenian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-01",
+    "language": "Catalan",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-01",
+    "language": "Malayalam",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-01",
+    "language": "Swahili (macrolanguage)",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-01",
+    "language": "Croatian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-01",
+    "language": "Latvian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-01",
+    "language": "Marathi",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-01",
+    "language": "Nepali (macrolanguage)",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-01",
+    "language": "Norwegian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-01",
+    "language": "Slovak",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-01",
+    "language": "Hungarian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-01",
+    "language": "Panjabi",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-01",
+    "language": "Persian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-01",
+    "language": "Dutch",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-01",
+    "language": "Portuguese",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-01",
+    "language": "Albanian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-01",
+    "language": "Lithuanian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-01",
+    "language": "Spanish",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-01",
+    "language": "Telugu",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-01",
+    "language": "Vietnamese",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-01",
+    "language": "Czech",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-01",
+    "language": "Russian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-01",
+    "language": "Tamil",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-02",
+    "language": "Estonian",
+    "value": 2,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-02",
+    "language": "German",
+    "value": 9,
+    "lastValue": 6
+  },
+  {
+    "year": "2021-02",
+    "language": "Indonesian",
+    "value": 4,
+    "lastValue": 3
+  },
+  {
+    "year": "2021-02",
+    "language": "Polish",
+    "value": 6,
+    "lastValue": 3
+  },
+  {
+    "year": "2021-02",
+    "language": "Romanian",
+    "value": 2,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-02",
+    "language": "Tagalog",
+    "value": 3,
+    "lastValue": 3
+  },
+  {
+    "year": "2021-02",
+    "language": "Turkish",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-02",
+    "language": "Welsh",
+    "value": 2,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-02",
+    "language": "Finnish",
+    "value": 4,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-02",
+    "language": "Hindi",
+    "value": 3,
+    "lastValue": 3
+  },
+  {
+    "year": "2021-02",
+    "language": "Somali",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-02",
+    "language": "Swedish",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-02",
+    "language": "Afrikaans",
+    "value": 4,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-02",
+    "language": "Bengali",
+    "value": 294,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-02",
+    "language": "Danish",
+    "value": 1,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-02",
+    "language": "Italian",
+    "value": 2,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-02",
+    "language": "French",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-02",
+    "language": "Slovenian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-02",
+    "language": "Catalan",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-02",
+    "language": "Malayalam",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-02",
+    "language": "Swahili (macrolanguage)",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-02",
+    "language": "Croatian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-02",
+    "language": "Latvian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-02",
+    "language": "Marathi",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-02",
+    "language": "Nepali (macrolanguage)",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-02",
+    "language": "Norwegian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-02",
+    "language": "Slovak",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-02",
+    "language": "Hungarian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-02",
+    "language": "Panjabi",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-02",
+    "language": "Persian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-02",
+    "language": "Dutch",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-02",
+    "language": "Portuguese",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-02",
+    "language": "Albanian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-02",
+    "language": "Lithuanian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-02",
+    "language": "Spanish",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-02",
+    "language": "Telugu",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-02",
+    "language": "Vietnamese",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-02",
+    "language": "Czech",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-02",
+    "language": "Russian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-02",
+    "language": "Tamil",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-03",
+    "language": "Estonian",
+    "value": 3,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-03",
+    "language": "German",
+    "value": 9,
+    "lastValue": 9
+  },
+  {
+    "year": "2021-03",
+    "language": "Indonesian",
+    "value": 4,
+    "lastValue": 4
+  },
+  {
+    "year": "2021-03",
+    "language": "Polish",
+    "value": 6,
+    "lastValue": 6
+  },
+  {
+    "year": "2021-03",
+    "language": "Romanian",
+    "value": 2,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-03",
+    "language": "Tagalog",
+    "value": 7,
+    "lastValue": 3
+  },
+  {
+    "year": "2021-03",
+    "language": "Turkish",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-03",
+    "language": "Welsh",
+    "value": 3,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-03",
+    "language": "Finnish",
+    "value": 4,
+    "lastValue": 4
+  },
+  {
+    "year": "2021-03",
+    "language": "Hindi",
+    "value": 3,
+    "lastValue": 3
+  },
+  {
+    "year": "2021-03",
+    "language": "Somali",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-03",
+    "language": "Swedish",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-03",
+    "language": "Afrikaans",
+    "value": 4,
+    "lastValue": 4
+  },
+  {
+    "year": "2021-03",
+    "language": "Bengali",
+    "value": 294,
+    "lastValue": 294
+  },
+  {
+    "year": "2021-03",
+    "language": "Danish",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-03",
+    "language": "Italian",
+    "value": 2,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-03",
+    "language": "French",
+    "value": 2,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-03",
+    "language": "Slovenian",
+    "value": 2,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-03",
+    "language": "Catalan",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-03",
+    "language": "Malayalam",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-03",
+    "language": "Swahili (macrolanguage)",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-03",
+    "language": "Croatian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-03",
+    "language": "Latvian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-03",
+    "language": "Marathi",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-03",
+    "language": "Nepali (macrolanguage)",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-03",
+    "language": "Norwegian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-03",
+    "language": "Slovak",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-03",
+    "language": "Hungarian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-03",
+    "language": "Panjabi",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-03",
+    "language": "Persian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-03",
+    "language": "Dutch",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-03",
+    "language": "Portuguese",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-03",
+    "language": "Albanian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-03",
+    "language": "Lithuanian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-03",
+    "language": "Spanish",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-03",
+    "language": "Telugu",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-03",
+    "language": "Vietnamese",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-03",
+    "language": "Czech",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-03",
+    "language": "Russian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-03",
+    "language": "Tamil",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-04",
+    "language": "Estonian",
+    "value": 3,
+    "lastValue": 3
+  },
+  {
+    "year": "2021-04",
+    "language": "German",
+    "value": 11,
+    "lastValue": 9
+  },
+  {
+    "year": "2021-04",
+    "language": "Indonesian",
+    "value": 10,
+    "lastValue": 4
+  },
+  {
+    "year": "2021-04",
+    "language": "Polish",
+    "value": 10,
+    "lastValue": 6
+  },
+  {
+    "year": "2021-04",
+    "language": "Romanian",
+    "value": 4,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-04",
+    "language": "Tagalog",
+    "value": 7,
+    "lastValue": 7
+  },
+  {
+    "year": "2021-04",
+    "language": "Turkish",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-04",
+    "language": "Welsh",
+    "value": 4,
+    "lastValue": 3
+  },
+  {
+    "year": "2021-04",
+    "language": "Finnish",
+    "value": 4,
+    "lastValue": 4
+  },
+  {
+    "year": "2021-04",
+    "language": "Hindi",
+    "value": 58,
+    "lastValue": 3
+  },
+  {
+    "year": "2021-04",
+    "language": "Somali",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-04",
+    "language": "Swedish",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-04",
+    "language": "Afrikaans",
+    "value": 5,
+    "lastValue": 4
+  },
+  {
+    "year": "2021-04",
+    "language": "Bengali",
+    "value": 294,
+    "lastValue": 294
+  },
+  {
+    "year": "2021-04",
+    "language": "Danish",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-04",
+    "language": "Italian",
+    "value": 6,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-04",
+    "language": "French",
+    "value": 5,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-04",
+    "language": "Slovenian",
+    "value": 2,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-04",
+    "language": "Catalan",
+    "value": 3,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-04",
+    "language": "Malayalam",
+    "value": 2,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-04",
+    "language": "Swahili (macrolanguage)",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-04",
+    "language": "Croatian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-04",
+    "language": "Latvian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-04",
+    "language": "Marathi",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-04",
+    "language": "Nepali (macrolanguage)",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-04",
+    "language": "Norwegian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-04",
+    "language": "Slovak",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-04",
+    "language": "Hungarian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-04",
+    "language": "Panjabi",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-04",
+    "language": "Persian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-04",
+    "language": "Dutch",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-04",
+    "language": "Portuguese",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-04",
+    "language": "Albanian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-04",
+    "language": "Lithuanian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-04",
+    "language": "Spanish",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-04",
+    "language": "Telugu",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-04",
+    "language": "Vietnamese",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-04",
+    "language": "Czech",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-04",
+    "language": "Russian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-04",
+    "language": "Tamil",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-05",
+    "language": "Estonian",
+    "value": 3,
+    "lastValue": 3
+  },
+  {
+    "year": "2021-05",
+    "language": "German",
+    "value": 11,
+    "lastValue": 11
+  },
+  {
+    "year": "2021-05",
+    "language": "Indonesian",
+    "value": 10,
+    "lastValue": 10
+  },
+  {
+    "year": "2021-05",
+    "language": "Polish",
+    "value": 10,
+    "lastValue": 10
+  },
+  {
+    "year": "2021-05",
+    "language": "Romanian",
+    "value": 4,
+    "lastValue": 4
+  },
+  {
+    "year": "2021-05",
+    "language": "Tagalog",
+    "value": 7,
+    "lastValue": 7
+  },
+  {
+    "year": "2021-05",
+    "language": "Turkish",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-05",
+    "language": "Welsh",
+    "value": 4,
+    "lastValue": 4
+  },
+  {
+    "year": "2021-05",
+    "language": "Finnish",
+    "value": 4,
+    "lastValue": 4
+  },
+  {
+    "year": "2021-05",
+    "language": "Hindi",
+    "value": 59,
+    "lastValue": 58
+  },
+  {
+    "year": "2021-05",
+    "language": "Somali",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-05",
+    "language": "Swedish",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-05",
+    "language": "Afrikaans",
+    "value": 5,
+    "lastValue": 5
+  },
+  {
+    "year": "2021-05",
+    "language": "Bengali",
+    "value": 294,
+    "lastValue": 294
+  },
+  {
+    "year": "2021-05",
+    "language": "Danish",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-05",
+    "language": "Italian",
+    "value": 6,
+    "lastValue": 6
+  },
+  {
+    "year": "2021-05",
+    "language": "French",
+    "value": 5,
+    "lastValue": 5
+  },
+  {
+    "year": "2021-05",
+    "language": "Slovenian",
+    "value": 2,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-05",
+    "language": "Catalan",
+    "value": 3,
+    "lastValue": 3
+  },
+  {
+    "year": "2021-05",
+    "language": "Malayalam",
+    "value": 2,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-05",
+    "language": "Swahili (macrolanguage)",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-05",
+    "language": "Croatian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-05",
+    "language": "Latvian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-05",
+    "language": "Marathi",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-05",
+    "language": "Nepali (macrolanguage)",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-05",
+    "language": "Norwegian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-05",
+    "language": "Slovak",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-05",
+    "language": "Hungarian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-05",
+    "language": "Panjabi",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-05",
+    "language": "Persian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-05",
+    "language": "Dutch",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-05",
+    "language": "Portuguese",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-05",
+    "language": "Albanian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-05",
+    "language": "Lithuanian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-05",
+    "language": "Spanish",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-05",
+    "language": "Telugu",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-05",
+    "language": "Vietnamese",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-05",
+    "language": "Czech",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-05",
+    "language": "Russian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-05",
+    "language": "Tamil",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-06",
+    "language": "Estonian",
+    "value": 3,
+    "lastValue": 3
+  },
+  {
+    "year": "2021-06",
+    "language": "German",
+    "value": 12,
+    "lastValue": 11
+  },
+  {
+    "year": "2021-06",
+    "language": "Indonesian",
+    "value": 13,
+    "lastValue": 10
+  },
+  {
+    "year": "2021-06",
+    "language": "Polish",
+    "value": 12,
+    "lastValue": 10
+  },
+  {
+    "year": "2021-06",
+    "language": "Romanian",
+    "value": 5,
+    "lastValue": 4
+  },
+  {
+    "year": "2021-06",
+    "language": "Tagalog",
+    "value": 8,
+    "lastValue": 7
+  },
+  {
+    "year": "2021-06",
+    "language": "Turkish",
+    "value": 2,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-06",
+    "language": "Welsh",
+    "value": 4,
+    "lastValue": 4
+  },
+  {
+    "year": "2021-06",
+    "language": "Finnish",
+    "value": 4,
+    "lastValue": 4
+  },
+  {
+    "year": "2021-06",
+    "language": "Hindi",
+    "value": 59,
+    "lastValue": 59
+  },
+  {
+    "year": "2021-06",
+    "language": "Somali",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-06",
+    "language": "Swedish",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-06",
+    "language": "Afrikaans",
+    "value": 7,
+    "lastValue": 5
+  },
+  {
+    "year": "2021-06",
+    "language": "Bengali",
+    "value": 294,
+    "lastValue": 294
+  },
+  {
+    "year": "2021-06",
+    "language": "Danish",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-06",
+    "language": "Italian",
+    "value": 8,
+    "lastValue": 6
+  },
+  {
+    "year": "2021-06",
+    "language": "French",
+    "value": 6,
+    "lastValue": 5
+  },
+  {
+    "year": "2021-06",
+    "language": "Slovenian",
+    "value": 2,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-06",
+    "language": "Catalan",
+    "value": 3,
+    "lastValue": 3
+  },
+  {
+    "year": "2021-06",
+    "language": "Malayalam",
+    "value": 2,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-06",
+    "language": "Swahili (macrolanguage)",
+    "value": 2,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-06",
+    "language": "Croatian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-06",
+    "language": "Latvian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-06",
+    "language": "Marathi",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-06",
+    "language": "Nepali (macrolanguage)",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-06",
+    "language": "Norwegian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-06",
+    "language": "Slovak",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-06",
+    "language": "Hungarian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-06",
+    "language": "Panjabi",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-06",
+    "language": "Persian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-06",
+    "language": "Dutch",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-06",
+    "language": "Portuguese",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-06",
+    "language": "Albanian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-06",
+    "language": "Lithuanian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-06",
+    "language": "Spanish",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-06",
+    "language": "Telugu",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-06",
+    "language": "Vietnamese",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-06",
+    "language": "Czech",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-06",
+    "language": "Russian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-06",
+    "language": "Tamil",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-07",
+    "language": "Estonian",
+    "value": 3,
+    "lastValue": 3
+  },
+  {
+    "year": "2021-07",
+    "language": "German",
+    "value": 12,
+    "lastValue": 12
+  },
+  {
+    "year": "2021-07",
+    "language": "Indonesian",
+    "value": 16,
+    "lastValue": 13
+  },
+  {
+    "year": "2021-07",
+    "language": "Polish",
+    "value": 13,
+    "lastValue": 12
+  },
+  {
+    "year": "2021-07",
+    "language": "Romanian",
+    "value": 5,
+    "lastValue": 5
+  },
+  {
+    "year": "2021-07",
+    "language": "Tagalog",
+    "value": 10,
+    "lastValue": 8
+  },
+  {
+    "year": "2021-07",
+    "language": "Turkish",
+    "value": 2,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-07",
+    "language": "Welsh",
+    "value": 4,
+    "lastValue": 4
+  },
+  {
+    "year": "2021-07",
+    "language": "Finnish",
+    "value": 5,
+    "lastValue": 4
+  },
+  {
+    "year": "2021-07",
+    "language": "Hindi",
+    "value": 158,
+    "lastValue": 59
+  },
+  {
+    "year": "2021-07",
+    "language": "Somali",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-07",
+    "language": "Swedish",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-07",
+    "language": "Afrikaans",
+    "value": 7,
+    "lastValue": 7
+  },
+  {
+    "year": "2021-07",
+    "language": "Bengali",
+    "value": 294,
+    "lastValue": 294
+  },
+  {
+    "year": "2021-07",
+    "language": "Danish",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-07",
+    "language": "Italian",
+    "value": 8,
+    "lastValue": 8
+  },
+  {
+    "year": "2021-07",
+    "language": "French",
+    "value": 7,
+    "lastValue": 6
+  },
+  {
+    "year": "2021-07",
+    "language": "Slovenian",
+    "value": 2,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-07",
+    "language": "Catalan",
+    "value": 3,
+    "lastValue": 3
+  },
+  {
+    "year": "2021-07",
+    "language": "Malayalam",
+    "value": 2,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-07",
+    "language": "Swahili (macrolanguage)",
+    "value": 2,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-07",
+    "language": "Croatian",
+    "value": 1,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-07",
+    "language": "Latvian",
+    "value": 1,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-07",
+    "language": "Marathi",
+    "value": 4,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-07",
+    "language": "Nepali (macrolanguage)",
+    "value": 5,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-07",
+    "language": "Norwegian",
+    "value": 1,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-07",
+    "language": "Slovak",
+    "value": 1,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-07",
+    "language": "Hungarian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-07",
+    "language": "Panjabi",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-07",
+    "language": "Persian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-07",
+    "language": "Dutch",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-07",
+    "language": "Portuguese",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-07",
+    "language": "Albanian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-07",
+    "language": "Lithuanian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-07",
+    "language": "Spanish",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-07",
+    "language": "Telugu",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-07",
+    "language": "Vietnamese",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-07",
+    "language": "Czech",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-07",
+    "language": "Russian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-07",
+    "language": "Tamil",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-08",
+    "language": "Estonian",
+    "value": 3,
+    "lastValue": 3
+  },
+  {
+    "year": "2021-08",
+    "language": "German",
+    "value": 12,
+    "lastValue": 12
+  },
+  {
+    "year": "2021-08",
+    "language": "Indonesian",
+    "value": 16,
+    "lastValue": 16
+  },
+  {
+    "year": "2021-08",
+    "language": "Polish",
+    "value": 13,
+    "lastValue": 13
+  },
+  {
+    "year": "2021-08",
+    "language": "Romanian",
+    "value": 7,
+    "lastValue": 5
+  },
+  {
+    "year": "2021-08",
+    "language": "Tagalog",
+    "value": 11,
+    "lastValue": 10
+  },
+  {
+    "year": "2021-08",
+    "language": "Turkish",
+    "value": 2,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-08",
+    "language": "Welsh",
+    "value": 4,
+    "lastValue": 4
+  },
+  {
+    "year": "2021-08",
+    "language": "Finnish",
+    "value": 5,
+    "lastValue": 5
+  },
+  {
+    "year": "2021-08",
+    "language": "Hindi",
+    "value": 158,
+    "lastValue": 158
+  },
+  {
+    "year": "2021-08",
+    "language": "Somali",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-08",
+    "language": "Swedish",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-08",
+    "language": "Afrikaans",
+    "value": 7,
+    "lastValue": 7
+  },
+  {
+    "year": "2021-08",
+    "language": "Bengali",
+    "value": 294,
+    "lastValue": 294
+  },
+  {
+    "year": "2021-08",
+    "language": "Danish",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-08",
+    "language": "Italian",
+    "value": 8,
+    "lastValue": 8
+  },
+  {
+    "year": "2021-08",
+    "language": "French",
+    "value": 7,
+    "lastValue": 7
+  },
+  {
+    "year": "2021-08",
+    "language": "Slovenian",
+    "value": 2,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-08",
+    "language": "Catalan",
+    "value": 3,
+    "lastValue": 3
+  },
+  {
+    "year": "2021-08",
+    "language": "Malayalam",
+    "value": 3,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-08",
+    "language": "Swahili (macrolanguage)",
+    "value": 2,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-08",
+    "language": "Croatian",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-08",
+    "language": "Latvian",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-08",
+    "language": "Marathi",
+    "value": 5,
+    "lastValue": 4
+  },
+  {
+    "year": "2021-08",
+    "language": "Nepali (macrolanguage)",
+    "value": 5,
+    "lastValue": 5
+  },
+  {
+    "year": "2021-08",
+    "language": "Norwegian",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-08",
+    "language": "Slovak",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-08",
+    "language": "Hungarian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-08",
+    "language": "Panjabi",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-08",
+    "language": "Persian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-08",
+    "language": "Dutch",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-08",
+    "language": "Portuguese",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-08",
+    "language": "Albanian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-08",
+    "language": "Lithuanian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-08",
+    "language": "Spanish",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-08",
+    "language": "Telugu",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-08",
+    "language": "Vietnamese",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-08",
+    "language": "Czech",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-08",
+    "language": "Russian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-08",
+    "language": "Tamil",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-09",
+    "language": "Estonian",
+    "value": 3,
+    "lastValue": 3
+  },
+  {
+    "year": "2021-09",
+    "language": "German",
+    "value": 18,
+    "lastValue": 12
+  },
+  {
+    "year": "2021-09",
+    "language": "Indonesian",
+    "value": 23,
+    "lastValue": 16
+  },
+  {
+    "year": "2021-09",
+    "language": "Polish",
+    "value": 16,
+    "lastValue": 13
+  },
+  {
+    "year": "2021-09",
+    "language": "Romanian",
+    "value": 9,
+    "lastValue": 7
+  },
+  {
+    "year": "2021-09",
+    "language": "Tagalog",
+    "value": 14,
+    "lastValue": 11
+  },
+  {
+    "year": "2021-09",
+    "language": "Turkish",
+    "value": 3,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-09",
+    "language": "Welsh",
+    "value": 6,
+    "lastValue": 4
+  },
+  {
+    "year": "2021-09",
+    "language": "Finnish",
+    "value": 5,
+    "lastValue": 5
+  },
+  {
+    "year": "2021-09",
+    "language": "Hindi",
+    "value": 268,
+    "lastValue": 158
+  },
+  {
+    "year": "2021-09",
+    "language": "Somali",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-09",
+    "language": "Swedish",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-09",
+    "language": "Afrikaans",
+    "value": 7,
+    "lastValue": 7
+  },
+  {
+    "year": "2021-09",
+    "language": "Bengali",
+    "value": 294,
+    "lastValue": 294
+  },
+  {
+    "year": "2021-09",
+    "language": "Danish",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-09",
+    "language": "Italian",
+    "value": 109,
+    "lastValue": 8
+  },
+  {
+    "year": "2021-09",
+    "language": "French",
+    "value": 22,
+    "lastValue": 7
+  },
+  {
+    "year": "2021-09",
+    "language": "Slovenian",
+    "value": 2,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-09",
+    "language": "Catalan",
+    "value": 5,
+    "lastValue": 3
+  },
+  {
+    "year": "2021-09",
+    "language": "Malayalam",
+    "value": 3,
+    "lastValue": 3
+  },
+  {
+    "year": "2021-09",
+    "language": "Swahili (macrolanguage)",
+    "value": 2,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-09",
+    "language": "Croatian",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-09",
+    "language": "Latvian",
+    "value": 2,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-09",
+    "language": "Marathi",
+    "value": 5,
+    "lastValue": 5
+  },
+  {
+    "year": "2021-09",
+    "language": "Nepali (macrolanguage)",
+    "value": 5,
+    "lastValue": 5
+  },
+  {
+    "year": "2021-09",
+    "language": "Norwegian",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-09",
+    "language": "Slovak",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-09",
+    "language": "Hungarian",
+    "value": 1,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-09",
+    "language": "Panjabi",
+    "value": 1,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-09",
+    "language": "Persian",
+    "value": 12,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-09",
+    "language": "Dutch",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-09",
+    "language": "Portuguese",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-09",
+    "language": "Albanian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-09",
+    "language": "Lithuanian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-09",
+    "language": "Spanish",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-09",
+    "language": "Telugu",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-09",
+    "language": "Vietnamese",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-09",
+    "language": "Czech",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-09",
+    "language": "Russian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-09",
+    "language": "Tamil",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-10",
+    "language": "Estonian",
+    "value": 5,
+    "lastValue": 3
+  },
+  {
+    "year": "2021-10",
+    "language": "German",
+    "value": 20,
+    "lastValue": 18
+  },
+  {
+    "year": "2021-10",
+    "language": "Indonesian",
+    "value": 25,
+    "lastValue": 23
+  },
+  {
+    "year": "2021-10",
+    "language": "Polish",
+    "value": 16,
+    "lastValue": 16
+  },
+  {
+    "year": "2021-10",
+    "language": "Romanian",
+    "value": 10,
+    "lastValue": 9
+  },
+  {
+    "year": "2021-10",
+    "language": "Tagalog",
+    "value": 19,
+    "lastValue": 14
+  },
+  {
+    "year": "2021-10",
+    "language": "Turkish",
+    "value": 3,
+    "lastValue": 3
+  },
+  {
+    "year": "2021-10",
+    "language": "Welsh",
+    "value": 7,
+    "lastValue": 6
+  },
+  {
+    "year": "2021-10",
+    "language": "Finnish",
+    "value": 5,
+    "lastValue": 5
+  },
+  {
+    "year": "2021-10",
+    "language": "Hindi",
+    "value": 270,
+    "lastValue": 268
+  },
+  {
+    "year": "2021-10",
+    "language": "Somali",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-10",
+    "language": "Swedish",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-10",
+    "language": "Afrikaans",
+    "value": 9,
+    "lastValue": 7
+  },
+  {
+    "year": "2021-10",
+    "language": "Bengali",
+    "value": 294,
+    "lastValue": 294
+  },
+  {
+    "year": "2021-10",
+    "language": "Danish",
+    "value": 2,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-10",
+    "language": "Italian",
+    "value": 119,
+    "lastValue": 109
+  },
+  {
+    "year": "2021-10",
+    "language": "French",
+    "value": 23,
+    "lastValue": 22
+  },
+  {
+    "year": "2021-10",
+    "language": "Slovenian",
+    "value": 3,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-10",
+    "language": "Catalan",
+    "value": 5,
+    "lastValue": 5
+  },
+  {
+    "year": "2021-10",
+    "language": "Malayalam",
+    "value": 3,
+    "lastValue": 3
+  },
+  {
+    "year": "2021-10",
+    "language": "Swahili (macrolanguage)",
+    "value": 2,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-10",
+    "language": "Croatian",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-10",
+    "language": "Latvian",
+    "value": 2,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-10",
+    "language": "Marathi",
+    "value": 5,
+    "lastValue": 5
+  },
+  {
+    "year": "2021-10",
+    "language": "Nepali (macrolanguage)",
+    "value": 5,
+    "lastValue": 5
+  },
+  {
+    "year": "2021-10",
+    "language": "Norwegian",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-10",
+    "language": "Slovak",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-10",
+    "language": "Hungarian",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-10",
+    "language": "Panjabi",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-10",
+    "language": "Persian",
+    "value": 17,
+    "lastValue": 12
+  },
+  {
+    "year": "2021-10",
+    "language": "Dutch",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-10",
+    "language": "Portuguese",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-10",
+    "language": "Albanian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-10",
+    "language": "Lithuanian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-10",
+    "language": "Spanish",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-10",
+    "language": "Telugu",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-10",
+    "language": "Vietnamese",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-10",
+    "language": "Czech",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-10",
+    "language": "Russian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-10",
+    "language": "Tamil",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-11",
+    "language": "Estonian",
+    "value": 5,
+    "lastValue": 5
+  },
+  {
+    "year": "2021-11",
+    "language": "German",
+    "value": 24,
+    "lastValue": 20
+  },
+  {
+    "year": "2021-11",
+    "language": "Indonesian",
+    "value": 27,
+    "lastValue": 25
+  },
+  {
+    "year": "2021-11",
+    "language": "Polish",
+    "value": 17,
+    "lastValue": 16
+  },
+  {
+    "year": "2021-11",
+    "language": "Romanian",
+    "value": 11,
+    "lastValue": 10
+  },
+  {
+    "year": "2021-11",
+    "language": "Tagalog",
+    "value": 20,
+    "lastValue": 19
+  },
+  {
+    "year": "2021-11",
+    "language": "Turkish",
+    "value": 3,
+    "lastValue": 3
+  },
+  {
+    "year": "2021-11",
+    "language": "Welsh",
+    "value": 8,
+    "lastValue": 7
+  },
+  {
+    "year": "2021-11",
+    "language": "Finnish",
+    "value": 5,
+    "lastValue": 5
+  },
+  {
+    "year": "2021-11",
+    "language": "Hindi",
+    "value": 290,
+    "lastValue": 270
+  },
+  {
+    "year": "2021-11",
+    "language": "Somali",
+    "value": 4,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-11",
+    "language": "Swedish",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-11",
+    "language": "Afrikaans",
+    "value": 10,
+    "lastValue": 9
+  },
+  {
+    "year": "2021-11",
+    "language": "Bengali",
+    "value": 294,
+    "lastValue": 294
+  },
+  {
+    "year": "2021-11",
+    "language": "Danish",
+    "value": 2,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-11",
+    "language": "Italian",
+    "value": 1792,
+    "lastValue": 119
+  },
+  {
+    "year": "2021-11",
+    "language": "French",
+    "value": 27,
+    "lastValue": 23
+  },
+  {
+    "year": "2021-11",
+    "language": "Slovenian",
+    "value": 4,
+    "lastValue": 3
+  },
+  {
+    "year": "2021-11",
+    "language": "Catalan",
+    "value": 5,
+    "lastValue": 5
+  },
+  {
+    "year": "2021-11",
+    "language": "Malayalam",
+    "value": 3,
+    "lastValue": 3
+  },
+  {
+    "year": "2021-11",
+    "language": "Swahili (macrolanguage)",
+    "value": 3,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-11",
+    "language": "Croatian",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-11",
+    "language": "Latvian",
+    "value": 2,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-11",
+    "language": "Marathi",
+    "value": 5,
+    "lastValue": 5
+  },
+  {
+    "year": "2021-11",
+    "language": "Nepali (macrolanguage)",
+    "value": 5,
+    "lastValue": 5
+  },
+  {
+    "year": "2021-11",
+    "language": "Norwegian",
+    "value": 3,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-11",
+    "language": "Slovak",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-11",
+    "language": "Hungarian",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-11",
+    "language": "Panjabi",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-11",
+    "language": "Persian",
+    "value": 17,
+    "lastValue": 17
+  },
+  {
+    "year": "2021-11",
+    "language": "Dutch",
+    "value": 1,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-11",
+    "language": "Portuguese",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-11",
+    "language": "Albanian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-11",
+    "language": "Lithuanian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-11",
+    "language": "Spanish",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-11",
+    "language": "Telugu",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-11",
+    "language": "Vietnamese",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-11",
+    "language": "Czech",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-11",
+    "language": "Russian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-11",
+    "language": "Tamil",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-12",
+    "language": "Estonian",
+    "value": 5,
+    "lastValue": 5
+  },
+  {
+    "year": "2021-12",
+    "language": "German",
+    "value": 25,
+    "lastValue": 24
+  },
+  {
+    "year": "2021-12",
+    "language": "Indonesian",
+    "value": 49,
+    "lastValue": 27
+  },
+  {
+    "year": "2021-12",
+    "language": "Polish",
+    "value": 18,
+    "lastValue": 17
+  },
+  {
+    "year": "2021-12",
+    "language": "Romanian",
+    "value": 12,
+    "lastValue": 11
+  },
+  {
+    "year": "2021-12",
+    "language": "Tagalog",
+    "value": 22,
+    "lastValue": 20
+  },
+  {
+    "year": "2021-12",
+    "language": "Turkish",
+    "value": 3,
+    "lastValue": 3
+  },
+  {
+    "year": "2021-12",
+    "language": "Welsh",
+    "value": 11,
+    "lastValue": 8
+  },
+  {
+    "year": "2021-12",
+    "language": "Finnish",
+    "value": 5,
+    "lastValue": 5
+  },
+  {
+    "year": "2021-12",
+    "language": "Hindi",
+    "value": 290,
+    "lastValue": 290
+  },
+  {
+    "year": "2021-12",
+    "language": "Somali",
+    "value": 4,
+    "lastValue": 4
+  },
+  {
+    "year": "2021-12",
+    "language": "Swedish",
+    "value": 2,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-12",
+    "language": "Afrikaans",
+    "value": 12,
+    "lastValue": 10
+  },
+  {
+    "year": "2021-12",
+    "language": "Bengali",
+    "value": 2640,
+    "lastValue": 294
+  },
+  {
+    "year": "2021-12",
+    "language": "Danish",
+    "value": 2,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-12",
+    "language": "Italian",
+    "value": 2142,
+    "lastValue": 1792
+  },
+  {
+    "year": "2021-12",
+    "language": "French",
+    "value": 32,
+    "lastValue": 27
+  },
+  {
+    "year": "2021-12",
+    "language": "Slovenian",
+    "value": 5,
+    "lastValue": 4
+  },
+  {
+    "year": "2021-12",
+    "language": "Catalan",
+    "value": 10,
+    "lastValue": 5
+  },
+  {
+    "year": "2021-12",
+    "language": "Malayalam",
+    "value": 3,
+    "lastValue": 3
+  },
+  {
+    "year": "2021-12",
+    "language": "Swahili (macrolanguage)",
+    "value": 4,
+    "lastValue": 3
+  },
+  {
+    "year": "2021-12",
+    "language": "Croatian",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-12",
+    "language": "Latvian",
+    "value": 2,
+    "lastValue": 2
+  },
+  {
+    "year": "2021-12",
+    "language": "Marathi",
+    "value": 5,
+    "lastValue": 5
+  },
+  {
+    "year": "2021-12",
+    "language": "Nepali (macrolanguage)",
+    "value": 5,
+    "lastValue": 5
+  },
+  {
+    "year": "2021-12",
+    "language": "Norwegian",
+    "value": 5,
+    "lastValue": 3
+  },
+  {
+    "year": "2021-12",
+    "language": "Slovak",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-12",
+    "language": "Hungarian",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-12",
+    "language": "Panjabi",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-12",
+    "language": "Persian",
+    "value": 17,
+    "lastValue": 17
+  },
+  {
+    "year": "2021-12",
+    "language": "Dutch",
+    "value": 2,
+    "lastValue": 1
+  },
+  {
+    "year": "2021-12",
+    "language": "Portuguese",
+    "value": 3,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-12",
+    "language": "Albanian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-12",
+    "language": "Lithuanian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-12",
+    "language": "Spanish",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-12",
+    "language": "Telugu",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-12",
+    "language": "Vietnamese",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-12",
+    "language": "Czech",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-12",
+    "language": "Russian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2021-12",
+    "language": "Tamil",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2022-01",
+    "language": "Estonian",
+    "value": 26,
+    "lastValue": 5
+  },
+  {
+    "year": "2022-01",
+    "language": "German",
+    "value": 71,
+    "lastValue": 25
+  },
+  {
+    "year": "2022-01",
+    "language": "Indonesian",
+    "value": 70,
+    "lastValue": 49
+  },
+  {
+    "year": "2022-01",
+    "language": "Polish",
+    "value": 26,
+    "lastValue": 18
+  },
+  {
+    "year": "2022-01",
+    "language": "Romanian",
+    "value": 44,
+    "lastValue": 12
+  },
+  {
+    "year": "2022-01",
+    "language": "Tagalog",
+    "value": 67,
+    "lastValue": 22
+  },
+  {
+    "year": "2022-01",
+    "language": "Turkish",
+    "value": 12,
+    "lastValue": 3
+  },
+  {
+    "year": "2022-01",
+    "language": "Welsh",
+    "value": 37,
+    "lastValue": 11
+  },
+  {
+    "year": "2022-01",
+    "language": "Finnish",
+    "value": 14,
+    "lastValue": 5
+  },
+  {
+    "year": "2022-01",
+    "language": "Hindi",
+    "value": 308,
+    "lastValue": 290
+  },
+  {
+    "year": "2022-01",
+    "language": "Somali",
+    "value": 56,
+    "lastValue": 4
+  },
+  {
+    "year": "2022-01",
+    "language": "Swedish",
+    "value": 19,
+    "lastValue": 2
+  },
+  {
+    "year": "2022-01",
+    "language": "Afrikaans",
+    "value": 72,
+    "lastValue": 12
+  },
+  {
+    "year": "2022-01",
+    "language": "Bengali",
+    "value": 2640,
+    "lastValue": 2640
+  },
+  {
+    "year": "2022-01",
+    "language": "Danish",
+    "value": 26,
+    "lastValue": 2
+  },
+  {
+    "year": "2022-01",
+    "language": "Italian",
+    "value": 8605,
+    "lastValue": 2142
+  },
+  {
+    "year": "2022-01",
+    "language": "French",
+    "value": 84,
+    "lastValue": 32
+  },
+  {
+    "year": "2022-01",
+    "language": "Slovenian",
+    "value": 24,
+    "lastValue": 5
+  },
+  {
+    "year": "2022-01",
+    "language": "Catalan",
+    "value": 51,
+    "lastValue": 10
+  },
+  {
+    "year": "2022-01",
+    "language": "Malayalam",
+    "value": 4,
+    "lastValue": 3
+  },
+  {
+    "year": "2022-01",
+    "language": "Swahili (macrolanguage)",
+    "value": 29,
+    "lastValue": 4
+  },
+  {
+    "year": "2022-01",
+    "language": "Croatian",
+    "value": 7,
+    "lastValue": 1
+  },
+  {
+    "year": "2022-01",
+    "language": "Latvian",
+    "value": 3,
+    "lastValue": 2
+  },
+  {
+    "year": "2022-01",
+    "language": "Marathi",
+    "value": 6,
+    "lastValue": 5
+  },
+  {
+    "year": "2022-01",
+    "language": "Nepali (macrolanguage)",
+    "value": 8,
+    "lastValue": 5
+  },
+  {
+    "year": "2022-01",
+    "language": "Norwegian",
+    "value": 55,
+    "lastValue": 5
+  },
+  {
+    "year": "2022-01",
+    "language": "Slovak",
+    "value": 3,
+    "lastValue": 1
+  },
+  {
+    "year": "2022-01",
+    "language": "Hungarian",
+    "value": 3,
+    "lastValue": 1
+  },
+  {
+    "year": "2022-01",
+    "language": "Panjabi",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2022-01",
+    "language": "Persian",
+    "value": 18,
+    "lastValue": 17
+  },
+  {
+    "year": "2022-01",
+    "language": "Dutch",
+    "value": 25,
+    "lastValue": 2
+  },
+  {
+    "year": "2022-01",
+    "language": "Portuguese",
+    "value": 47,
+    "lastValue": 3
+  },
+  {
+    "year": "2022-01",
+    "language": "Albanian",
+    "value": 18,
+    "lastValue": 0
+  },
+  {
+    "year": "2022-01",
+    "language": "Lithuanian",
+    "value": 2,
+    "lastValue": 0
+  },
+  {
+    "year": "2022-01",
+    "language": "Spanish",
+    "value": 7,
+    "lastValue": 0
+  },
+  {
+    "year": "2022-01",
+    "language": "Telugu",
+    "value": 1,
+    "lastValue": 0
+  },
+  {
+    "year": "2022-01",
+    "language": "Vietnamese",
+    "value": 5,
+    "lastValue": 0
+  },
+  {
+    "year": "2022-01",
+    "language": "Czech",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2022-01",
+    "language": "Russian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2022-01",
+    "language": "Tamil",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2022-02",
+    "language": "Estonian",
+    "value": 36,
+    "lastValue": 26
+  },
+  {
+    "year": "2022-02",
+    "language": "German",
+    "value": 90,
+    "lastValue": 71
+  },
+  {
+    "year": "2022-02",
+    "language": "Indonesian",
+    "value": 75,
+    "lastValue": 70
+  },
+  {
+    "year": "2022-02",
+    "language": "Polish",
+    "value": 31,
+    "lastValue": 26
+  },
+  {
+    "year": "2022-02",
+    "language": "Romanian",
+    "value": 54,
+    "lastValue": 44
+  },
+  {
+    "year": "2022-02",
+    "language": "Tagalog",
+    "value": 80,
+    "lastValue": 67
+  },
+  {
+    "year": "2022-02",
+    "language": "Turkish",
+    "value": 13,
+    "lastValue": 12
+  },
+  {
+    "year": "2022-02",
+    "language": "Welsh",
+    "value": 44,
+    "lastValue": 37
+  },
+  {
+    "year": "2022-02",
+    "language": "Finnish",
+    "value": 15,
+    "lastValue": 14
+  },
+  {
+    "year": "2022-02",
+    "language": "Hindi",
+    "value": 395,
+    "lastValue": 308
+  },
+  {
+    "year": "2022-02",
+    "language": "Somali",
+    "value": 69,
+    "lastValue": 56
+  },
+  {
+    "year": "2022-02",
+    "language": "Swedish",
+    "value": 20,
+    "lastValue": 19
+  },
+  {
+    "year": "2022-02",
+    "language": "Afrikaans",
+    "value": 80,
+    "lastValue": 72
+  },
+  {
+    "year": "2022-02",
+    "language": "Bengali",
+    "value": 2640,
+    "lastValue": 2640
+  },
+  {
+    "year": "2022-02",
+    "language": "Danish",
+    "value": 27,
+    "lastValue": 26
+  },
+  {
+    "year": "2022-02",
+    "language": "Italian",
+    "value": 8610,
+    "lastValue": 8605
+  },
+  {
+    "year": "2022-02",
+    "language": "French",
+    "value": 101,
+    "lastValue": 84
+  },
+  {
+    "year": "2022-02",
+    "language": "Slovenian",
+    "value": 26,
+    "lastValue": 24
+  },
+  {
+    "year": "2022-02",
+    "language": "Catalan",
+    "value": 52,
+    "lastValue": 51
+  },
+  {
+    "year": "2022-02",
+    "language": "Malayalam",
+    "value": 4,
+    "lastValue": 4
+  },
+  {
+    "year": "2022-02",
+    "language": "Swahili (macrolanguage)",
+    "value": 29,
+    "lastValue": 29
+  },
+  {
+    "year": "2022-02",
+    "language": "Croatian",
+    "value": 8,
+    "lastValue": 7
+  },
+  {
+    "year": "2022-02",
+    "language": "Latvian",
+    "value": 3,
+    "lastValue": 3
+  },
+  {
+    "year": "2022-02",
+    "language": "Marathi",
+    "value": 6,
+    "lastValue": 6
+  },
+  {
+    "year": "2022-02",
+    "language": "Nepali (macrolanguage)",
+    "value": 8,
+    "lastValue": 8
+  },
+  {
+    "year": "2022-02",
+    "language": "Norwegian",
+    "value": 61,
+    "lastValue": 55
+  },
+  {
+    "year": "2022-02",
+    "language": "Slovak",
+    "value": 5,
+    "lastValue": 3
+  },
+  {
+    "year": "2022-02",
+    "language": "Hungarian",
+    "value": 5,
+    "lastValue": 3
+  },
+  {
+    "year": "2022-02",
+    "language": "Panjabi",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2022-02",
+    "language": "Persian",
+    "value": 19,
+    "lastValue": 18
+  },
+  {
+    "year": "2022-02",
+    "language": "Dutch",
+    "value": 34,
+    "lastValue": 25
+  },
+  {
+    "year": "2022-02",
+    "language": "Portuguese",
+    "value": 47,
+    "lastValue": 47
+  },
+  {
+    "year": "2022-02",
+    "language": "Albanian",
+    "value": 22,
+    "lastValue": 18
+  },
+  {
+    "year": "2022-02",
+    "language": "Lithuanian",
+    "value": 2,
+    "lastValue": 2
+  },
+  {
+    "year": "2022-02",
+    "language": "Spanish",
+    "value": 9,
+    "lastValue": 7
+  },
+  {
+    "year": "2022-02",
+    "language": "Telugu",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2022-02",
+    "language": "Vietnamese",
+    "value": 8,
+    "lastValue": 5
+  },
+  {
+    "year": "2022-02",
+    "language": "Czech",
+    "value": 1,
+    "lastValue": 0
+  },
+  {
+    "year": "2022-02",
+    "language": "Russian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2022-02",
+    "language": "Tamil",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2022-03",
+    "language": "Estonian",
+    "value": 40,
+    "lastValue": 36
+  },
+  {
+    "year": "2022-03",
+    "language": "German",
+    "value": 105,
+    "lastValue": 90
+  },
+  {
+    "year": "2022-03",
+    "language": "Indonesian",
+    "value": 83,
+    "lastValue": 75
+  },
+  {
+    "year": "2022-03",
+    "language": "Polish",
+    "value": 37,
+    "lastValue": 31
+  },
+  {
+    "year": "2022-03",
+    "language": "Romanian",
+    "value": 63,
+    "lastValue": 54
+  },
+  {
+    "year": "2022-03",
+    "language": "Tagalog",
+    "value": 89,
+    "lastValue": 80
+  },
+  {
+    "year": "2022-03",
+    "language": "Turkish",
+    "value": 19,
+    "lastValue": 13
+  },
+  {
+    "year": "2022-03",
+    "language": "Welsh",
+    "value": 54,
+    "lastValue": 44
+  },
+  {
+    "year": "2022-03",
+    "language": "Finnish",
+    "value": 20,
+    "lastValue": 15
+  },
+  {
+    "year": "2022-03",
+    "language": "Hindi",
+    "value": 427,
+    "lastValue": 395
+  },
+  {
+    "year": "2022-03",
+    "language": "Somali",
+    "value": 82,
+    "lastValue": 69
+  },
+  {
+    "year": "2022-03",
+    "language": "Swedish",
+    "value": 21,
+    "lastValue": 20
+  },
+  {
+    "year": "2022-03",
+    "language": "Afrikaans",
+    "value": 94,
+    "lastValue": 80
+  },
+  {
+    "year": "2022-03",
+    "language": "Bengali",
+    "value": 2641,
+    "lastValue": 2640
+  },
+  {
+    "year": "2022-03",
+    "language": "Danish",
+    "value": 31,
+    "lastValue": 27
+  },
+  {
+    "year": "2022-03",
+    "language": "Italian",
+    "value": 8618,
+    "lastValue": 8610
+  },
+  {
+    "year": "2022-03",
+    "language": "French",
+    "value": 111,
+    "lastValue": 101
+  },
+  {
+    "year": "2022-03",
+    "language": "Slovenian",
+    "value": 29,
+    "lastValue": 26
+  },
+  {
+    "year": "2022-03",
+    "language": "Catalan",
+    "value": 55,
+    "lastValue": 52
+  },
+  {
+    "year": "2022-03",
+    "language": "Malayalam",
+    "value": 24,
+    "lastValue": 4
+  },
+  {
+    "year": "2022-03",
+    "language": "Swahili (macrolanguage)",
+    "value": 39,
+    "lastValue": 29
+  },
+  {
+    "year": "2022-03",
+    "language": "Croatian",
+    "value": 9,
+    "lastValue": 8
+  },
+  {
+    "year": "2022-03",
+    "language": "Latvian",
+    "value": 3,
+    "lastValue": 3
+  },
+  {
+    "year": "2022-03",
+    "language": "Marathi",
+    "value": 6,
+    "lastValue": 6
+  },
+  {
+    "year": "2022-03",
+    "language": "Nepali (macrolanguage)",
+    "value": 8,
+    "lastValue": 8
+  },
+  {
+    "year": "2022-03",
+    "language": "Norwegian",
+    "value": 76,
+    "lastValue": 61
+  },
+  {
+    "year": "2022-03",
+    "language": "Slovak",
+    "value": 6,
+    "lastValue": 5
+  },
+  {
+    "year": "2022-03",
+    "language": "Hungarian",
+    "value": 5,
+    "lastValue": 5
+  },
+  {
+    "year": "2022-03",
+    "language": "Panjabi",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2022-03",
+    "language": "Persian",
+    "value": 19,
+    "lastValue": 19
+  },
+  {
+    "year": "2022-03",
+    "language": "Dutch",
+    "value": 42,
+    "lastValue": 34
+  },
+  {
+    "year": "2022-03",
+    "language": "Portuguese",
+    "value": 48,
+    "lastValue": 47
+  },
+  {
+    "year": "2022-03",
+    "language": "Albanian",
+    "value": 25,
+    "lastValue": 22
+  },
+  {
+    "year": "2022-03",
+    "language": "Lithuanian",
+    "value": 5,
+    "lastValue": 2
+  },
+  {
+    "year": "2022-03",
+    "language": "Spanish",
+    "value": 11,
+    "lastValue": 9
+  },
+  {
+    "year": "2022-03",
+    "language": "Telugu",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2022-03",
+    "language": "Vietnamese",
+    "value": 10,
+    "lastValue": 8
+  },
+  {
+    "year": "2022-03",
+    "language": "Czech",
+    "value": 2,
+    "lastValue": 1
+  },
+  {
+    "year": "2022-03",
+    "language": "Russian",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2022-03",
+    "language": "Tamil",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2022-04",
+    "language": "Estonian",
+    "value": 45,
+    "lastValue": 40
+  },
+  {
+    "year": "2022-04",
+    "language": "German",
+    "value": 170,
+    "lastValue": 105
+  },
+  {
+    "year": "2022-04",
+    "language": "Indonesian",
+    "value": 91,
+    "lastValue": 83
+  },
+  {
+    "year": "2022-04",
+    "language": "Polish",
+    "value": 39,
+    "lastValue": 37
+  },
+  {
+    "year": "2022-04",
+    "language": "Romanian",
+    "value": 67,
+    "lastValue": 63
+  },
+  {
+    "year": "2022-04",
+    "language": "Tagalog",
+    "value": 95,
+    "lastValue": 89
+  },
+  {
+    "year": "2022-04",
+    "language": "Turkish",
+    "value": 22,
+    "lastValue": 19
+  },
+  {
+    "year": "2022-04",
+    "language": "Welsh",
+    "value": 61,
+    "lastValue": 54
+  },
+  {
+    "year": "2022-04",
+    "language": "Finnish",
+    "value": 21,
+    "lastValue": 20
+  },
+  {
+    "year": "2022-04",
+    "language": "Hindi",
+    "value": 437,
+    "lastValue": 427
+  },
+  {
+    "year": "2022-04",
+    "language": "Somali",
+    "value": 98,
+    "lastValue": 82
+  },
+  {
+    "year": "2022-04",
+    "language": "Swedish",
+    "value": 22,
+    "lastValue": 21
+  },
+  {
+    "year": "2022-04",
+    "language": "Afrikaans",
+    "value": 98,
+    "lastValue": 94
+  },
+  {
+    "year": "2022-04",
+    "language": "Bengali",
+    "value": 2641,
+    "lastValue": 2641
+  },
+  {
+    "year": "2022-04",
+    "language": "Danish",
+    "value": 33,
+    "lastValue": 31
+  },
+  {
+    "year": "2022-04",
+    "language": "Italian",
+    "value": 8619,
+    "lastValue": 8618
+  },
+  {
+    "year": "2022-04",
+    "language": "French",
+    "value": 118,
+    "lastValue": 111
+  },
+  {
+    "year": "2022-04",
+    "language": "Slovenian",
+    "value": 29,
+    "lastValue": 29
+  },
+  {
+    "year": "2022-04",
+    "language": "Catalan",
+    "value": 57,
+    "lastValue": 55
+  },
+  {
+    "year": "2022-04",
+    "language": "Malayalam",
+    "value": 83,
+    "lastValue": 24
+  },
+  {
+    "year": "2022-04",
+    "language": "Swahili (macrolanguage)",
+    "value": 43,
+    "lastValue": 39
+  },
+  {
+    "year": "2022-04",
+    "language": "Croatian",
+    "value": 11,
+    "lastValue": 9
+  },
+  {
+    "year": "2022-04",
+    "language": "Latvian",
+    "value": 3,
+    "lastValue": 3
+  },
+  {
+    "year": "2022-04",
+    "language": "Marathi",
+    "value": 6,
+    "lastValue": 6
+  },
+  {
+    "year": "2022-04",
+    "language": "Nepali (macrolanguage)",
+    "value": 8,
+    "lastValue": 8
+  },
+  {
+    "year": "2022-04",
+    "language": "Norwegian",
+    "value": 79,
+    "lastValue": 76
+  },
+  {
+    "year": "2022-04",
+    "language": "Slovak",
+    "value": 6,
+    "lastValue": 6
+  },
+  {
+    "year": "2022-04",
+    "language": "Hungarian",
+    "value": 5,
+    "lastValue": 5
+  },
+  {
+    "year": "2022-04",
+    "language": "Panjabi",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2022-04",
+    "language": "Persian",
+    "value": 20,
+    "lastValue": 19
+  },
+  {
+    "year": "2022-04",
+    "language": "Dutch",
+    "value": 47,
+    "lastValue": 42
+  },
+  {
+    "year": "2022-04",
+    "language": "Portuguese",
+    "value": 48,
+    "lastValue": 48
+  },
+  {
+    "year": "2022-04",
+    "language": "Albanian",
+    "value": 27,
+    "lastValue": 25
+  },
+  {
+    "year": "2022-04",
+    "language": "Lithuanian",
+    "value": 5,
+    "lastValue": 5
+  },
+  {
+    "year": "2022-04",
+    "language": "Spanish",
+    "value": 11,
+    "lastValue": 11
+  },
+  {
+    "year": "2022-04",
+    "language": "Telugu",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2022-04",
+    "language": "Vietnamese",
+    "value": 11,
+    "lastValue": 10
+  },
+  {
+    "year": "2022-04",
+    "language": "Czech",
+    "value": 2,
+    "lastValue": 2
+  },
+  {
+    "year": "2022-04",
+    "language": "Russian",
+    "value": 9,
+    "lastValue": 0
+  },
+  {
+    "year": "2022-04",
+    "language": "Tamil",
+    "value": 0,
+    "lastValue": 0
+  },
+  {
+    "year": "2022-05",
+    "language": "Estonian",
+    "value": 47,
+    "lastValue": 45
+  },
+  {
+    "year": "2022-05",
+    "language": "German",
+    "value": 172,
+    "lastValue": 170
+  },
+  {
+    "year": "2022-05",
+    "language": "Indonesian",
+    "value": 95,
+    "lastValue": 91
+  },
+  {
+    "year": "2022-05",
+    "language": "Polish",
+    "value": 39,
+    "lastValue": 39
+  },
+  {
+    "year": "2022-05",
+    "language": "Romanian",
+    "value": 69,
+    "lastValue": 67
+  },
+  {
+    "year": "2022-05",
+    "language": "Tagalog",
+    "value": 98,
+    "lastValue": 95
+  },
+  {
+    "year": "2022-05",
+    "language": "Turkish",
+    "value": 22,
+    "lastValue": 22
+  },
+  {
+    "year": "2022-05",
+    "language": "Welsh",
+    "value": 63,
+    "lastValue": 61
+  },
+  {
+    "year": "2022-05",
+    "language": "Finnish",
+    "value": 21,
+    "lastValue": 21
+  },
+  {
+    "year": "2022-05",
+    "language": "Hindi",
+    "value": 499,
+    "lastValue": 437
+  },
+  {
+    "year": "2022-05",
+    "language": "Somali",
+    "value": 98,
+    "lastValue": 98
+  },
+  {
+    "year": "2022-05",
+    "language": "Swedish",
+    "value": 25,
+    "lastValue": 22
+  },
+  {
+    "year": "2022-05",
+    "language": "Afrikaans",
+    "value": 101,
+    "lastValue": 98
+  },
+  {
+    "year": "2022-05",
+    "language": "Bengali",
+    "value": 2641,
+    "lastValue": 2641
+  },
+  {
+    "year": "2022-05",
+    "language": "Danish",
+    "value": 34,
+    "lastValue": 33
+  },
+  {
+    "year": "2022-05",
+    "language": "Italian",
+    "value": 8620,
+    "lastValue": 8619
+  },
+  {
+    "year": "2022-05",
+    "language": "French",
+    "value": 215,
+    "lastValue": 118
+  },
+  {
+    "year": "2022-05",
+    "language": "Slovenian",
+    "value": 29,
+    "lastValue": 29
+  },
+  {
+    "year": "2022-05",
+    "language": "Catalan",
+    "value": 59,
+    "lastValue": 57
+  },
+  {
+    "year": "2022-05",
+    "language": "Malayalam",
+    "value": 90,
+    "lastValue": 83
+  },
+  {
+    "year": "2022-05",
+    "language": "Swahili (macrolanguage)",
+    "value": 43,
+    "lastValue": 43
+  },
+  {
+    "year": "2022-05",
+    "language": "Croatian",
+    "value": 12,
+    "lastValue": 11
+  },
+  {
+    "year": "2022-05",
+    "language": "Latvian",
+    "value": 3,
+    "lastValue": 3
+  },
+  {
+    "year": "2022-05",
+    "language": "Marathi",
+    "value": 6,
+    "lastValue": 6
+  },
+  {
+    "year": "2022-05",
+    "language": "Nepali (macrolanguage)",
+    "value": 8,
+    "lastValue": 8
+  },
+  {
+    "year": "2022-05",
+    "language": "Norwegian",
+    "value": 82,
+    "lastValue": 79
+  },
+  {
+    "year": "2022-05",
+    "language": "Slovak",
+    "value": 6,
+    "lastValue": 6
+  },
+  {
+    "year": "2022-05",
+    "language": "Hungarian",
+    "value": 5,
+    "lastValue": 5
+  },
+  {
+    "year": "2022-05",
+    "language": "Panjabi",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2022-05",
+    "language": "Persian",
+    "value": 20,
+    "lastValue": 20
+  },
+  {
+    "year": "2022-05",
+    "language": "Dutch",
+    "value": 49,
+    "lastValue": 47
+  },
+  {
+    "year": "2022-05",
+    "language": "Portuguese",
+    "value": 48,
+    "lastValue": 48
+  },
+  {
+    "year": "2022-05",
+    "language": "Albanian",
+    "value": 27,
+    "lastValue": 27
+  },
+  {
+    "year": "2022-05",
+    "language": "Lithuanian",
+    "value": 5,
+    "lastValue": 5
+  },
+  {
+    "year": "2022-05",
+    "language": "Spanish",
+    "value": 11,
+    "lastValue": 11
+  },
+  {
+    "year": "2022-05",
+    "language": "Telugu",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2022-05",
+    "language": "Vietnamese",
+    "value": 11,
+    "lastValue": 11
+  },
+  {
+    "year": "2022-05",
+    "language": "Czech",
+    "value": 2,
+    "lastValue": 2
+  },
+  {
+    "year": "2022-05",
+    "language": "Russian",
+    "value": 9,
+    "lastValue": 9
+  },
+  {
+    "year": "2022-05",
+    "language": "Tamil",
+    "value": 3,
+    "lastValue": 0
+  },
+  {
+    "year": "2022-06",
+    "language": "Estonian",
+    "value": 48,
+    "lastValue": 47
+  },
+  {
+    "year": "2022-06",
+    "language": "German",
+    "value": 175,
+    "lastValue": 172
+  },
+  {
+    "year": "2022-06",
+    "language": "Indonesian",
+    "value": 95,
+    "lastValue": 95
+  },
+  {
+    "year": "2022-06",
+    "language": "Polish",
+    "value": 40,
+    "lastValue": 39
+  },
+  {
+    "year": "2022-06",
+    "language": "Romanian",
+    "value": 74,
+    "lastValue": 69
+  },
+  {
+    "year": "2022-06",
+    "language": "Tagalog",
+    "value": 101,
+    "lastValue": 98
+  },
+  {
+    "year": "2022-06",
+    "language": "Turkish",
+    "value": 24,
+    "lastValue": 22
+  },
+  {
+    "year": "2022-06",
+    "language": "Welsh",
+    "value": 72,
+    "lastValue": 63
+  },
+  {
+    "year": "2022-06",
+    "language": "Finnish",
+    "value": 23,
+    "lastValue": 21
+  },
+  {
+    "year": "2022-06",
+    "language": "Hindi",
+    "value": 502,
+    "lastValue": 499
+  },
+  {
+    "year": "2022-06",
+    "language": "Somali",
+    "value": 103,
+    "lastValue": 98
+  },
+  {
+    "year": "2022-06",
+    "language": "Swedish",
+    "value": 27,
+    "lastValue": 25
+  },
+  {
+    "year": "2022-06",
+    "language": "Afrikaans",
+    "value": 111,
+    "lastValue": 101
+  },
+  {
+    "year": "2022-06",
+    "language": "Bengali",
+    "value": 2688,
+    "lastValue": 2641
+  },
+  {
+    "year": "2022-06",
+    "language": "Danish",
+    "value": 37,
+    "lastValue": 34
+  },
+  {
+    "year": "2022-06",
+    "language": "Italian",
+    "value": 8624,
+    "lastValue": 8620
+  },
+  {
+    "year": "2022-06",
+    "language": "French",
+    "value": 233,
+    "lastValue": 215
+  },
+  {
+    "year": "2022-06",
+    "language": "Slovenian",
+    "value": 32,
+    "lastValue": 29
+  },
+  {
+    "year": "2022-06",
+    "language": "Catalan",
+    "value": 61,
+    "lastValue": 59
+  },
+  {
+    "year": "2022-06",
+    "language": "Malayalam",
+    "value": 153,
+    "lastValue": 90
+  },
+  {
+    "year": "2022-06",
+    "language": "Swahili (macrolanguage)",
+    "value": 44,
+    "lastValue": 43
+  },
+  {
+    "year": "2022-06",
+    "language": "Croatian",
+    "value": 12,
+    "lastValue": 12
+  },
+  {
+    "year": "2022-06",
+    "language": "Latvian",
+    "value": 3,
+    "lastValue": 3
+  },
+  {
+    "year": "2022-06",
+    "language": "Marathi",
+    "value": 6,
+    "lastValue": 6
+  },
+  {
+    "year": "2022-06",
+    "language": "Nepali (macrolanguage)",
+    "value": 8,
+    "lastValue": 8
+  },
+  {
+    "year": "2022-06",
+    "language": "Norwegian",
+    "value": 84,
+    "lastValue": 82
+  },
+  {
+    "year": "2022-06",
+    "language": "Slovak",
+    "value": 6,
+    "lastValue": 6
+  },
+  {
+    "year": "2022-06",
+    "language": "Hungarian",
+    "value": 5,
+    "lastValue": 5
+  },
+  {
+    "year": "2022-06",
+    "language": "Panjabi",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2022-06",
+    "language": "Persian",
+    "value": 20,
+    "lastValue": 20
+  },
+  {
+    "year": "2022-06",
+    "language": "Dutch",
+    "value": 50,
+    "lastValue": 49
+  },
+  {
+    "year": "2022-06",
+    "language": "Portuguese",
+    "value": 48,
+    "lastValue": 48
+  },
+  {
+    "year": "2022-06",
+    "language": "Albanian",
+    "value": 27,
+    "lastValue": 27
+  },
+  {
+    "year": "2022-06",
+    "language": "Lithuanian",
+    "value": 5,
+    "lastValue": 5
+  },
+  {
+    "year": "2022-06",
+    "language": "Spanish",
+    "value": 12,
+    "lastValue": 11
+  },
+  {
+    "year": "2022-06",
+    "language": "Telugu",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2022-06",
+    "language": "Vietnamese",
+    "value": 12,
+    "lastValue": 11
+  },
+  {
+    "year": "2022-06",
+    "language": "Czech",
+    "value": 3,
+    "lastValue": 2
+  },
+  {
+    "year": "2022-06",
+    "language": "Russian",
+    "value": 9,
+    "lastValue": 9
+  },
+  {
+    "year": "2022-06",
+    "language": "Tamil",
+    "value": 3,
+    "lastValue": 3
+  },
+  {
+    "year": "2022-07",
+    "language": "Estonian",
+    "value": 66,
+    "lastValue": 48
+  },
+  {
+    "year": "2022-07",
+    "language": "German",
+    "value": 230,
+    "lastValue": 175
+  },
+  {
+    "year": "2022-07",
+    "language": "Indonesian",
+    "value": 137,
+    "lastValue": 95
+  },
+  {
+    "year": "2022-07",
+    "language": "Polish",
+    "value": 52,
+    "lastValue": 40
+  },
+  {
+    "year": "2022-07",
+    "language": "Romanian",
+    "value": 134,
+    "lastValue": 74
+  },
+  {
+    "year": "2022-07",
+    "language": "Tagalog",
+    "value": 141,
+    "lastValue": 101
+  },
+  {
+    "year": "2022-07",
+    "language": "Turkish",
+    "value": 35,
+    "lastValue": 24
+  },
+  {
+    "year": "2022-07",
+    "language": "Welsh",
+    "value": 87,
+    "lastValue": 72
+  },
+  {
+    "year": "2022-07",
+    "language": "Finnish",
+    "value": 38,
+    "lastValue": 23
+  },
+  {
+    "year": "2022-07",
+    "language": "Hindi",
+    "value": 524,
+    "lastValue": 502
+  },
+  {
+    "year": "2022-07",
+    "language": "Somali",
+    "value": 152,
+    "lastValue": 103
+  },
+  {
+    "year": "2022-07",
+    "language": "Swedish",
+    "value": 40,
+    "lastValue": 27
+  },
+  {
+    "year": "2022-07",
+    "language": "Afrikaans",
+    "value": 179,
+    "lastValue": 111
+  },
+  {
+    "year": "2022-07",
+    "language": "Bengali",
+    "value": 2688,
+    "lastValue": 2688
+  },
+  {
+    "year": "2022-07",
+    "language": "Danish",
+    "value": 62,
+    "lastValue": 37
+  },
+  {
+    "year": "2022-07",
+    "language": "Italian",
+    "value": 8658,
+    "lastValue": 8624
+  },
+  {
+    "year": "2022-07",
+    "language": "French",
+    "value": 269,
+    "lastValue": 233
+  },
+  {
+    "year": "2022-07",
+    "language": "Slovenian",
+    "value": 64,
+    "lastValue": 32
+  },
+  {
+    "year": "2022-07",
+    "language": "Catalan",
+    "value": 78,
+    "lastValue": 61
+  },
+  {
+    "year": "2022-07",
+    "language": "Malayalam",
+    "value": 464,
+    "lastValue": 153
+  },
+  {
+    "year": "2022-07",
+    "language": "Swahili (macrolanguage)",
+    "value": 66,
+    "lastValue": 44
+  },
+  {
+    "year": "2022-07",
+    "language": "Croatian",
+    "value": 18,
+    "lastValue": 12
+  },
+  {
+    "year": "2022-07",
+    "language": "Latvian",
+    "value": 4,
+    "lastValue": 3
+  },
+  {
+    "year": "2022-07",
+    "language": "Marathi",
+    "value": 7,
+    "lastValue": 6
+  },
+  {
+    "year": "2022-07",
+    "language": "Nepali (macrolanguage)",
+    "value": 8,
+    "lastValue": 8
+  },
+  {
+    "year": "2022-07",
+    "language": "Norwegian",
+    "value": 114,
+    "lastValue": 84
+  },
+  {
+    "year": "2022-07",
+    "language": "Slovak",
+    "value": 11,
+    "lastValue": 6
+  },
+  {
+    "year": "2022-07",
+    "language": "Hungarian",
+    "value": 5,
+    "lastValue": 5
+  },
+  {
+    "year": "2022-07",
+    "language": "Panjabi",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2022-07",
+    "language": "Persian",
+    "value": 20,
+    "lastValue": 20
+  },
+  {
+    "year": "2022-07",
+    "language": "Dutch",
+    "value": 79,
+    "lastValue": 50
+  },
+  {
+    "year": "2022-07",
+    "language": "Portuguese",
+    "value": 55,
+    "lastValue": 48
+  },
+  {
+    "year": "2022-07",
+    "language": "Albanian",
+    "value": 44,
+    "lastValue": 27
+  },
+  {
+    "year": "2022-07",
+    "language": "Lithuanian",
+    "value": 7,
+    "lastValue": 5
+  },
+  {
+    "year": "2022-07",
+    "language": "Spanish",
+    "value": 19,
+    "lastValue": 12
+  },
+  {
+    "year": "2022-07",
+    "language": "Telugu",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2022-07",
+    "language": "Vietnamese",
+    "value": 16,
+    "lastValue": 12
+  },
+  {
+    "year": "2022-07",
+    "language": "Czech",
+    "value": 10,
+    "lastValue": 3
+  },
+  {
+    "year": "2022-07",
+    "language": "Russian",
+    "value": 9,
+    "lastValue": 9
+  },
+  {
+    "year": "2022-07",
+    "language": "Tamil",
+    "value": 3,
+    "lastValue": 3
+  },
+  {
+    "year": "2022-08",
+    "language": "Estonian",
+    "value": 100,
+    "lastValue": 66
+  },
+  {
+    "year": "2022-08",
+    "language": "German",
+    "value": 365,
+    "lastValue": 230
+  },
+  {
+    "year": "2022-08",
+    "language": "Indonesian",
+    "value": 352,
+    "lastValue": 137
+  },
+  {
+    "year": "2022-08",
+    "language": "Polish",
+    "value": 84,
+    "lastValue": 52
+  },
+  {
+    "year": "2022-08",
+    "language": "Romanian",
+    "value": 441,
+    "lastValue": 134
+  },
+  {
+    "year": "2022-08",
+    "language": "Tagalog",
+    "value": 387,
+    "lastValue": 141
+  },
+  {
+    "year": "2022-08",
+    "language": "Turkish",
+    "value": 63,
+    "lastValue": 35
+  },
+  {
+    "year": "2022-08",
+    "language": "Welsh",
+    "value": 210,
+    "lastValue": 87
+  },
+  {
+    "year": "2022-08",
+    "language": "Finnish",
+    "value": 70,
+    "lastValue": 38
+  },
+  {
+    "year": "2022-08",
+    "language": "Hindi",
+    "value": 559,
+    "lastValue": 524
+  },
+  {
+    "year": "2022-08",
+    "language": "Somali",
+    "value": 236,
+    "lastValue": 152
+  },
+  {
+    "year": "2022-08",
+    "language": "Swedish",
+    "value": 111,
+    "lastValue": 40
+  },
+  {
+    "year": "2022-08",
+    "language": "Afrikaans",
+    "value": 506,
+    "lastValue": 179
+  },
+  {
+    "year": "2022-08",
+    "language": "Bengali",
+    "value": 2690,
+    "lastValue": 2688
+  },
+  {
+    "year": "2022-08",
+    "language": "Danish",
+    "value": 116,
+    "lastValue": 62
+  },
+  {
+    "year": "2022-08",
+    "language": "Italian",
+    "value": 8858,
+    "lastValue": 8658
+  },
+  {
+    "year": "2022-08",
+    "language": "French",
+    "value": 368,
+    "lastValue": 269
+  },
+  {
+    "year": "2022-08",
+    "language": "Slovenian",
+    "value": 127,
+    "lastValue": 64
+  },
+  {
+    "year": "2022-08",
+    "language": "Catalan",
+    "value": 200,
+    "lastValue": 78
+  },
+  {
+    "year": "2022-08",
+    "language": "Malayalam",
+    "value": 486,
+    "lastValue": 464
+  },
+  {
+    "year": "2022-08",
+    "language": "Swahili (macrolanguage)",
+    "value": 120,
+    "lastValue": 66
+  },
+  {
+    "year": "2022-08",
+    "language": "Croatian",
+    "value": 31,
+    "lastValue": 18
+  },
+  {
+    "year": "2022-08",
+    "language": "Latvian",
+    "value": 12,
+    "lastValue": 4
+  },
+  {
+    "year": "2022-08",
+    "language": "Marathi",
+    "value": 8,
+    "lastValue": 7
+  },
+  {
+    "year": "2022-08",
+    "language": "Nepali (macrolanguage)",
+    "value": 8,
+    "lastValue": 8
+  },
+  {
+    "year": "2022-08",
+    "language": "Norwegian",
+    "value": 244,
+    "lastValue": 114
+  },
+  {
+    "year": "2022-08",
+    "language": "Slovak",
+    "value": 39,
+    "lastValue": 11
+  },
+  {
+    "year": "2022-08",
+    "language": "Hungarian",
+    "value": 6,
+    "lastValue": 5
+  },
+  {
+    "year": "2022-08",
+    "language": "Panjabi",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2022-08",
+    "language": "Persian",
+    "value": 20,
+    "lastValue": 20
+  },
+  {
+    "year": "2022-08",
+    "language": "Dutch",
+    "value": 167,
+    "lastValue": 79
+  },
+  {
+    "year": "2022-08",
+    "language": "Portuguese",
+    "value": 67,
+    "lastValue": 55
+  },
+  {
+    "year": "2022-08",
+    "language": "Albanian",
+    "value": 106,
+    "lastValue": 44
+  },
+  {
+    "year": "2022-08",
+    "language": "Lithuanian",
+    "value": 16,
+    "lastValue": 7
+  },
+  {
+    "year": "2022-08",
+    "language": "Spanish",
+    "value": 36,
+    "lastValue": 19
+  },
+  {
+    "year": "2022-08",
+    "language": "Telugu",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2022-08",
+    "language": "Vietnamese",
+    "value": 29,
+    "lastValue": 16
+  },
+  {
+    "year": "2022-08",
+    "language": "Czech",
+    "value": 31,
+    "lastValue": 10
+  },
+  {
+    "year": "2022-08",
+    "language": "Russian",
+    "value": 9,
+    "lastValue": 9
+  },
+  {
+    "year": "2022-08",
+    "language": "Tamil",
+    "value": 3,
+    "lastValue": 3
+  },
+  {
+    "year": "2022-09",
+    "language": "Estonian",
+    "value": 104,
+    "lastValue": 100
+  },
+  {
+    "year": "2022-09",
+    "language": "German",
+    "value": 380,
+    "lastValue": 365
+  },
+  {
+    "year": "2022-09",
+    "language": "Indonesian",
+    "value": 557,
+    "lastValue": 352
+  },
+  {
+    "year": "2022-09",
+    "language": "Polish",
+    "value": 91,
+    "lastValue": 84
+  },
+  {
+    "year": "2022-09",
+    "language": "Romanian",
+    "value": 743,
+    "lastValue": 441
+  },
+  {
+    "year": "2022-09",
+    "language": "Tagalog",
+    "value": 417,
+    "lastValue": 387
+  },
+  {
+    "year": "2022-09",
+    "language": "Turkish",
+    "value": 93,
+    "lastValue": 63
+  },
+  {
+    "year": "2022-09",
+    "language": "Welsh",
+    "value": 296,
+    "lastValue": 210
+  },
+  {
+    "year": "2022-09",
+    "language": "Finnish",
+    "value": 75,
+    "lastValue": 70
+  },
+  {
+    "year": "2022-09",
+    "language": "Hindi",
+    "value": 560,
+    "lastValue": 559
+  },
+  {
+    "year": "2022-09",
+    "language": "Somali",
+    "value": 243,
+    "lastValue": 236
+  },
+  {
+    "year": "2022-09",
+    "language": "Swedish",
+    "value": 122,
+    "lastValue": 111
+  },
+  {
+    "year": "2022-09",
+    "language": "Afrikaans",
+    "value": 922,
+    "lastValue": 506
+  },
+  {
+    "year": "2022-09",
+    "language": "Bengali",
+    "value": 2690,
+    "lastValue": 2690
+  },
+  {
+    "year": "2022-09",
+    "language": "Danish",
+    "value": 129,
+    "lastValue": 116
+  },
+  {
+    "year": "2022-09",
+    "language": "Italian",
+    "value": 9010,
+    "lastValue": 8858
+  },
+  {
+    "year": "2022-09",
+    "language": "French",
+    "value": 418,
+    "lastValue": 368
+  },
+  {
+    "year": "2022-09",
+    "language": "Slovenian",
+    "value": 144,
+    "lastValue": 127
+  },
+  {
+    "year": "2022-09",
+    "language": "Catalan",
+    "value": 383,
+    "lastValue": 200
+  },
+  {
+    "year": "2022-09",
+    "language": "Malayalam",
+    "value": 486,
+    "lastValue": 486
+  },
+  {
+    "year": "2022-09",
+    "language": "Swahili (macrolanguage)",
+    "value": 128,
+    "lastValue": 120
+  },
+  {
+    "year": "2022-09",
+    "language": "Croatian",
+    "value": 31,
+    "lastValue": 31
+  },
+  {
+    "year": "2022-09",
+    "language": "Latvian",
+    "value": 14,
+    "lastValue": 12
+  },
+  {
+    "year": "2022-09",
+    "language": "Marathi",
+    "value": 9,
+    "lastValue": 8
+  },
+  {
+    "year": "2022-09",
+    "language": "Nepali (macrolanguage)",
+    "value": 8,
+    "lastValue": 8
+  },
+  {
+    "year": "2022-09",
+    "language": "Norwegian",
+    "value": 284,
+    "lastValue": 244
+  },
+  {
+    "year": "2022-09",
+    "language": "Slovak",
+    "value": 40,
+    "lastValue": 39
+  },
+  {
+    "year": "2022-09",
+    "language": "Hungarian",
+    "value": 6,
+    "lastValue": 6
+  },
+  {
+    "year": "2022-09",
+    "language": "Panjabi",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2022-09",
+    "language": "Persian",
+    "value": 20,
+    "lastValue": 20
+  },
+  {
+    "year": "2022-09",
+    "language": "Dutch",
+    "value": 197,
+    "lastValue": 167
+  },
+  {
+    "year": "2022-09",
+    "language": "Portuguese",
+    "value": 70,
+    "lastValue": 67
+  },
+  {
+    "year": "2022-09",
+    "language": "Albanian",
+    "value": 137,
+    "lastValue": 106
+  },
+  {
+    "year": "2022-09",
+    "language": "Lithuanian",
+    "value": 25,
+    "lastValue": 16
+  },
+  {
+    "year": "2022-09",
+    "language": "Spanish",
+    "value": 37,
+    "lastValue": 36
+  },
+  {
+    "year": "2022-09",
+    "language": "Telugu",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2022-09",
+    "language": "Vietnamese",
+    "value": 30,
+    "lastValue": 29
+  },
+  {
+    "year": "2022-09",
+    "language": "Czech",
+    "value": 32,
+    "lastValue": 31
+  },
+  {
+    "year": "2022-09",
+    "language": "Russian",
+    "value": 9,
+    "lastValue": 9
+  },
+  {
+    "year": "2022-09",
+    "language": "Tamil",
+    "value": 3,
+    "lastValue": 3
+  },
+  {
+    "year": "2022-10",
+    "language": "Estonian",
+    "value": 105,
+    "lastValue": 104
+  },
+  {
+    "year": "2022-10",
+    "language": "German",
+    "value": 380,
+    "lastValue": 380
+  },
+  {
+    "year": "2022-10",
+    "language": "Indonesian",
+    "value": 574,
+    "lastValue": 557
+  },
+  {
+    "year": "2022-10",
+    "language": "Polish",
+    "value": 92,
+    "lastValue": 91
+  },
+  {
+    "year": "2022-10",
+    "language": "Romanian",
+    "value": 770,
+    "lastValue": 743
+  },
+  {
+    "year": "2022-10",
+    "language": "Tagalog",
+    "value": 418,
+    "lastValue": 417
+  },
+  {
+    "year": "2022-10",
+    "language": "Turkish",
+    "value": 99,
+    "lastValue": 93
+  },
+  {
+    "year": "2022-10",
+    "language": "Welsh",
+    "value": 306,
+    "lastValue": 296
+  },
+  {
+    "year": "2022-10",
+    "language": "Finnish",
+    "value": 77,
+    "lastValue": 75
+  },
+  {
+    "year": "2022-10",
+    "language": "Hindi",
+    "value": 565,
+    "lastValue": 560
+  },
+  {
+    "year": "2022-10",
+    "language": "Somali",
+    "value": 246,
+    "lastValue": 243
+  },
+  {
+    "year": "2022-10",
+    "language": "Swedish",
+    "value": 122,
+    "lastValue": 122
+  },
+  {
+    "year": "2022-10",
+    "language": "Afrikaans",
+    "value": 955,
+    "lastValue": 922
+  },
+  {
+    "year": "2022-10",
+    "language": "Bengali",
+    "value": 2691,
+    "lastValue": 2690
+  },
+  {
+    "year": "2022-10",
+    "language": "Danish",
+    "value": 133,
+    "lastValue": 129
+  },
+  {
+    "year": "2022-10",
+    "language": "Italian",
+    "value": 9021,
+    "lastValue": 9010
+  },
+  {
+    "year": "2022-10",
+    "language": "French",
+    "value": 424,
+    "lastValue": 418
+  },
+  {
+    "year": "2022-10",
+    "language": "Slovenian",
+    "value": 146,
+    "lastValue": 144
+  },
+  {
+    "year": "2022-10",
+    "language": "Catalan",
+    "value": 407,
+    "lastValue": 383
+  },
+  {
+    "year": "2022-10",
+    "language": "Malayalam",
+    "value": 486,
+    "lastValue": 486
+  },
+  {
+    "year": "2022-10",
+    "language": "Swahili (macrolanguage)",
+    "value": 130,
+    "lastValue": 128
+  },
+  {
+    "year": "2022-10",
+    "language": "Croatian",
+    "value": 33,
+    "lastValue": 31
+  },
+  {
+    "year": "2022-10",
+    "language": "Latvian",
+    "value": 14,
+    "lastValue": 14
+  },
+  {
+    "year": "2022-10",
+    "language": "Marathi",
+    "value": 10,
+    "lastValue": 9
+  },
+  {
+    "year": "2022-10",
+    "language": "Nepali (macrolanguage)",
+    "value": 8,
+    "lastValue": 8
+  },
+  {
+    "year": "2022-10",
+    "language": "Norwegian",
+    "value": 288,
+    "lastValue": 284
+  },
+  {
+    "year": "2022-10",
+    "language": "Slovak",
+    "value": 41,
+    "lastValue": 40
+  },
+  {
+    "year": "2022-10",
+    "language": "Hungarian",
+    "value": 6,
+    "lastValue": 6
+  },
+  {
+    "year": "2022-10",
+    "language": "Panjabi",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2022-10",
+    "language": "Persian",
+    "value": 20,
+    "lastValue": 20
+  },
+  {
+    "year": "2022-10",
+    "language": "Dutch",
+    "value": 206,
+    "lastValue": 197
+  },
+  {
+    "year": "2022-10",
+    "language": "Portuguese",
+    "value": 71,
+    "lastValue": 70
+  },
+  {
+    "year": "2022-10",
+    "language": "Albanian",
+    "value": 140,
+    "lastValue": 137
+  },
+  {
+    "year": "2022-10",
+    "language": "Lithuanian",
+    "value": 27,
+    "lastValue": 25
+  },
+  {
+    "year": "2022-10",
+    "language": "Spanish",
+    "value": 37,
+    "lastValue": 37
+  },
+  {
+    "year": "2022-10",
+    "language": "Telugu",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2022-10",
+    "language": "Vietnamese",
+    "value": 30,
+    "lastValue": 30
+  },
+  {
+    "year": "2022-10",
+    "language": "Czech",
+    "value": 35,
+    "lastValue": 32
+  },
+  {
+    "year": "2022-10",
+    "language": "Russian",
+    "value": 9,
+    "lastValue": 9
+  },
+  {
+    "year": "2022-10",
+    "language": "Tamil",
+    "value": 3,
+    "lastValue": 3
+  },
+  {
+    "year": "2022-11",
+    "language": "Estonian",
+    "value": 105,
+    "lastValue": 105
+  },
+  {
+    "year": "2022-11",
+    "language": "German",
+    "value": 381,
+    "lastValue": 380
+  },
+  {
+    "year": "2022-11",
+    "language": "Indonesian",
+    "value": 575,
+    "lastValue": 574
+  },
+  {
+    "year": "2022-11",
+    "language": "Polish",
+    "value": 92,
+    "lastValue": 92
+  },
+  {
+    "year": "2022-11",
+    "language": "Romanian",
+    "value": 771,
+    "lastValue": 770
+  },
+  {
+    "year": "2022-11",
+    "language": "Tagalog",
+    "value": 418,
+    "lastValue": 418
+  },
+  {
+    "year": "2022-11",
+    "language": "Turkish",
+    "value": 100,
+    "lastValue": 99
+  },
+  {
+    "year": "2022-11",
+    "language": "Welsh",
+    "value": 306,
+    "lastValue": 306
+  },
+  {
+    "year": "2022-11",
+    "language": "Finnish",
+    "value": 77,
+    "lastValue": 77
+  },
+  {
+    "year": "2022-11",
+    "language": "Hindi",
+    "value": 565,
+    "lastValue": 565
+  },
+  {
+    "year": "2022-11",
+    "language": "Somali",
+    "value": 247,
+    "lastValue": 246
+  },
+  {
+    "year": "2022-11",
+    "language": "Swedish",
+    "value": 123,
+    "lastValue": 122
+  },
+  {
+    "year": "2022-11",
+    "language": "Afrikaans",
+    "value": 957,
+    "lastValue": 955
+  },
+  {
+    "year": "2022-11",
+    "language": "Bengali",
+    "value": 2691,
+    "lastValue": 2691
+  },
+  {
+    "year": "2022-11",
+    "language": "Danish",
+    "value": 133,
+    "lastValue": 133
+  },
+  {
+    "year": "2022-11",
+    "language": "Italian",
+    "value": 9021,
+    "lastValue": 9021
+  },
+  {
+    "year": "2022-11",
+    "language": "French",
+    "value": 424,
+    "lastValue": 424
+  },
+  {
+    "year": "2022-11",
+    "language": "Slovenian",
+    "value": 147,
+    "lastValue": 146
+  },
+  {
+    "year": "2022-11",
+    "language": "Catalan",
+    "value": 408,
+    "lastValue": 407
+  },
+  {
+    "year": "2022-11",
+    "language": "Malayalam",
+    "value": 486,
+    "lastValue": 486
+  },
+  {
+    "year": "2022-11",
+    "language": "Swahili (macrolanguage)",
+    "value": 130,
+    "lastValue": 130
+  },
+  {
+    "year": "2022-11",
+    "language": "Croatian",
+    "value": 33,
+    "lastValue": 33
+  },
+  {
+    "year": "2022-11",
+    "language": "Latvian",
+    "value": 14,
+    "lastValue": 14
+  },
+  {
+    "year": "2022-11",
+    "language": "Marathi",
+    "value": 10,
+    "lastValue": 10
+  },
+  {
+    "year": "2022-11",
+    "language": "Nepali (macrolanguage)",
+    "value": 8,
+    "lastValue": 8
+  },
+  {
+    "year": "2022-11",
+    "language": "Norwegian",
+    "value": 288,
+    "lastValue": 288
+  },
+  {
+    "year": "2022-11",
+    "language": "Slovak",
+    "value": 41,
+    "lastValue": 41
+  },
+  {
+    "year": "2022-11",
+    "language": "Hungarian",
+    "value": 6,
+    "lastValue": 6
+  },
+  {
+    "year": "2022-11",
+    "language": "Panjabi",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2022-11",
+    "language": "Persian",
+    "value": 20,
+    "lastValue": 20
+  },
+  {
+    "year": "2022-11",
+    "language": "Dutch",
+    "value": 206,
+    "lastValue": 206
+  },
+  {
+    "year": "2022-11",
+    "language": "Portuguese",
+    "value": 71,
+    "lastValue": 71
+  },
+  {
+    "year": "2022-11",
+    "language": "Albanian",
+    "value": 140,
+    "lastValue": 140
+  },
+  {
+    "year": "2022-11",
+    "language": "Lithuanian",
+    "value": 27,
+    "lastValue": 27
+  },
+  {
+    "year": "2022-11",
+    "language": "Spanish",
+    "value": 37,
+    "lastValue": 37
+  },
+  {
+    "year": "2022-11",
+    "language": "Telugu",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2022-11",
+    "language": "Vietnamese",
+    "value": 30,
+    "lastValue": 30
+  },
+  {
+    "year": "2022-11",
+    "language": "Czech",
+    "value": 35,
+    "lastValue": 35
+  },
+  {
+    "year": "2022-11",
+    "language": "Russian",
+    "value": 9,
+    "lastValue": 9
+  },
+  {
+    "year": "2022-11",
+    "language": "Tamil",
+    "value": 3,
+    "lastValue": 3
+  },
+  {
+    "year": "2022-12",
+    "language": "Estonian",
+    "value": 106,
+    "lastValue": 105
+  },
+  {
+    "year": "2022-12",
+    "language": "German",
+    "value": 386,
+    "lastValue": 381
+  },
+  {
+    "year": "2022-12",
+    "language": "Indonesian",
+    "value": 581,
+    "lastValue": 575
+  },
+  {
+    "year": "2022-12",
+    "language": "Polish",
+    "value": 94,
+    "lastValue": 92
+  },
+  {
+    "year": "2022-12",
+    "language": "Romanian",
+    "value": 776,
+    "lastValue": 771
+  },
+  {
+    "year": "2022-12",
+    "language": "Tagalog",
+    "value": 439,
+    "lastValue": 418
+  },
+  {
+    "year": "2022-12",
+    "language": "Turkish",
+    "value": 100,
+    "lastValue": 100
+  },
+  {
+    "year": "2022-12",
+    "language": "Welsh",
+    "value": 306,
+    "lastValue": 306
+  },
+  {
+    "year": "2022-12",
+    "language": "Finnish",
+    "value": 78,
+    "lastValue": 77
+  },
+  {
+    "year": "2022-12",
+    "language": "Hindi",
+    "value": 572,
+    "lastValue": 565
+  },
+  {
+    "year": "2022-12",
+    "language": "Somali",
+    "value": 249,
+    "lastValue": 247
+  },
+  {
+    "year": "2022-12",
+    "language": "Swedish",
+    "value": 126,
+    "lastValue": 123
+  },
+  {
+    "year": "2022-12",
+    "language": "Afrikaans",
+    "value": 961,
+    "lastValue": 957
+  },
+  {
+    "year": "2022-12",
+    "language": "Bengali",
+    "value": 2691,
+    "lastValue": 2691
+  },
+  {
+    "year": "2022-12",
+    "language": "Danish",
+    "value": 137,
+    "lastValue": 133
+  },
+  {
+    "year": "2022-12",
+    "language": "Italian",
+    "value": 9107,
+    "lastValue": 9021
+  },
+  {
+    "year": "2022-12",
+    "language": "French",
+    "value": 427,
+    "lastValue": 424
+  },
+  {
+    "year": "2022-12",
+    "language": "Slovenian",
+    "value": 155,
+    "lastValue": 147
+  },
+  {
+    "year": "2022-12",
+    "language": "Catalan",
+    "value": 409,
+    "lastValue": 408
+  },
+  {
+    "year": "2022-12",
+    "language": "Malayalam",
+    "value": 486,
+    "lastValue": 486
+  },
+  {
+    "year": "2022-12",
+    "language": "Swahili (macrolanguage)",
+    "value": 130,
+    "lastValue": 130
+  },
+  {
+    "year": "2022-12",
+    "language": "Croatian",
+    "value": 33,
+    "lastValue": 33
+  },
+  {
+    "year": "2022-12",
+    "language": "Latvian",
+    "value": 14,
+    "lastValue": 14
+  },
+  {
+    "year": "2022-12",
+    "language": "Marathi",
+    "value": 10,
+    "lastValue": 10
+  },
+  {
+    "year": "2022-12",
+    "language": "Nepali (macrolanguage)",
+    "value": 8,
+    "lastValue": 8
+  },
+  {
+    "year": "2022-12",
+    "language": "Norwegian",
+    "value": 300,
+    "lastValue": 288
+  },
+  {
+    "year": "2022-12",
+    "language": "Slovak",
+    "value": 42,
+    "lastValue": 41
+  },
+  {
+    "year": "2022-12",
+    "language": "Hungarian",
+    "value": 7,
+    "lastValue": 6
+  },
+  {
+    "year": "2022-12",
+    "language": "Panjabi",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2022-12",
+    "language": "Persian",
+    "value": 20,
+    "lastValue": 20
+  },
+  {
+    "year": "2022-12",
+    "language": "Dutch",
+    "value": 208,
+    "lastValue": 206
+  },
+  {
+    "year": "2022-12",
+    "language": "Portuguese",
+    "value": 73,
+    "lastValue": 71
+  },
+  {
+    "year": "2022-12",
+    "language": "Albanian",
+    "value": 140,
+    "lastValue": 140
+  },
+  {
+    "year": "2022-12",
+    "language": "Lithuanian",
+    "value": 27,
+    "lastValue": 27
+  },
+  {
+    "year": "2022-12",
+    "language": "Spanish",
+    "value": 37,
+    "lastValue": 37
+  },
+  {
+    "year": "2022-12",
+    "language": "Telugu",
+    "value": 1,
+    "lastValue": 1
+  },
+  {
+    "year": "2022-12",
+    "language": "Vietnamese",
+    "value": 30,
+    "lastValue": 30
+  },
+  {
+    "year": "2022-12",
+    "language": "Czech",
+    "value": 36,
+    "lastValue": 35
+  },
+  {
+    "year": "2022-12",
+    "language": "Russian",
+    "value": 9,
+    "lastValue": 9
+  },
+  {
+    "year": "2022-12",
+    "language": "Tamil",
+    "value": 3,
+    "lastValue": 3
+  }
+]

@@ -1,0 +1,3068 @@
+[
+  {
+    "date": "2020-01-12",
+    "value": 4,
+    "relevant_sport_event": "['Winter Youth Olympics']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2020-02-12",
+    "value": 1,
+    "relevant_sport_event": "['Six Nations']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2020-11-17",
+    "value": 1169,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('International Documentary Festival Amsterdam ', 'Leeds International Film Festival ', 'Manchester Animation Festival ', 'Norwich Film Festival ', 'Tallinn Black Nights Film Festival ')"
+  },
+  {
+    "date": "2020-11-18",
+    "value": 104,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('International Documentary Festival Amsterdam ', 'Leeds International Film Festival ', 'Manchester Animation Festival ', 'Norwich Film Festival ', 'Tallinn Black Nights Film Festival ')"
+  },
+  {
+    "date": "2020-11-19",
+    "value": 110,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('International Documentary Festival Amsterdam ', 'Karlovy Vary International Film Festival ', 'Key West Film Festival ', 'Leeds International Film Festival ', 'Manchester Animation Festival ', 'Norwich Film Festival ', 'Tallinn Black Nights Film Festival ')"
+  },
+  {
+    "date": "2020-12-01",
+    "value": 89,
+    "relevant_sport_event": "['Asian Beach Games']",
+    "relevant_film_event": "('Frames Of Representation ', 'International Documentary Festival Amsterdam ')"
+  },
+  {
+    "date": "2020-12-02",
+    "value": 21,
+    "relevant_sport_event": "['Asian Beach Games']",
+    "relevant_film_event": "('Frames Of Representation ', 'International Documentary Festival Amsterdam ')"
+  },
+  {
+    "date": "2020-12-06",
+    "value": 4,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('Cairo International Film Festival ', 'Frames Of Representation ', 'International Film Festival and Awards Macao ')"
+  },
+  {
+    "date": "2020-12-07",
+    "value": 5,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('Cairo International Film Festival ', 'Frames Of Representation ', 'International Film Festival and Awards Macao ')"
+  },
+  {
+    "date": "2020-12-09",
+    "value": 7,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('Cairo International Film Festival ', 'Frames Of Representation ')"
+  },
+  {
+    "date": "2020-12-12",
+    "value": 2,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('Frames Of Representation ', 'Jerusalem International Film Festival ')"
+  },
+  {
+    "date": "2020-12-16",
+    "value": 3,
+    "relevant_sport_event": "['FINA World Swimming Championships (25m)']",
+    "relevant_film_event": "('Jerusalem International Film Festival ',)"
+  },
+  {
+    "date": "2020-12-19",
+    "value": 21,
+    "relevant_sport_event": "['FINA World Swimming Championships (25m)']",
+    "relevant_film_event": "('Jerusalem International Film Festival ',)"
+  },
+  {
+    "date": "2020-12-20",
+    "value": 65,
+    "relevant_sport_event": "['FINA World Swimming Championships (25m)']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2020-12-23",
+    "value": 274,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2020-12-31",
+    "value": 14,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-01-02",
+    "value": 26,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-01-04",
+    "value": 178,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-01-06",
+    "value": 7,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-01-07",
+    "value": 76,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-01-09",
+    "value": 6,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-01-15",
+    "value": 145,
+    "relevant_sport_event": "['World Championships (men)']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-01-18",
+    "value": 7,
+    "relevant_sport_event": "['World Championships (men)']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-01-20",
+    "value": 36,
+    "relevant_sport_event": "['World Championships (men)']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-01-23",
+    "value": 3,
+    "relevant_sport_event": "['World Championships (men)']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-01-24",
+    "value": 13,
+    "relevant_sport_event": "['World Championships (men)']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-01-27",
+    "value": 44,
+    "relevant_sport_event": "['World Championships (men)']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-01-28",
+    "value": 1,
+    "relevant_sport_event": "['World Championships (men)']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-01-31",
+    "value": 1,
+    "relevant_sport_event": "['World Championships (men)', 'Winter X Games 25']",
+    "relevant_film_event": "('Goteborg Film Festival', 'Sundance Film Festival')"
+  },
+  {
+    "date": "2021-02-01",
+    "value": 304,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('Goteborg Film Festival', 'Sundance Film Festival')"
+  },
+  {
+    "date": "2021-02-03",
+    "value": 367,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('Goteborg Film Festival', 'International Film Festival Rotterdam')"
+  },
+  {
+    "date": "2021-02-04",
+    "value": 2,
+    "relevant_sport_event": "['2020 FIFA Club World Cup']",
+    "relevant_film_event": "('Goteborg Film Festival', 'International Film Festival Rotterdam')"
+  },
+  {
+    "date": "2021-02-05",
+    "value": 2,
+    "relevant_sport_event": "['2020 FIFA Club World Cup']",
+    "relevant_film_event": "('Goteborg Film Festival', 'International Film Festival Rotterdam', 'SCAD aTVfest')"
+  },
+  {
+    "date": "2021-02-06",
+    "value": 4,
+    "relevant_sport_event": "['2020 FIFA Club World Cup', 'Special Olympics World Winter Games', 'Six Nations']",
+    "relevant_film_event": "('Goteborg Film Festival', 'International Film Festival Rotterdam')"
+  },
+  {
+    "date": "2021-02-12",
+    "value": 343,
+    "relevant_sport_event": "['Special Olympics World Winter Games', 'Six Nations', 'Australian Open', 'World Alpine Ski Championships']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-02-14",
+    "value": 1,
+    "relevant_sport_event": "['Six Nations', 'Australian Open', 'World Alpine Ski Championships']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-02-15",
+    "value": 318,
+    "relevant_sport_event": "['Six Nations', 'Australian Open', 'World Alpine Ski Championships']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-02-17",
+    "value": 57,
+    "relevant_sport_event": "['Six Nations', 'Australian Open', 'World Alpine Ski Championships']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-02-18",
+    "value": 56,
+    "relevant_sport_event": "['Six Nations', 'Australian Open', 'World Alpine Ski Championships']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-02-22",
+    "value": 357,
+    "relevant_sport_event": "['Six Nations']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-02-23",
+    "value": 30,
+    "relevant_sport_event": "['Six Nations', ' Nordic World Ski Championships']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-02-25",
+    "value": 1,
+    "relevant_sport_event": "['Six Nations', ' Nordic World Ski Championships']",
+    "relevant_film_event": "('Glasgow Film Festival',)"
+  },
+  {
+    "date": "2021-02-26",
+    "value": 64,
+    "relevant_sport_event": "['Six Nations', ' Nordic World Ski Championships']",
+    "relevant_film_event": "('Glasgow Film Festival',)"
+  },
+  {
+    "date": "2021-03-01",
+    "value": 2,
+    "relevant_sport_event": "['Six Nations', ' Nordic World Ski Championships']",
+    "relevant_film_event": "('Glasgow Film Festival',)"
+  },
+  {
+    "date": "2021-03-02",
+    "value": 3,
+    "relevant_sport_event": "['Six Nations', ' Nordic World Ski Championships']",
+    "relevant_film_event": "('Glasgow Film Festival', 'Berlin International Film Festival')"
+  },
+  {
+    "date": "2021-03-03",
+    "value": 4,
+    "relevant_sport_event": "['Six Nations', ' Nordic World Ski Championships']",
+    "relevant_film_event": "('Glasgow Film Festival', 'Berlin International Film Festival')"
+  },
+  {
+    "date": "2021-03-04",
+    "value": 153,
+    "relevant_sport_event": "['Six Nations', ' Nordic World Ski Championships']",
+    "relevant_film_event": "('Glasgow Film Festival', 'Berlin International Film Festival', 'Dublin International Film Festival')"
+  },
+  {
+    "date": "2021-03-05",
+    "value": 391,
+    "relevant_sport_event": "['Six Nations', ' Nordic World Ski Championships']",
+    "relevant_film_event": "('Glasgow Film Festival', 'Dublin International Film Festival', 'Thessaloniki Documentary Festival', 'Miami Film Festival', 'New York International Children\u00e2\u0080\u0099s Film Festival')"
+  },
+  {
+    "date": "2021-03-06",
+    "value": 19,
+    "relevant_sport_event": "['Six Nations', ' Nordic World Ski Championships', \"America's Cup\"]",
+    "relevant_film_event": "('Glasgow Film Festival', 'Dublin International Film Festival', 'Thessaloniki Documentary Festival', 'Miami Film Festival', 'New York International Children\u00e2\u0080\u0099s Film Festival')"
+  },
+  {
+    "date": "2021-03-07",
+    "value": 3,
+    "relevant_sport_event": "['Six Nations', ' Nordic World Ski Championships', \"America's Cup\"]",
+    "relevant_film_event": "('Dublin International Film Festival', 'Thessaloniki Documentary Festival', 'Miami Film Festival', 'New York International Children\u00e2\u0080\u0099s Film Festival')"
+  },
+  {
+    "date": "2021-03-08",
+    "value": 439,
+    "relevant_sport_event": "['Six Nations', \"America's Cup\"]",
+    "relevant_film_event": "('Dublin International Film Festival', 'Thessaloniki Documentary Festival', 'Miami Film Festival', 'New York International Children\u00e2\u0080\u0099s Film Festival')"
+  },
+  {
+    "date": "2021-03-09",
+    "value": 14,
+    "relevant_sport_event": "['Six Nations', \"America's Cup\", 'World Baseball Classic']",
+    "relevant_film_event": "('Dublin International Film Festival', 'Thessaloniki Documentary Festival', 'Miami Film Festival', 'New York International Children\u00e2\u0080\u0099s Film Festival')"
+  },
+  {
+    "date": "2021-03-10",
+    "value": 31,
+    "relevant_sport_event": "['Six Nations', \"America's Cup\", 'World Baseball Classic']",
+    "relevant_film_event": "('Dublin International Film Festival', 'Thessaloniki Documentary Festival', 'Miami Film Festival', 'New York International Children\u00e2\u0080\u0099s Film Festival')"
+  },
+  {
+    "date": "2021-03-12",
+    "value": 5,
+    "relevant_sport_event": "['Six Nations', \"America's Cup\", 'World Baseball Classic']",
+    "relevant_film_event": "('Dublin International Film Festival', 'Thessaloniki Documentary Festival', 'Miami Film Festival', 'New York International Children\u00e2\u0080\u0099s Film Festival', 'Sofia International Film Festival')"
+  },
+  {
+    "date": "2021-03-13",
+    "value": 18,
+    "relevant_sport_event": "['Six Nations', \"America's Cup\", 'World Baseball Classic']",
+    "relevant_film_event": "('Dublin International Film Festival', 'Thessaloniki Documentary Festival', 'Miami Film Festival', 'New York International Children\u00e2\u0080\u0099s Film Festival', 'Sofia International Film Festival')"
+  },
+  {
+    "date": "2021-03-15",
+    "value": 40,
+    "relevant_sport_event": "['Six Nations', \"America's Cup\", 'World Baseball Classic']",
+    "relevant_film_event": "('Sofia International Film Festival',)"
+  },
+  {
+    "date": "2021-03-20",
+    "value": 1,
+    "relevant_sport_event": "['Six Nations', \"America's Cup\", 'World Baseball Classic']",
+    "relevant_film_event": "('Sofia International Film Festival', 'Diagonale', 'Belmont World Film', 'Sofia Meetings', 'Vilnius International Film Festival')"
+  },
+  {
+    "date": "2021-03-21",
+    "value": 7,
+    "relevant_sport_event": "[\"America's Cup\", 'World Baseball Classic']",
+    "relevant_film_event": "('Belmont World Film', 'Vilnius International Film Festival')"
+  },
+  {
+    "date": "2021-03-23",
+    "value": 1,
+    "relevant_sport_event": "['World Baseball Classic', 'Winter Military World Games']",
+    "relevant_film_event": "('Belmont World Film', 'Vilnius International Film Festival')"
+  },
+  {
+    "date": "2021-03-26",
+    "value": 1,
+    "relevant_sport_event": "['Winter Military World Games']",
+    "relevant_film_event": "('Belmont World Film', 'Vilnius International Film Festival')"
+  },
+  {
+    "date": "2021-03-28",
+    "value": 2,
+    "relevant_sport_event": "['Winter Military World Games']",
+    "relevant_film_event": "('Belmont World Film', 'Vilnius International Film Festival', 'Borderlines Film Festival')"
+  },
+  {
+    "date": "2021-04-01",
+    "value": 34,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('Borderlines Film Festival',)"
+  },
+  {
+    "date": "2021-04-03",
+    "value": 113,
+    "relevant_sport_event": "['Asian Beach Games']",
+    "relevant_film_event": "('Borderlines Film Festival', 'Hong Kong International Film Festival', 'Istanbul International Film Festival')"
+  },
+  {
+    "date": "2021-04-05",
+    "value": 190,
+    "relevant_sport_event": "['Asian Beach Games']",
+    "relevant_film_event": "('Borderlines Film Festival', 'Hong Kong International Film Festival', 'Istanbul International Film Festival')"
+  },
+  {
+    "date": "2021-04-06",
+    "value": 58,
+    "relevant_sport_event": "['Asian Beach Games']",
+    "relevant_film_event": "('Borderlines Film Festival', 'Hong Kong International Film Festival', 'Istanbul International Film Festival')"
+  },
+  {
+    "date": "2021-04-07",
+    "value": 1,
+    "relevant_sport_event": "['Asian Beach Games']",
+    "relevant_film_event": "('Borderlines Film Festival', 'Hong Kong International Film Festival', 'Istanbul International Film Festival')"
+  },
+  {
+    "date": "2021-04-08",
+    "value": 117,
+    "relevant_sport_event": "['Asian Beach Games', 'Masters']",
+    "relevant_film_event": "('Borderlines Film Festival', 'Hong Kong International Film Festival', 'Istanbul International Film Festival')"
+  },
+  {
+    "date": "2021-04-09",
+    "value": 1,
+    "relevant_sport_event": "['Asian Beach Games', 'Masters']",
+    "relevant_film_event": "('Borderlines Film Festival', 'Hong Kong International Film Festival', 'Istanbul International Film Festival', 'Seattle Film Festival')"
+  },
+  {
+    "date": "2021-04-11",
+    "value": 10,
+    "relevant_sport_event": "['Masters']",
+    "relevant_film_event": "('Hong Kong International Film Festival', 'Istanbul International Film Festival', 'Seattle Film Festival')"
+  },
+  {
+    "date": "2021-04-12",
+    "value": 387,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('Istanbul International Film Festival', 'Seattle Film Festival')"
+  },
+  {
+    "date": "2021-04-13",
+    "value": 32,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('Istanbul International Film Festival', 'Seattle Film Festival', 'MIPTV')"
+  },
+  {
+    "date": "2021-04-14",
+    "value": 10,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('Istanbul International Film Festival', 'Seattle Film Festival', 'MIPTV')"
+  },
+  {
+    "date": "2021-04-22",
+    "value": 11,
+    "relevant_sport_event": "['World Snooker Championship']",
+    "relevant_film_event": "('Istanbul International Film Festival', 'SpyFlix', 'Stockholm Film Festival Junior', 'CPH:DOX')"
+  },
+  {
+    "date": "2021-05-04",
+    "value": 19,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('Belmont World Film', 'SpyFlix', 'Jeonju International Film Festival', 'Hot Docs', 'Indy Film Fest')"
+  },
+  {
+    "date": "2021-05-09",
+    "value": 14,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('Belmont World Film', 'Indy Film Fest')"
+  },
+  {
+    "date": "2021-05-10",
+    "value": 2,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('Indy Film Fest',)"
+  },
+  {
+    "date": "2021-05-11",
+    "value": 42,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('Indy Film Fest',)"
+  },
+  {
+    "date": "2021-05-12",
+    "value": 2,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('Indy Film Fest',)"
+  },
+  {
+    "date": "2021-05-14",
+    "value": 330,
+    "relevant_sport_event": "['Arafura Games', 'World Masters Games (Summer)']",
+    "relevant_film_event": "('Indy Film Fest',)"
+  },
+  {
+    "date": "2021-05-17",
+    "value": 1,
+    "relevant_sport_event": "['Arafura Games', 'World Masters Games (Summer)']",
+    "relevant_film_event": "('Indy Film Fest',)"
+  },
+  {
+    "date": "2021-05-19",
+    "value": 2,
+    "relevant_sport_event": "['Arafura Games', 'World Masters Games (Summer)']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-05-20",
+    "value": 45,
+    "relevant_sport_event": "['Arafura Games', 'World Masters Games (Summer)', 'US PGA']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-05-28",
+    "value": 4,
+    "relevant_sport_event": "['World Masters Games (Summer)', 'IIHF World Championship']",
+    "relevant_film_event": "('Cheltenham International Film Festival', 'Inside Out Toronto LGBT Film Festival')"
+  },
+  {
+    "date": "2021-05-30",
+    "value": 1,
+    "relevant_sport_event": "['World Masters Games (Summer)', 'IIHF World Championship', 'Invictus Games', 'Indianapolis 500 ', 'French Open']",
+    "relevant_film_event": "('Cheltenham International Film Festival', 'Inside Out Toronto LGBT Film Festival', 'Molodist Kyiv International Film Festival', 'Mountainfilm', 'Mountainfilm')"
+  },
+  {
+    "date": "2021-05-31",
+    "value": 165,
+    "relevant_sport_event": "['IIHF World Championship', 'Invictus Games', 'French Open']",
+    "relevant_film_event": "('Cheltenham International Film Festival', 'Inside Out Toronto LGBT Film Festival', 'Molodist Kyiv International Film Festival', 'Krakow Film Festival', 'Mountainfilm')"
+  },
+  {
+    "date": "2021-06-02",
+    "value": 78,
+    "relevant_sport_event": "['IIHF World Championship', 'Invictus Games', 'French Open']",
+    "relevant_film_event": "('Istanbul International Film Festival', 'Cheltenham International Film Festival', 'Inside Out Toronto LGBT Film Festival', 'Molodist Kyiv International Film Festival', 'Krakow Film Festival', 'Mountainfilm', 'Nippon Connection Film Festival')"
+  },
+  {
+    "date": "2021-06-03",
+    "value": 59,
+    "relevant_sport_event": "['IIHF World Championship', 'Invictus Games', 'French Open']",
+    "relevant_film_event": "('Istanbul International Film Festival', 'Cheltenham International Film Festival', 'Inside Out Toronto LGBT Film Festival', 'Molodist Kyiv International Film Festival', 'Krakow Film Festival', 'Mountainfilm', 'Nippon Connection Film Festival', 'International Film Festival Rotterdam')"
+  },
+  {
+    "date": "2021-06-04",
+    "value": 6,
+    "relevant_sport_event": "['IIHF World Championship', 'Invictus Games', 'French Open']",
+    "relevant_film_event": "('Istanbul International Film Festival', 'Cheltenham International Film Festival', 'Inside Out Toronto LGBT Film Festival', 'Molodist Kyiv International Film Festival', 'Krakow Film Festival', 'Mountainfilm', 'Nippon Connection Film Festival', 'International Film Festival Rotterdam', 'The Many Sides of Pride Film Festival', 'Ramsgate International Film and Television Festival')"
+  },
+  {
+    "date": "2021-06-05",
+    "value": 3,
+    "relevant_sport_event": "['IIHF World Championship', 'Invictus Games', 'French Open']",
+    "relevant_film_event": "('Istanbul International Film Festival', 'Inside Out Toronto LGBT Film Festival', 'Molodist Kyiv International Film Festival', 'Krakow Film Festival', 'Mountainfilm', 'Nippon Connection Film Festival', 'International Film Festival Rotterdam', 'The Many Sides of Pride Film Festival', 'Ramsgate International Film and Television Festival', 'Malaga Film Festival')"
+  },
+  {
+    "date": "2021-06-10",
+    "value": 194,
+    "relevant_sport_event": "['French Open']",
+    "relevant_film_event": "('Istanbul International Film Festival', 'Malaga Film Festival', 'Berlin International Film Festival Summer Special', 'Tribeca Film Festival')"
+  },
+  {
+    "date": "2021-06-12",
+    "value": 1,
+    "relevant_sport_event": "['French Open', 'Euro 2020 ']",
+    "relevant_film_event": "('Istanbul International Film Festival', 'Malaga Film Festival', 'Berlin International Film Festival Summer Special', 'Tribeca Film Festival')"
+  },
+  {
+    "date": "2021-06-13",
+    "value": 1,
+    "relevant_sport_event": "['French Open', 'Euro 2020 ', '47th Copa Am\u00e9rica ']",
+    "relevant_film_event": "('Istanbul International Film Festival', 'Berlin International Film Festival Summer Special', 'Tribeca Film Festival', 'FIPADOC')"
+  },
+  {
+    "date": "2021-06-15",
+    "value": 4,
+    "relevant_sport_event": "['Euro 2020 ', '47th Copa Am\u00e9rica ']",
+    "relevant_film_event": "('Istanbul International Film Festival', 'Berlin International Film Festival Summer Special', 'Tribeca Film Festival', 'FIPADOC', 'Annecy International Animation Festival')"
+  },
+  {
+    "date": "2021-06-22",
+    "value": 7,
+    "relevant_sport_event": "['Euro 2020 ', '47th Copa Am\u00e9rica ']",
+    "relevant_film_event": "('Istanbul International Film Festival', 'Provincetown Film Festival', 'Pre-Cannes Screenings')"
+  },
+  {
+    "date": "2021-06-23",
+    "value": 1,
+    "relevant_sport_event": "['Euro 2020 ', '47th Copa Am\u00e9rica ']",
+    "relevant_film_event": "('Istanbul International Film Festival', 'Provincetown Film Festival', 'Pre-Cannes Screenings')"
+  },
+  {
+    "date": "2021-06-25",
+    "value": 90,
+    "relevant_sport_event": "['Euro 2020 ', '47th Copa Am\u00e9rica ']",
+    "relevant_film_event": "('Istanbul International Film Festival', 'Far East Film Festival', 'Munich International Film Festival', 'Brussels International Film Festival', 'Thessaloniki Documentary Festival', 'Oak Cliff Film Festival')"
+  },
+  {
+    "date": "2021-06-28",
+    "value": 4,
+    "relevant_sport_event": "['Euro 2020 ', '47th Copa Am\u00e9rica ', 'Tour de France', 'Stanley Cup finals', 'Wimbledon']",
+    "relevant_film_event": "('Istanbul International Film Festival', 'Far East Film Festival', 'Munich International Film Festival', 'Brussels International Film Festival', 'Thessaloniki Documentary Festival')"
+  },
+  {
+    "date": "2021-06-29",
+    "value": 1,
+    "relevant_sport_event": "['Euro 2020 ', '47th Copa Am\u00e9rica ', 'Tour de France', 'Stanley Cup finals']",
+    "relevant_film_event": "('Far East Film Festival', 'Munich International Film Festival', 'Brussels International Film Festival', 'Thessaloniki Documentary Festival')"
+  },
+  {
+    "date": "2021-06-30",
+    "value": 1,
+    "relevant_sport_event": "['Euro 2020 ', '47th Copa Am\u00e9rica ', 'Tour de France', 'Stanley Cup finals']",
+    "relevant_film_event": "('Far East Film Festival', 'Munich International Film Festival', 'Brussels International Film Festival', 'Thessaloniki Documentary Festival')"
+  },
+  {
+    "date": "2021-07-01",
+    "value": 416,
+    "relevant_sport_event": "['Euro 2020 ', '47th Copa Am\u00e9rica ', 'Tour de France', 'Stanley Cup finals']",
+    "relevant_film_event": "('Far East Film Festival', 'Munich International Film Festival', 'Brussels International Film Festival', 'Thessaloniki Documentary Festival')"
+  },
+  {
+    "date": "2021-07-03",
+    "value": 2,
+    "relevant_sport_event": "['Euro 2020 ', '47th Copa Am\u00e9rica ', 'Tour de France', 'Stanley Cup finals']",
+    "relevant_film_event": "('Brussels International Film Festival', 'Thessaloniki Documentary Festival', 'Docaviv')"
+  },
+  {
+    "date": "2021-07-08",
+    "value": 14,
+    "relevant_sport_event": "['Euro 2020 ', '47th Copa Am\u00e9rica ', 'Tour de France', 'NBA Finals']",
+    "relevant_film_event": "('Docaviv', 'Cannes Film Festival')"
+  },
+  {
+    "date": "2021-07-09",
+    "value": 3,
+    "relevant_sport_event": "['Euro 2020 ', '47th Copa Am\u00e9rica ', 'Tour de France', 'NBA Finals']",
+    "relevant_film_event": "('Docaviv', 'Cannes Film Festival', 'Bucheon International Fantastic Film Festival (BIFAN)')"
+  },
+  {
+    "date": "2021-07-10",
+    "value": 77,
+    "relevant_sport_event": "['Euro 2020 ', '47th Copa Am\u00e9rica ', 'Tour de France', 'NBA Finals']",
+    "relevant_film_event": "('Cannes Film Festival', 'Bucheon International Fantastic Film Festival (BIFAN)')"
+  },
+  {
+    "date": "2021-07-12",
+    "value": 29,
+    "relevant_sport_event": "['Tour de France', 'NBA Finals']",
+    "relevant_film_event": "('Cannes Film Festival', 'Bucheon International Fantastic Film Festival (BIFAN)')"
+  },
+  {
+    "date": "2021-07-13",
+    "value": 1,
+    "relevant_sport_event": "['Tour de France', 'NBA Finals']",
+    "relevant_film_event": "('Cannes Film Festival', 'Bucheon International Fantastic Film Festival (BIFAN)')"
+  },
+  {
+    "date": "2021-07-15",
+    "value": 5,
+    "relevant_sport_event": "['Tour de France', 'NBA Finals', 'Summer X Games', 'World Games', 'The Open Championship']",
+    "relevant_film_event": "('Cannes Film Festival', 'Bucheon International Fantastic Film Festival (BIFAN)')"
+  },
+  {
+    "date": "2021-07-17",
+    "value": 121,
+    "relevant_sport_event": "['Tour de France', 'NBA Finals', 'Summer X Games', 'World Games', 'The Open Championship', 'World Aquatics Championships']",
+    "relevant_film_event": "('Bucheon International Fantastic Film Festival (BIFAN)',)"
+  },
+  {
+    "date": "2021-07-18",
+    "value": 29,
+    "relevant_sport_event": "['Tour de France', 'NBA Finals', 'Summer X Games', 'World Games', 'The Open Championship', 'World Aquatics Championships']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-07-20",
+    "value": 5,
+    "relevant_sport_event": "['NBA Finals', 'World Games', 'World Aquatics Championships']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-07-26",
+    "value": 105,
+    "relevant_sport_event": "['World Aquatics Championships', 'Summer Olympics']",
+    "relevant_film_event": "('Transilvania International Film Festival',)"
+  },
+  {
+    "date": "2021-07-27",
+    "value": 365,
+    "relevant_sport_event": "['World Aquatics Championships', 'Summer Olympics']",
+    "relevant_film_event": "('Transilvania International Film Festival',)"
+  },
+  {
+    "date": "2021-08-03",
+    "value": 58,
+    "relevant_sport_event": "['Summer Olympics', 'World Police and Fire Games']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-08-04",
+    "value": 14,
+    "relevant_sport_event": "['Summer Olympics', 'World Police and Fire Games']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-08-07",
+    "value": 4,
+    "relevant_sport_event": "['Summer Olympics', 'World Police and Fire Games']",
+    "relevant_film_event": "('Locarno Film Festival', 'Fantasia International Film Festival', 'Melbourne International Film Festival')"
+  },
+  {
+    "date": "2021-08-09",
+    "value": 153,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('Locarno Film Festival', 'Fantasia International Film Festival', 'Melbourne International Film Festival')"
+  },
+  {
+    "date": "2021-08-10",
+    "value": 2,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('Locarno Film Festival', 'Fantasia International Film Festival', 'Melbourne International Film Festival')"
+  },
+  {
+    "date": "2021-08-11",
+    "value": 3,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('Locarno Film Festival', 'Fantasia International Film Festival', 'Melbourne International Film Festival')"
+  },
+  {
+    "date": "2021-08-12",
+    "value": 1,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('Locarno Film Festival', 'Fantasia International Film Festival', 'Melbourne International Film Festival')"
+  },
+  {
+    "date": "2021-08-19",
+    "value": 12,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('Fantasia International Film Festival', 'Melbourne International Film Festival', 'Sarajevo Film Festival', 'Edinburgh International Film Festival', 'New Horizons International Film Festival', 'Sydney Film Festival')"
+  },
+  {
+    "date": "2021-08-21",
+    "value": 353,
+    "relevant_sport_event": "[' 89th 24 Hours of Le Mans']",
+    "relevant_film_event": "('Melbourne International Film Festival', 'Edinburgh International Film Festival', 'New Horizons International Film Festival', 'Sydney Film Festival', 'Karlovy Vary International Film Festival')"
+  },
+  {
+    "date": "2021-08-26",
+    "value": 79,
+    "relevant_sport_event": "['Paralympic Games']",
+    "relevant_film_event": "('Sydney Film Festival', 'Karlovy Vary International Film Festival', 'PriFest', 'IndieLisboa', 'Jerusalem Film Festival')"
+  },
+  {
+    "date": "2021-08-28",
+    "value": 36,
+    "relevant_sport_event": "['Paralympic Games']",
+    "relevant_film_event": "('Sydney Film Festival', 'PriFest', 'CinemaCon', 'Series Mania', 'IndieLisboa', 'Jerusalem Film Festival')"
+  },
+  {
+    "date": "2021-08-29",
+    "value": 2,
+    "relevant_sport_event": "['Paralympic Games']",
+    "relevant_film_event": "('CinemaCon', 'Series Mania', 'IndieLisboa', 'Jerusalem Film Festival')"
+  },
+  {
+    "date": "2021-08-30",
+    "value": 2,
+    "relevant_sport_event": "['Paralympic Games', 'US Open']",
+    "relevant_film_event": "('Series Mania', 'IndieLisboa', 'Jerusalem Film Festival')"
+  },
+  {
+    "date": "2021-08-31",
+    "value": 212,
+    "relevant_sport_event": "['Paralympic Games', 'US Open']",
+    "relevant_film_event": "('Series Mania', 'IndieLisboa', 'Jerusalem Film Festival')"
+  },
+  {
+    "date": "2021-09-01",
+    "value": 155,
+    "relevant_sport_event": "['Paralympic Games', 'US Open']",
+    "relevant_film_event": "('Series Mania', 'IndieLisboa', 'Jerusalem Film Festival')"
+  },
+  {
+    "date": "2021-09-02",
+    "value": 1,
+    "relevant_sport_event": "['Paralympic Games', 'US Open']",
+    "relevant_film_event": "('IndieLisboa', 'Jerusalem Film Festival', 'Venice International Film Festival')"
+  },
+  {
+    "date": "2021-09-03",
+    "value": 10,
+    "relevant_sport_event": "['Paralympic Games', 'US Open']",
+    "relevant_film_event": "('IndieLisboa', 'Jerusalem Film Festival', 'Venice International Film Festival', 'Telluride Film Festival')"
+  },
+  {
+    "date": "2021-09-04",
+    "value": 1,
+    "relevant_sport_event": "['Paralympic Games', 'US Open', 'Solheim Cup']",
+    "relevant_film_event": "('IndieLisboa', 'Jerusalem Film Festival', 'Venice International Film Festival', 'Telluride Film Festival', 'Deauville American Film Festival')"
+  },
+  {
+    "date": "2021-09-05",
+    "value": 428,
+    "relevant_sport_event": "['Paralympic Games', 'US Open', 'Solheim Cup']",
+    "relevant_film_event": "('IndieLisboa', 'Jerusalem Film Festival', 'Venice International Film Festival', 'Telluride Film Festival', 'Deauville American Film Festival')"
+  },
+  {
+    "date": "2021-09-07",
+    "value": 9,
+    "relevant_sport_event": "['US Open']",
+    "relevant_film_event": "('Jerusalem Film Festival', 'Venice International Film Festival', 'Deauville American Film Festival')"
+  },
+  {
+    "date": "2021-09-08",
+    "value": 9,
+    "relevant_sport_event": "['US Open']",
+    "relevant_film_event": "('Jerusalem Film Festival', 'Venice International Film Festival', 'Deauville American Film Festival')"
+  },
+  {
+    "date": "2021-09-09",
+    "value": 137,
+    "relevant_sport_event": "['US Open']",
+    "relevant_film_event": "('Venice International Film Festival', 'Deauville American Film Festival')"
+  },
+  {
+    "date": "2021-09-11",
+    "value": 121,
+    "relevant_sport_event": "['US Open', 'Islamic Solidarity Games']",
+    "relevant_film_event": "('Deauville American Film Festival', 'Beldocs International Documentary Film Festival', 'Toronto International Film Festival')"
+  },
+  {
+    "date": "2021-09-12",
+    "value": 26,
+    "relevant_sport_event": "['US Open', 'Islamic Solidarity Games']",
+    "relevant_film_event": "('Beldocs International Documentary Film Festival', 'Toronto International Film Festival')"
+  },
+  {
+    "date": "2021-09-14",
+    "value": 1,
+    "relevant_sport_event": "['Islamic Solidarity Games']",
+    "relevant_film_event": "('Beldocs International Documentary Film Festival', 'Toronto International Film Festival')"
+  },
+  {
+    "date": "2021-09-16",
+    "value": 227,
+    "relevant_sport_event": "['Islamic Solidarity Games']",
+    "relevant_film_event": "('Toronto International Film Festival',)"
+  },
+  {
+    "date": "2021-09-18",
+    "value": 15,
+    "relevant_sport_event": "['Islamic Solidarity Games', 'World Cup (women)']",
+    "relevant_film_event": "('Helsinki International Film Festival', 'San Sebastian Film Festival')"
+  },
+  {
+    "date": "2021-09-20",
+    "value": 16,
+    "relevant_sport_event": "['World Cup (women)', ' UCI Road World Championships']",
+    "relevant_film_event": "('Helsinki International Film Festival', 'San Sebastian Film Festival', 'Haifa International Film Festival')"
+  },
+  {
+    "date": "2021-09-21",
+    "value": 8,
+    "relevant_sport_event": "['World Cup (women)', ' UCI Road World Championships']",
+    "relevant_film_event": "('Helsinki International Film Festival', 'San Sebastian Film Festival', 'Haifa International Film Festival')"
+  },
+  {
+    "date": "2021-09-22",
+    "value": 1,
+    "relevant_sport_event": "['World Cup (women)', ' UCI Road World Championships']",
+    "relevant_film_event": "('Helsinki International Film Festival', 'San Sebastian Film Festival', 'Haifa International Film Festival')"
+  },
+  {
+    "date": "2021-09-23",
+    "value": 128,
+    "relevant_sport_event": "['World Cup (women)', ' UCI Road World Championships']",
+    "relevant_film_event": "('Helsinki International Film Festival', 'San Sebastian Film Festival', 'Haifa International Film Festival', 'Finnish Film Affair')"
+  },
+  {
+    "date": "2021-09-24",
+    "value": 173,
+    "relevant_sport_event": "['World Cup (women)', ' UCI Road World Championships', 'Ryder Cup']",
+    "relevant_film_event": "('Helsinki International Film Festival', 'San Sebastian Film Festival', 'Haifa International Film Festival', 'Zurich Film Festival')"
+  },
+  {
+    "date": "2021-09-25",
+    "value": 30,
+    "relevant_sport_event": "['World Cup (women)', ' UCI Road World Championships', 'Ryder Cup', 'Grand Final']",
+    "relevant_film_event": "('Helsinki International Film Festival', 'Haifa International Film Festival', 'Zurich Film Festival')"
+  },
+  {
+    "date": "2021-09-26",
+    "value": 3,
+    "relevant_sport_event": "['World Cup (women)', ' UCI Road World Championships', 'Ryder Cup']",
+    "relevant_film_event": "('Haifa International Film Festival', 'Zurich Film Festival')"
+  },
+  {
+    "date": "2021-09-27",
+    "value": 1006,
+    "relevant_sport_event": "['World Cup (women)']",
+    "relevant_film_event": "('Haifa International Film Festival', 'Zurich Film Festival')"
+  },
+  {
+    "date": "2021-09-28",
+    "value": 199,
+    "relevant_sport_event": "['World Cup (women)']",
+    "relevant_film_event": "('Zurich Film Festival',)"
+  },
+  {
+    "date": "2021-09-29",
+    "value": 325,
+    "relevant_sport_event": "['World Cup (women)']",
+    "relevant_film_event": "('Zurich Film Festival',)"
+  },
+  {
+    "date": "2021-09-30",
+    "value": 259,
+    "relevant_sport_event": "['World Cup (women)']",
+    "relevant_film_event": "('Zurich Film Festival', 'Dinard Festival of British Film')"
+  },
+  {
+    "date": "2021-10-03",
+    "value": 11,
+    "relevant_sport_event": "['World Cup (women)', 'NRL Grand Final']",
+    "relevant_film_event": "('Nashville Film Festival',)"
+  },
+  {
+    "date": "2021-10-05",
+    "value": 56,
+    "relevant_sport_event": "['World Cup (women)']",
+    "relevant_film_event": "('Nashville Film Festival', 'CineEurope')"
+  },
+  {
+    "date": "2021-10-06",
+    "value": 3,
+    "relevant_sport_event": "['World Cup (women)']",
+    "relevant_film_event": "('CineEurope',)"
+  },
+  {
+    "date": "2021-10-07",
+    "value": 770,
+    "relevant_sport_event": "['World Cup (women)']",
+    "relevant_film_event": "('BFI London Film Festival', 'Busan International Film Festival', 'Festival du Nouveau Cinema de Montreal')"
+  },
+  {
+    "date": "2021-10-08",
+    "value": 7,
+    "relevant_sport_event": "['World Cup (women)']",
+    "relevant_film_event": "('BFI London Film Festival', 'Hamptons International Film Festival', 'Mile High Horror Film Festival', 'Busan International Film Festival', 'Heartland International Film Festival', 'Festival du Nouveau Cinema de Montreal')"
+  },
+  {
+    "date": "2021-10-10",
+    "value": 10,
+    "relevant_sport_event": "['World Cup (women)']",
+    "relevant_film_event": "('BFI London Film Festival', 'Hamptons International Film Festival', 'Canneseries', 'Busan International Film Festival', 'Heartland International Film Festival', 'Festival du Nouveau Cinema de Montreal')"
+  },
+  {
+    "date": "2021-10-11",
+    "value": 87,
+    "relevant_sport_event": "['World Cup (women)']",
+    "relevant_film_event": "('BFI London Film Festival', 'Hamptons International Film Festival', 'Canneseries', 'Busan International Film Festival', 'Heartland International Film Festival', 'Festival du Nouveau Cinema de Montreal')"
+  },
+  {
+    "date": "2021-10-12",
+    "value": 29,
+    "relevant_sport_event": "['World Cup (women)']",
+    "relevant_film_event": "('BFI London Film Festival', 'Hamptons International Film Festival', 'Canneseries', 'Busan International Film Festival', 'Heartland International Film Festival', 'Festival du Nouveau Cinema de Montreal')"
+  },
+  {
+    "date": "2021-10-14",
+    "value": 2,
+    "relevant_sport_event": "['World Cup (women)']",
+    "relevant_film_event": "('BFI London Film Festival', 'Busan International Film Festival', 'Heartland International Film Festival', 'Film Fest Gent', 'Festival du Nouveau Cinema de Montreal')"
+  },
+  {
+    "date": "2021-10-17",
+    "value": 6,
+    "relevant_sport_event": "['ICC World T20 (men)', 'World Rowing Championships']",
+    "relevant_film_event": "('Film Fest Gent', 'Africa In Motion Film Festival')"
+  },
+  {
+    "date": "2021-10-18",
+    "value": 24,
+    "relevant_sport_event": "['ICC World T20 (men)', 'World Rowing Championships']",
+    "relevant_film_event": "('Film Fest Gent', 'Africa In Motion Film Festival')"
+  },
+  {
+    "date": "2021-10-19",
+    "value": 4,
+    "relevant_sport_event": "['ICC World T20 (men)', 'World Rowing Championships']",
+    "relevant_film_event": "('Film Fest Gent', 'Africa In Motion Film Festival')"
+  },
+  {
+    "date": "2021-10-20",
+    "value": 4,
+    "relevant_sport_event": "['ICC World T20 (men)', 'World Rowing Championships', 'World Track Championships']",
+    "relevant_film_event": "('Film Fest Gent', 'Africa In Motion Film Festival')"
+  },
+  {
+    "date": "2021-10-21",
+    "value": 13,
+    "relevant_sport_event": "['ICC World T20 (men)', 'World Rowing Championships', 'World Track Championships']",
+    "relevant_film_event": "('Film Fest Gent', 'Tallgrass Film Festival', 'Africa In Motion Film Festival')"
+  },
+  {
+    "date": "2021-10-22",
+    "value": 10,
+    "relevant_sport_event": "['ICC World T20 (men)', 'World Rowing Championships', 'World Track Championships']",
+    "relevant_film_event": "('Film Fest Gent', 'Tallgrass Film Festival', 'Africa In Motion Film Festival', 'Newport Beach Film Festival')"
+  },
+  {
+    "date": "2021-10-24",
+    "value": 63,
+    "relevant_sport_event": "['ICC World T20 (men)', 'World Rowing Championships', 'World Track Championships', 'World Cup']",
+    "relevant_film_event": "('Africa In Motion Film Festival', 'Newport Beach Film Festival')"
+  },
+  {
+    "date": "2021-10-25",
+    "value": 2,
+    "relevant_sport_event": "['ICC World T20 (men)', 'World Cup', 'AIBA World Championships (men)']",
+    "relevant_film_event": "('Africa In Motion Film Festival', 'Newport Beach Film Festival')"
+  },
+  {
+    "date": "2021-10-26",
+    "value": 53,
+    "relevant_sport_event": "['ICC World T20 (men)', 'World Cup', 'World Series', 'AIBA World Championships (men)']",
+    "relevant_film_event": "('Africa In Motion Film Festival', 'Newport Beach Film Festival')"
+  },
+  {
+    "date": "2021-10-27",
+    "value": 46,
+    "relevant_sport_event": "['ICC World T20 (men)', 'World Cup', 'World Series', 'AIBA World Championships (men)']",
+    "relevant_film_event": "('Africa In Motion Film Festival', 'Newport Beach Film Festival', 'Ji.hlava International Documentary Festival')"
+  },
+  {
+    "date": "2021-10-28",
+    "value": 9,
+    "relevant_sport_event": "['ICC World T20 (men)', 'World Cup', 'World Series', 'AIBA World Championships (men)']",
+    "relevant_film_event": "('Africa In Motion Film Festival', 'Ji.hlava International Documentary Festival', 'Raindance Film Festival')"
+  },
+  {
+    "date": "2021-10-30",
+    "value": 89,
+    "relevant_sport_event": "['ICC World T20 (men)', 'World Cup', 'World Series', 'AIBA World Championships (men)']",
+    "relevant_film_event": "('Africa In Motion Film Festival', 'Ji.hlava International Documentary Festival', 'Raindance Film Festival')"
+  },
+  {
+    "date": "2021-11-03",
+    "value": 7,
+    "relevant_sport_event": "['ICC World T20 (men)', 'World Cup', 'AIBA World Championships (men)']",
+    "relevant_film_event": "('Raindance Film Festival', 'Tokyo International Film Festival', 'AFM \u00e2\u0080\u0093 American Film Market')"
+  },
+  {
+    "date": "2021-11-04",
+    "value": 133,
+    "relevant_sport_event": "['ICC World T20 (men)', 'World Cup', 'AIBA World Championships (men)']",
+    "relevant_film_event": "('Raindance Film Festival', 'Tokyo International Film Festival', 'AFM \u00e2\u0080\u0093 American Film Market', 'French Film Festival')"
+  },
+  {
+    "date": "2021-11-05",
+    "value": 400,
+    "relevant_sport_event": "['ICC World T20 (men)', 'World Cup', 'AIBA World Championships (men)']",
+    "relevant_film_event": "('Raindance Film Festival', 'Tokyo International Film Festival', 'Thessaloniki International Film Festival', 'European Film Forum SCANORAMA', 'London Korean Film Festival', 'French Film Festival')"
+  },
+  {
+    "date": "2021-11-06",
+    "value": 9,
+    "relevant_sport_event": "['ICC World T20 (men)', 'World Cup', 'AIBA World Championships (men)']",
+    "relevant_film_event": "('Tokyo International Film Festival', 'Thessaloniki International Film Festival', 'Geneva International Film Festival', 'European Film Forum SCANORAMA', 'London Korean Film Festival', 'Cork International Film Festival', 'French Film Festival')"
+  },
+  {
+    "date": "2021-11-07",
+    "value": 3,
+    "relevant_sport_event": "['ICC World T20 (men)', 'World Cup']",
+    "relevant_film_event": "('Tokyo International Film Festival', 'Thessaloniki International Film Festival', 'Geneva International Film Festival', 'European Film Forum SCANORAMA', 'London Korean Film Festival', 'Cork International Film Festival', 'French Film Festival')"
+  },
+  {
+    "date": "2021-11-08",
+    "value": 1,
+    "relevant_sport_event": "['ICC World T20 (men)', 'World Cup']",
+    "relevant_film_event": "('Thessaloniki International Film Festival', 'Geneva International Film Festival', 'European Film Forum SCANORAMA', 'London Korean Film Festival', 'Cork International Film Festival', 'French Film Festival', 'Made In Prague Festival')"
+  },
+  {
+    "date": "2021-11-09",
+    "value": 1038,
+    "relevant_sport_event": "['ICC World T20 (men)', 'World Cup']",
+    "relevant_film_event": "('Thessaloniki International Film Festival', 'Geneva International Film Festival', 'European Film Forum SCANORAMA', 'London Korean Film Festival', 'Cork International Film Festival', 'French Film Festival', 'Made In Prague Festival')"
+  },
+  {
+    "date": "2021-11-10",
+    "value": 7,
+    "relevant_sport_event": "['ICC World T20 (men)', 'World Cup']",
+    "relevant_film_event": "('Thessaloniki International Film Festival', 'Geneva International Film Festival', 'American Film Festival', 'European Film Forum SCANORAMA', 'London Korean Film Festival', 'Cork International Film Festival', 'French Film Festival', 'Made In Prague Festival')"
+  },
+  {
+    "date": "2021-11-11",
+    "value": 241,
+    "relevant_sport_event": "['ICC World T20 (men)', 'World Cup']",
+    "relevant_film_event": "('Thessaloniki International Film Festival', 'Geneva International Film Festival', 'American Film Festival', 'European Film Forum SCANORAMA', 'London Korean Film Festival', 'Cork International Film Festival', 'Stockholm International Film Festival', 'DOC NYC', 'French Film Festival', 'Made In Prague Festival')"
+  },
+  {
+    "date": "2021-11-12",
+    "value": 5,
+    "relevant_sport_event": "['ICC World T20 (men)', 'World Cup']",
+    "relevant_film_event": "('Thessaloniki International Film Festival', 'Geneva International Film Festival', 'American Film Festival', 'European Film Forum SCANORAMA', 'London Korean Film Festival', 'Cork International Film Festival', 'Stockholm International Film Festival', 'DOC NYC', 'French Film Festival', 'Made In Prague Festival')"
+  },
+  {
+    "date": "2021-11-13",
+    "value": 14,
+    "relevant_sport_event": "['ICC World T20 (men)', 'World Cup']",
+    "relevant_film_event": "('Thessaloniki International Film Festival', 'Geneva International Film Festival', 'American Film Festival', 'European Film Forum SCANORAMA', 'London Korean Film Festival', 'Cork International Film Festival', 'Stockholm International Film Festival', 'DOC NYC', 'Norwich Film Festival', 'Tallinn Black Nights Film Festival', 'French Film Festival', 'Made In Prague Festival')"
+  },
+  {
+    "date": "2021-11-15",
+    "value": 25,
+    "relevant_sport_event": "['World Cup']",
+    "relevant_film_event": "('European Film Forum SCANORAMA', 'London Korean Film Festival', 'Cork International Film Festival', 'Stockholm International Film Festival', 'DOC NYC', 'Norwich Film Festival', 'Tallinn Black Nights Film Festival', 'French Film Festival', 'Made In Prague Festival')"
+  },
+  {
+    "date": "2021-11-17",
+    "value": 1,
+    "relevant_sport_event": "['World Cup']",
+    "relevant_film_event": "('European Film Forum SCANORAMA', 'London Korean Film Festival', 'Cork International Film Festival', 'Stockholm International Film Festival', 'DOC NYC', 'Norwich Film Festival', 'Tallinn Black Nights Film Festival', 'French Film Festival', 'Made In Prague Festival')"
+  },
+  {
+    "date": "2021-11-18",
+    "value": 1160,
+    "relevant_sport_event": "['World Cup']",
+    "relevant_film_event": "('European Film Forum SCANORAMA', 'London Korean Film Festival', 'Cork International Film Festival', 'Stockholm International Film Festival', 'Norwich Film Festival', 'Tallinn Black Nights Film Festival', 'International Documentary Festival Amsterdam', 'French Film Festival', 'Made In Prague Festival')"
+  },
+  {
+    "date": "2021-11-19",
+    "value": 8,
+    "relevant_sport_event": "['World Cup']",
+    "relevant_film_event": "('European Film Forum SCANORAMA', 'Cork International Film Festival', 'Stockholm International Film Festival', 'Norwich Film Festival', 'Tallinn Black Nights Film Festival', 'International Documentary Festival Amsterdam', 'Cambridge Film Festival', 'Bali International Film Festival (Balinale)', 'French Film Festival', 'Made In Prague Festival')"
+  },
+  {
+    "date": "2021-11-20",
+    "value": 211,
+    "relevant_sport_event": "['World Cup']",
+    "relevant_film_event": "('European Film Forum SCANORAMA', 'Cork International Film Festival', 'Stockholm International Film Festival', 'Norwich Film Festival', 'Tallinn Black Nights Film Festival', 'International Documentary Festival Amsterdam', 'Cambridge Film Festival', 'Bali International Film Festival (Balinale)', 'French Film Festival', 'Made In Prague Festival')"
+  },
+  {
+    "date": "2021-11-21",
+    "value": 2,
+    "relevant_sport_event": "['World Cup', 'South-East Asian Games']",
+    "relevant_film_event": "('Tallinn Black Nights Film Festival', 'International Documentary Festival Amsterdam', 'Cambridge Film Festival', 'French Film Festival', 'Made In Prague Festival')"
+  },
+  {
+    "date": "2021-11-22",
+    "value": 15,
+    "relevant_sport_event": "['World Cup', 'South-East Asian Games']",
+    "relevant_film_event": "('Tallinn Black Nights Film Festival', 'International Documentary Festival Amsterdam', 'Cambridge Film Festival', 'French Film Festival', 'Made In Prague Festival')"
+  },
+  {
+    "date": "2021-11-24",
+    "value": 196,
+    "relevant_sport_event": "['World Cup', 'South-East Asian Games', 'World Championship']",
+    "relevant_film_event": "('Tallinn Black Nights Film Festival', 'International Documentary Festival Amsterdam', 'Cambridge Film Festival', 'French Film Festival', 'Made In Prague Festival')"
+  },
+  {
+    "date": "2021-11-25",
+    "value": 33,
+    "relevant_sport_event": "['World Cup', 'South-East Asian Games', 'World Championship']",
+    "relevant_film_event": "('Tallinn Black Nights Film Festival', 'International Documentary Festival Amsterdam', 'French Film Festival', 'Made In Prague Festival')"
+  },
+  {
+    "date": "2021-11-26",
+    "value": 1500,
+    "relevant_sport_event": "['World Cup', 'South-East Asian Games', 'World Championship']",
+    "relevant_film_event": "('Tallinn Black Nights Film Festival', 'International Documentary Festival Amsterdam', 'French Film Festival', 'Made In Prague Festival')"
+  },
+  {
+    "date": "2021-11-28",
+    "value": 2,
+    "relevant_sport_event": "['South-East Asian Games', 'World Championship']",
+    "relevant_film_event": "('French Film Festival', 'Made In Prague Festival')"
+  },
+  {
+    "date": "2021-11-29",
+    "value": 7,
+    "relevant_sport_event": "['South-East Asian Games', 'World Championship']",
+    "relevant_film_event": "('French Film Festival', 'Made In Prague Festival')"
+  },
+  {
+    "date": "2021-11-30",
+    "value": 63,
+    "relevant_sport_event": "['South-East Asian Games']",
+    "relevant_film_event": "('French Film Festival', 'Made In Prague Festival', 'Ventana Sur')"
+  },
+  {
+    "date": "2021-12-01",
+    "value": 1056,
+    "relevant_sport_event": "['South-East Asian Games']",
+    "relevant_film_event": "('French Film Festival', 'Made In Prague Festival', 'Ventana Sur')"
+  },
+  {
+    "date": "2021-12-02",
+    "value": 2444,
+    "relevant_sport_event": "['South-East Asian Games', 'World Championships (women)']",
+    "relevant_film_event": "('French Film Festival', 'Made In Prague Festival', 'Ventana Sur')"
+  },
+  {
+    "date": "2021-12-03",
+    "value": 8,
+    "relevant_sport_event": "['World Championships (women)']",
+    "relevant_film_event": "('French Film Festival', 'Made In Prague Festival')"
+  },
+  {
+    "date": "2021-12-04",
+    "value": 196,
+    "relevant_sport_event": "['World Championships (women)']",
+    "relevant_film_event": "('French Film Festival', 'Made In Prague Festival')"
+  },
+  {
+    "date": "2021-12-05",
+    "value": 6,
+    "relevant_sport_event": "['World Championships (women)']",
+    "relevant_film_event": "('French Film Festival', 'Made In Prague Festival')"
+  },
+  {
+    "date": "2021-12-06",
+    "value": 38,
+    "relevant_sport_event": "['World Championships (women)']",
+    "relevant_film_event": "('French Film Festival', 'Made In Prague Festival')"
+  },
+  {
+    "date": "2021-12-07",
+    "value": 1,
+    "relevant_sport_event": "['World Championships (women)', 'World Championships']",
+    "relevant_film_event": "('French Film Festival', 'Made In Prague Festival', 'Red Sea Film Festival')"
+  },
+  {
+    "date": "2021-12-08",
+    "value": 62,
+    "relevant_sport_event": "['World Championships (women)', 'World Championships']",
+    "relevant_film_event": "('French Film Festival', 'Made In Prague Festival', 'Red Sea Film Festival')"
+  },
+  {
+    "date": "2021-12-09",
+    "value": 360,
+    "relevant_sport_event": "['World Championships (women)', 'World Championships']",
+    "relevant_film_event": "('French Film Festival', 'Made In Prague Festival', 'Red Sea Film Festival')"
+  },
+  {
+    "date": "2021-12-10",
+    "value": 63,
+    "relevant_sport_event": "['World Championships (women)', 'World Championships']",
+    "relevant_film_event": "('Red Sea Film Festival',)"
+  },
+  {
+    "date": "2021-12-12",
+    "value": 1,
+    "relevant_sport_event": "['World Championships (women)', 'World Championships', 'Winter FISU World University Games']",
+    "relevant_film_event": "('Red Sea Film Festival', 'Les Arcs Film Festival')"
+  },
+  {
+    "date": "2021-12-13",
+    "value": 73,
+    "relevant_sport_event": "['World Championships (women)', 'World Championships', 'Winter FISU World University Games']",
+    "relevant_film_event": "('Red Sea Film Festival', 'Les Arcs Film Festival')"
+  },
+  {
+    "date": "2021-12-14",
+    "value": 25,
+    "relevant_sport_event": "['World Championships (women)', 'World Championships', 'Winter FISU World University Games']",
+    "relevant_film_event": "('Red Sea Film Festival', 'Les Arcs Film Festival')"
+  },
+  {
+    "date": "2021-12-16",
+    "value": 4,
+    "relevant_sport_event": "['World Championships (women)', 'World Championships', 'Winter FISU World University Games', 'FINA World Swimming Championships (25m)']",
+    "relevant_film_event": "('Les Arcs Film Festival',)"
+  },
+  {
+    "date": "2021-12-17",
+    "value": 32,
+    "relevant_sport_event": "['World Championships (women)', 'World Championships', 'Winter FISU World University Games', 'FINA World Swimming Championships (25m)']",
+    "relevant_film_event": "('Les Arcs Film Festival',)"
+  },
+  {
+    "date": "2021-12-18",
+    "value": 9,
+    "relevant_sport_event": "['World Championships (women)', 'Winter FISU World University Games', 'FINA World Swimming Championships (25m)']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-12-19",
+    "value": 14,
+    "relevant_sport_event": "['World Championships (women)', 'Winter FISU World University Games', 'FINA World Swimming Championships (25m)']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-12-20",
+    "value": 145,
+    "relevant_sport_event": "['Winter FISU World University Games', 'FINA World Swimming Championships (25m)']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-12-21",
+    "value": 17,
+    "relevant_sport_event": "['Winter FISU World University Games', 'FINA World Swimming Championships (25m)']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-12-22",
+    "value": 16,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-12-24",
+    "value": 776,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-12-25",
+    "value": 2,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-12-26",
+    "value": 17,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-12-27",
+    "value": 207,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-12-28",
+    "value": 8,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-12-29",
+    "value": 18,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-12-30",
+    "value": 24,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2021-12-31",
+    "value": 5,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2022-01-01",
+    "value": 18,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2022-01-02",
+    "value": 15,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2022-01-03",
+    "value": 83,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2022-01-04",
+    "value": 1,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2022-01-05",
+    "value": 91,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2022-01-06",
+    "value": 512,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2022-01-07",
+    "value": 10,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2022-01-08",
+    "value": 416,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2022-01-09",
+    "value": 39,
+    "relevant_sport_event": "['Africa Cup of Nations']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2022-01-10",
+    "value": 49,
+    "relevant_sport_event": "['Africa Cup of Nations']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2022-01-11",
+    "value": 37,
+    "relevant_sport_event": "['Africa Cup of Nations']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2022-01-12",
+    "value": 983,
+    "relevant_sport_event": "['Africa Cup of Nations']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2022-01-13",
+    "value": 1114,
+    "relevant_sport_event": "['Africa Cup of Nations']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2022-01-14",
+    "value": 439,
+    "relevant_sport_event": "['Africa Cup of Nations']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2022-01-15",
+    "value": 486,
+    "relevant_sport_event": "['Africa Cup of Nations']",
+    "relevant_film_event": "('Belmont World Film Family Film Festival',)"
+  },
+  {
+    "date": "2022-01-16",
+    "value": 560,
+    "relevant_sport_event": "['Africa Cup of Nations']",
+    "relevant_film_event": "('Belmont World Film Family Film Festival',)"
+  },
+  {
+    "date": "2022-01-17",
+    "value": 2224,
+    "relevant_sport_event": "['Africa Cup of Nations', 'Australian Open']",
+    "relevant_film_event": "('Belmont World Film Family Film Festival',)"
+  },
+  {
+    "date": "2022-01-18",
+    "value": 1307,
+    "relevant_sport_event": "['Africa Cup of Nations', 'Australian Open']",
+    "relevant_film_event": "('Belmont World Film Family Film Festival', 'FIPADOC Documentary Film Festival')"
+  },
+  {
+    "date": "2022-01-19",
+    "value": 1829,
+    "relevant_sport_event": "['Africa Cup of Nations', 'Australian Open']",
+    "relevant_film_event": "('Belmont World Film Family Film Festival', 'FIPADOC Documentary Film Festival')"
+  },
+  {
+    "date": "2022-01-20",
+    "value": 1332,
+    "relevant_sport_event": "['Africa Cup of Nations', 'Australian Open']",
+    "relevant_film_event": "('Belmont World Film Family Film Festival', 'FIPADOC Documentary Film Festival')"
+  },
+  {
+    "date": "2022-01-21",
+    "value": 381,
+    "relevant_sport_event": "['Africa Cup of Nations', 'Australian Open', 'Winter X Games 26']",
+    "relevant_film_event": "('Belmont World Film Family Film Festival', 'FIPADOC Documentary Film Festival', 'Sundance Film Festival')"
+  },
+  {
+    "date": "2022-01-22",
+    "value": 499,
+    "relevant_sport_event": "['Africa Cup of Nations', 'Australian Open', 'Winter X Games 26']",
+    "relevant_film_event": "('Belmont World Film Family Film Festival', 'FIPADOC Documentary Film Festival', 'Sundance Film Festival')"
+  },
+  {
+    "date": "2022-01-23",
+    "value": 177,
+    "relevant_sport_event": "['Africa Cup of Nations', 'Australian Open', 'Winter X Games 26']",
+    "relevant_film_event": "('Sundance Film Festival',)"
+  },
+  {
+    "date": "2022-01-24",
+    "value": 375,
+    "relevant_sport_event": "['Africa Cup of Nations', 'Australian Open']",
+    "relevant_film_event": "('Sundance Film Festival',)"
+  },
+  {
+    "date": "2022-01-25",
+    "value": 635,
+    "relevant_sport_event": "['Africa Cup of Nations', 'Australian Open']",
+    "relevant_film_event": "('Sundance Film Festival',)"
+  },
+  {
+    "date": "2022-01-26",
+    "value": 479,
+    "relevant_sport_event": "['Africa Cup of Nations', 'Australian Open']",
+    "relevant_film_event": "('Sundance Film Festival',)"
+  },
+  {
+    "date": "2022-01-27",
+    "value": 390,
+    "relevant_sport_event": "['Africa Cup of Nations', 'Australian Open']",
+    "relevant_film_event": "('Sundance Film Festival', 'International Film Festival Rotterdam')"
+  },
+  {
+    "date": "2022-01-28",
+    "value": 228,
+    "relevant_sport_event": "['Africa Cup of Nations', 'Australian Open']",
+    "relevant_film_event": "('Sundance Film Festival', 'International Film Festival Rotterdam')"
+  },
+  {
+    "date": "2022-01-29",
+    "value": 106,
+    "relevant_sport_event": "['Africa Cup of Nations', 'Australian Open']",
+    "relevant_film_event": "('Sundance Film Festival', 'Mountainfilm', 'International Film Festival Rotterdam')"
+  },
+  {
+    "date": "2022-01-30",
+    "value": 120,
+    "relevant_sport_event": "['Africa Cup of Nations', 'Australian Open']",
+    "relevant_film_event": "('International Film Festival Rotterdam',)"
+  },
+  {
+    "date": "2022-01-31",
+    "value": 192,
+    "relevant_sport_event": "['Africa Cup of Nations']",
+    "relevant_film_event": "('International Film Festival Rotterdam',)"
+  },
+  {
+    "date": "2022-02-01",
+    "value": 80,
+    "relevant_sport_event": "['Africa Cup of Nations']",
+    "relevant_film_event": "('International Film Festival Rotterdam', 'Docpoint Helsinki Documentary Film Festival')"
+  },
+  {
+    "date": "2022-02-02",
+    "value": 67,
+    "relevant_sport_event": "['Africa Cup of Nations']",
+    "relevant_film_event": "('International Film Festival Rotterdam', 'Docpoint Helsinki Documentary Film Festival')"
+  },
+  {
+    "date": "2022-02-03",
+    "value": 154,
+    "relevant_sport_event": "['Africa Cup of Nations']",
+    "relevant_film_event": "('International Film Festival Rotterdam', 'Docpoint Helsinki Documentary Film Festival')"
+  },
+  {
+    "date": "2022-02-04",
+    "value": 9,
+    "relevant_sport_event": "['Africa Cup of Nations', 'Winter Olympics']",
+    "relevant_film_event": "('International Film Festival Rotterdam', 'Docpoint Helsinki Documentary Film Festival', 'SCAD TVFest')"
+  },
+  {
+    "date": "2022-02-05",
+    "value": 23,
+    "relevant_sport_event": "['Africa Cup of Nations', 'Winter Olympics', 'Six Nations']",
+    "relevant_film_event": "('International Film Festival Rotterdam', 'Docpoint Helsinki Documentary Film Festival')"
+  },
+  {
+    "date": "2022-02-06",
+    "value": 73,
+    "relevant_sport_event": "['Africa Cup of Nations', 'Winter Olympics', 'Six Nations']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2022-02-07",
+    "value": 38,
+    "relevant_sport_event": "['Winter Olympics', 'Six Nations']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2022-02-08",
+    "value": 254,
+    "relevant_sport_event": "['Winter Olympics', 'Six Nations']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2022-02-09",
+    "value": 810,
+    "relevant_sport_event": "['Winter Olympics', 'Six Nations']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2022-02-10",
+    "value": 9,
+    "relevant_sport_event": "['Winter Olympics', 'Six Nations']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2022-02-11",
+    "value": 21,
+    "relevant_sport_event": "['Winter Olympics', 'Six Nations']",
+    "relevant_film_event": "('European Film Market', 'Berlin International Film Festival')"
+  },
+  {
+    "date": "2022-02-12",
+    "value": 70,
+    "relevant_sport_event": "['Winter Olympics', 'Six Nations']",
+    "relevant_film_event": "('European Film Market', 'Berlin International Film Festival')"
+  },
+  {
+    "date": "2022-02-13",
+    "value": 256,
+    "relevant_sport_event": "['Winter Olympics', 'Six Nations', 'Super Bowl']",
+    "relevant_film_event": "('European Film Market', 'Berlin International Film Festival')"
+  },
+  {
+    "date": "2022-02-14",
+    "value": 183,
+    "relevant_sport_event": "['Winter Olympics', 'Six Nations']",
+    "relevant_film_event": "('European Film Market', 'Berlin International Film Festival')"
+  },
+  {
+    "date": "2022-02-15",
+    "value": 189,
+    "relevant_sport_event": "['Winter Olympics', 'Six Nations']",
+    "relevant_film_event": "('European Film Market', 'Berlin International Film Festival')"
+  },
+  {
+    "date": "2022-02-16",
+    "value": 42,
+    "relevant_sport_event": "['Winter Olympics', 'Six Nations']",
+    "relevant_film_event": "('European Film Market', 'Berlin International Film Festival')"
+  },
+  {
+    "date": "2022-02-17",
+    "value": 363,
+    "relevant_sport_event": "['Winter Olympics', 'Six Nations']",
+    "relevant_film_event": "('Berlin International Film Festival',)"
+  },
+  {
+    "date": "2022-02-18",
+    "value": 13,
+    "relevant_sport_event": "['Winter Olympics', 'Six Nations']",
+    "relevant_film_event": "('Berlin International Film Festival', 'BFI Future Film Festival')"
+  },
+  {
+    "date": "2022-02-19",
+    "value": 60,
+    "relevant_sport_event": "['Winter Olympics', 'Six Nations']",
+    "relevant_film_event": "('Berlin International Film Festival', 'BFI Future Film Festival')"
+  },
+  {
+    "date": "2022-02-20",
+    "value": 67,
+    "relevant_sport_event": "['Winter Olympics', 'Six Nations']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2022-02-21",
+    "value": 51,
+    "relevant_sport_event": "['Six Nations']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2022-02-22",
+    "value": 73,
+    "relevant_sport_event": "['Six Nations']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2022-02-23",
+    "value": 57,
+    "relevant_sport_event": "['Six Nations']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2022-02-24",
+    "value": 95,
+    "relevant_sport_event": "['Six Nations']",
+    "relevant_film_event": "('Dublin International Film Festival',)"
+  },
+  {
+    "date": "2022-02-25",
+    "value": 7,
+    "relevant_sport_event": "['Six Nations']",
+    "relevant_film_event": "('Dublin International Film Festival',)"
+  },
+  {
+    "date": "2022-02-26",
+    "value": 225,
+    "relevant_sport_event": "['Six Nations']",
+    "relevant_film_event": "('Dublin International Film Festival',)"
+  },
+  {
+    "date": "2022-02-27",
+    "value": 43,
+    "relevant_sport_event": "['Six Nations']",
+    "relevant_film_event": "('Dublin International Film Festival',)"
+  },
+  {
+    "date": "2022-02-28",
+    "value": 317,
+    "relevant_sport_event": "['Six Nations']",
+    "relevant_film_event": "('Dublin International Film Festival',)"
+  },
+  {
+    "date": "2022-03-01",
+    "value": 1847,
+    "relevant_sport_event": "['Six Nations']",
+    "relevant_film_event": "('Dublin International Film Festival',)"
+  },
+  {
+    "date": "2022-03-02",
+    "value": 1074,
+    "relevant_sport_event": "['Six Nations']",
+    "relevant_film_event": "('Dublin International Film Festival',)"
+  },
+  {
+    "date": "2022-03-03",
+    "value": 15,
+    "relevant_sport_event": "['Six Nations']",
+    "relevant_film_event": "('Dublin International Film Festival', 'Glasgow Film Festival')"
+  },
+  {
+    "date": "2022-03-04",
+    "value": 184,
+    "relevant_sport_event": "['Six Nations', 'Winter Paralympics', 'ODI World Cup for women']",
+    "relevant_film_event": "('Dublin International Film Festival', 'True/False Film Fest', 'Glasgow Film Festival')"
+  },
+  {
+    "date": "2022-03-05",
+    "value": 43,
+    "relevant_sport_event": "['Six Nations', 'Winter Paralympics', 'ODI World Cup for women']",
+    "relevant_film_event": "('Dublin International Film Festival', 'True/False Film Fest', 'Glasgow Film Festival', 'Miami Film Festival', 'Borderlines Film Festival')"
+  },
+  {
+    "date": "2022-03-06",
+    "value": 114,
+    "relevant_sport_event": "['Six Nations', 'Winter Paralympics', 'ODI World Cup for women']",
+    "relevant_film_event": "('Glasgow Film Festival', 'Miami Film Festival', 'Borderlines Film Festival')"
+  },
+  {
+    "date": "2022-03-07",
+    "value": 130,
+    "relevant_sport_event": "['Six Nations', 'Winter Paralympics', 'ODI World Cup for women']",
+    "relevant_film_event": "('Glasgow Film Festival', 'Miami Film Festival', 'Borderlines Film Festival')"
+  },
+  {
+    "date": "2022-03-08",
+    "value": 432,
+    "relevant_sport_event": "['Six Nations', 'Winter Paralympics', 'ODI World Cup for women']",
+    "relevant_film_event": "('Glasgow Film Festival', 'Miami Film Festival', 'Borderlines Film Festival')"
+  },
+  {
+    "date": "2022-03-09",
+    "value": 594,
+    "relevant_sport_event": "['Six Nations', 'Winter Paralympics', 'ODI World Cup for women']",
+    "relevant_film_event": "('Cartoon Movie', 'Glasgow Film Festival', 'Miami Film Festival', 'Celebrating Women in MEDIA', 'Borderlines Film Festival')"
+  },
+  {
+    "date": "2022-03-10",
+    "value": 99,
+    "relevant_sport_event": "['Six Nations', 'Winter Paralympics', 'ODI World Cup for women']",
+    "relevant_film_event": "('Glasgow Film Festival', 'Miami Film Festival', 'Celebrating Women in MEDIA', 'Borderlines Film Festival')"
+  },
+  {
+    "date": "2022-03-11",
+    "value": 13,
+    "relevant_sport_event": "['Six Nations', 'Winter Paralympics', 'ODI World Cup for women']",
+    "relevant_film_event": "('Glasgow Film Festival', 'Miami Film Festival', 'Celebrating Women in MEDIA', 'Borderlines Film Festival', 'Sofia International Film Festival', 'Thessaloniki Documentary Festival', 'Mostly British Film Festival')"
+  },
+  {
+    "date": "2022-03-12",
+    "value": 1,
+    "relevant_sport_event": "['Six Nations', 'Winter Paralympics', 'ODI World Cup for women']",
+    "relevant_film_event": "('Glasgow Film Festival', 'Miami Film Festival', 'Celebrating Women in MEDIA', 'Borderlines Film Festival', 'Sofia International Film Festival', 'Thessaloniki Documentary Festival', 'Mostly British Film Festival', 'SXSW')"
+  },
+  {
+    "date": "2022-03-13",
+    "value": 3,
+    "relevant_sport_event": "['Six Nations', 'Winter Paralympics', 'ODI World Cup for women']",
+    "relevant_film_event": "('Borderlines Film Festival', 'Sofia International Film Festival', 'Thessaloniki Documentary Festival', 'Mostly British Film Festival', 'SXSW')"
+  },
+  {
+    "date": "2022-03-14",
+    "value": 1373,
+    "relevant_sport_event": "['Six Nations', 'ODI World Cup for women']",
+    "relevant_film_event": "('Borderlines Film Festival', 'Sofia International Film Festival', 'Thessaloniki Documentary Festival', 'Mostly British Film Festival', 'SXSW')"
+  },
+  {
+    "date": "2022-03-15",
+    "value": 552,
+    "relevant_sport_event": "['Six Nations', 'ODI World Cup for women']",
+    "relevant_film_event": "('Hong Kong Asia Film Financing Forum', 'Borderlines Film Festival', 'Sofia International Film Festival', 'Thessaloniki Documentary Festival', 'Mostly British Film Festival', 'SXSW', 'Filmart')"
+  },
+  {
+    "date": "2022-03-16",
+    "value": 235,
+    "relevant_sport_event": "['Six Nations', 'ODI World Cup for women']",
+    "relevant_film_event": "('Borderlines Film Festival', 'Sofia International Film Festival', 'Thessaloniki Documentary Festival', 'Mostly British Film Festival', 'SXSW', 'Filmart')"
+  },
+  {
+    "date": "2022-03-17",
+    "value": 228,
+    "relevant_sport_event": "['Six Nations', 'ODI World Cup for women']",
+    "relevant_film_event": "('Borderlines Film Festival', 'Sofia International Film Festival', 'Thessaloniki Documentary Festival', 'SXSW', 'Sofia Meetings', 'BFI Flare: London LGBTQIA+ Film Festival')"
+  },
+  {
+    "date": "2022-03-18",
+    "value": 4,
+    "relevant_sport_event": "['Six Nations', 'ODI World Cup for women']",
+    "relevant_film_event": "('Borderlines Film Festival', 'Sofia International Film Festival', 'Thessaloniki Documentary Festival', 'SXSW', 'Sofia Meetings', 'BFI Flare: London LGBTQIA+ Film Festival')"
+  },
+  {
+    "date": "2022-03-19",
+    "value": 53,
+    "relevant_sport_event": "['Six Nations', 'ODI World Cup for women']",
+    "relevant_film_event": "('Borderlines Film Festival', 'Sofia International Film Festival', 'Thessaloniki Documentary Festival', 'SXSW', 'Sofia Meetings', 'BFI Flare: London LGBTQIA+ Film Festival', 'Series Mania', 'Malaga Film Festival')"
+  },
+  {
+    "date": "2022-03-20",
+    "value": 11,
+    "relevant_sport_event": "['ODI World Cup for women']",
+    "relevant_film_event": "('BFI Flare: London LGBTQIA+ Film Festival', 'Series Mania', 'Malaga Film Festival')"
+  },
+  {
+    "date": "2022-03-21",
+    "value": 87,
+    "relevant_sport_event": "['ODI World Cup for women']",
+    "relevant_film_event": "('BFI Flare: London LGBTQIA+ Film Festival', 'Series Mania', 'Malaga Film Festival')"
+  },
+  {
+    "date": "2022-03-22",
+    "value": 33,
+    "relevant_sport_event": "['ODI World Cup for women', 'Winter Military World Games']",
+    "relevant_film_event": "('BFI Flare: London LGBTQIA+ Film Festival', 'Series Mania', 'Malaga Film Festival', 'Belmont World Film\u00e2\u0080\u0099s International Film Series')"
+  },
+  {
+    "date": "2022-03-23",
+    "value": 57,
+    "relevant_sport_event": "['ODI World Cup for women', 'Winter Military World Games']",
+    "relevant_film_event": "('BFI Flare: London LGBTQIA+ Film Festival', 'Series Mania', 'Malaga Film Festival', 'Belmont World Film\u00e2\u0080\u0099s International Film Series')"
+  },
+  {
+    "date": "2022-03-24",
+    "value": 347,
+    "relevant_sport_event": "['ODI World Cup for women', 'Winter Military World Games']",
+    "relevant_film_event": "('BFI Flare: London LGBTQIA+ Film Festival', 'Series Mania', 'Malaga Film Festival', 'Sonoma International Film Festival', 'CPH:DOX', 'Belmont World Film\u00e2\u0080\u0099s International Film Series')"
+  },
+  {
+    "date": "2022-03-25",
+    "value": 66,
+    "relevant_sport_event": "['ODI World Cup for women', 'Winter Military World Games']",
+    "relevant_film_event": "('BFI Flare: London LGBTQIA+ Film Festival', 'Malaga Film Festival', 'Sonoma International Film Festival', 'CPH:DOX', 'Vilnius International Film Festival', 'Belmont World Film\u00e2\u0080\u0099s International Film Series')"
+  },
+  {
+    "date": "2022-03-26",
+    "value": 40,
+    "relevant_sport_event": "['ODI World Cup for women', 'Winter Military World Games']",
+    "relevant_film_event": "('BFI Flare: London LGBTQIA+ Film Festival', 'Malaga Film Festival', 'Sonoma International Film Festival', 'CPH:DOX', 'Vilnius International Film Festival', 'Belmont World Film\u00e2\u0080\u0099s International Film Series')"
+  },
+  {
+    "date": "2022-03-27",
+    "value": 53,
+    "relevant_sport_event": "['ODI World Cup for women', 'Winter Military World Games']",
+    "relevant_film_event": "('CPH:DOX', 'Vilnius International Film Festival', 'Belmont World Film\u00e2\u0080\u0099s International Film Series')"
+  },
+  {
+    "date": "2022-03-28",
+    "value": 95,
+    "relevant_sport_event": "['ODI World Cup for women']",
+    "relevant_film_event": "('CPH:DOX', 'Vilnius International Film Festival', 'Belmont World Film\u00e2\u0080\u0099s International Film Series')"
+  },
+  {
+    "date": "2022-03-29",
+    "value": 284,
+    "relevant_sport_event": "['ODI World Cup for women']",
+    "relevant_film_event": "('CPH:DOX', 'Vilnius International Film Festival', 'Belmont World Film\u00e2\u0080\u0099s International Film Series')"
+  },
+  {
+    "date": "2022-03-30",
+    "value": 67,
+    "relevant_sport_event": "['ODI World Cup for women']",
+    "relevant_film_event": "('CPH:DOX', 'Vilnius International Film Festival', 'Belmont World Film\u00e2\u0080\u0099s International Film Series')"
+  },
+  {
+    "date": "2022-03-31",
+    "value": 15,
+    "relevant_sport_event": "['ODI World Cup for women']",
+    "relevant_film_event": "('CPH:DOX', 'Vilnius International Film Festival', 'Sun Valley Film Festival', 'Belmont World Film\u00e2\u0080\u0099s International Film Series')"
+  },
+  {
+    "date": "2022-04-01",
+    "value": 5,
+    "relevant_sport_event": "['ODI World Cup for women']",
+    "relevant_film_event": "('CPH:DOX', 'Vilnius International Film Festival', 'Sun Valley Film Festival', 'Hong Kong International Film Festival')"
+  },
+  {
+    "date": "2022-04-02",
+    "value": 6,
+    "relevant_sport_event": "['ODI World Cup for women']",
+    "relevant_film_event": "('CPH:DOX', 'Vilnius International Film Festival', 'Sun Valley Film Festival', 'Canneseries', 'DOX:Online', 'Hong Kong International Film Festival')"
+  },
+  {
+    "date": "2022-04-03",
+    "value": 27,
+    "relevant_sport_event": "['ODI World Cup for women']",
+    "relevant_film_event": "('Canneseries', 'DOX:Online', 'Hong Kong International Film Festival')"
+  },
+  {
+    "date": "2022-04-04",
+    "value": 10,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('Canneseries', 'DOX:Online', 'Hong Kong International Film Festival')"
+  },
+  {
+    "date": "2022-04-05",
+    "value": 94,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('Canneseries', 'MIPTV', 'DOX:Online', 'Hong Kong International Film Festival')"
+  },
+  {
+    "date": "2022-04-06",
+    "value": 141,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('DOX:Online', 'Diagonale', 'Hong Kong International Film Festival')"
+  },
+  {
+    "date": "2022-04-07",
+    "value": 313,
+    "relevant_sport_event": "['Masters']",
+    "relevant_film_event": "('DOX:Online', 'Diagonale', 'Hong Kong International Film Festival')"
+  },
+  {
+    "date": "2022-04-08",
+    "value": 131,
+    "relevant_sport_event": "['Masters']",
+    "relevant_film_event": "('DOX:Online', 'Diagonale', 'Hong Kong International Film Festival', 'Visions du R\u00c3\u00a9el')"
+  },
+  {
+    "date": "2022-04-09",
+    "value": 24,
+    "relevant_sport_event": "['Masters', 'Grand National']",
+    "relevant_film_event": "('DOX:Online', 'Diagonale', 'Hong Kong International Film Festival', 'Visions du R\u00c3\u00a9el', 'Istanbul Film Festival')"
+  },
+  {
+    "date": "2022-04-10",
+    "value": 65,
+    "relevant_sport_event": "['Masters']",
+    "relevant_film_event": "('Hong Kong International Film Festival', 'Visions du R\u00c3\u00a9el', 'Istanbul Film Festival')"
+  },
+  {
+    "date": "2022-04-11",
+    "value": 13,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('Visions du R\u00c3\u00a9el', 'Istanbul Film Festival')"
+  },
+  {
+    "date": "2022-04-12",
+    "value": 13,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('Visions du R\u00c3\u00a9el', 'Istanbul Film Festival')"
+  },
+  {
+    "date": "2022-04-13",
+    "value": 2,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('Visions du R\u00c3\u00a9el', 'Istanbul Film Festival')"
+  },
+  {
+    "date": "2022-04-14",
+    "value": 64,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('Visions du R\u00c3\u00a9el', 'Istanbul Film Festival', 'Fantaspoa Film Festival')"
+  },
+  {
+    "date": "2022-04-15",
+    "value": 16,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('Visions du R\u00c3\u00a9el', 'Istanbul Film Festival', 'Seattle International Film Festival', 'Fantaspoa Film Festival')"
+  },
+  {
+    "date": "2022-04-17",
+    "value": 2,
+    "relevant_sport_event": "['Invictus Games', 'World Snooker Championship']",
+    "relevant_film_event": "('Istanbul Film Festival', 'Seattle International Film Festival', 'Fantaspoa Film Festival')"
+  },
+  {
+    "date": "2022-04-18",
+    "value": 117,
+    "relevant_sport_event": "['Invictus Games', 'World Snooker Championship']",
+    "relevant_film_event": "('Istanbul Film Festival', 'Seattle International Film Festival', 'Fantaspoa Film Festival')"
+  },
+  {
+    "date": "2022-04-19",
+    "value": 362,
+    "relevant_sport_event": "['Invictus Games', 'World Snooker Championship']",
+    "relevant_film_event": "('Seattle International Film Festival', 'Fantaspoa Film Festival')"
+  },
+  {
+    "date": "2022-04-20",
+    "value": 1886,
+    "relevant_sport_event": "['Invictus Games', 'World Snooker Championship']",
+    "relevant_film_event": "('Seattle International Film Festival', 'Fantaspoa Film Festival')"
+  },
+  {
+    "date": "2022-04-21",
+    "value": 392,
+    "relevant_sport_event": "['Invictus Games', 'World Snooker Championship']",
+    "relevant_film_event": "('Seattle International Film Festival', 'Fantaspoa Film Festival')"
+  },
+  {
+    "date": "2022-04-22",
+    "value": 826,
+    "relevant_sport_event": "['Invictus Games', 'World Snooker Championship']",
+    "relevant_film_event": "('Seattle International Film Festival', 'Fantaspoa Film Festival')"
+  },
+  {
+    "date": "2022-04-23",
+    "value": 362,
+    "relevant_sport_event": "['World Snooker Championship']",
+    "relevant_film_event": "('Seattle International Film Festival', 'Fantaspoa Film Festival', 'Far East Film Festival')"
+  },
+  {
+    "date": "2022-04-24",
+    "value": 50,
+    "relevant_sport_event": "['World Snooker Championship']",
+    "relevant_film_event": "('Fantaspoa Film Festival', 'Far East Film Festival')"
+  },
+  {
+    "date": "2022-04-25",
+    "value": 921,
+    "relevant_sport_event": "['World Snooker Championship']",
+    "relevant_film_event": "('Fantaspoa Film Festival', 'Far East Film Festival')"
+  },
+  {
+    "date": "2022-04-26",
+    "value": 191,
+    "relevant_sport_event": "['World Snooker Championship']",
+    "relevant_film_event": "('Fantaspoa Film Festival', 'Far East Film Festival')"
+  },
+  {
+    "date": "2022-04-27",
+    "value": 489,
+    "relevant_sport_event": "['World Snooker Championship']",
+    "relevant_film_event": "('Fantaspoa Film Festival', 'Far East Film Festival', 'San Luis Obispo International Film Festival')"
+  },
+  {
+    "date": "2022-04-28",
+    "value": 38,
+    "relevant_sport_event": "['World Snooker Championship']",
+    "relevant_film_event": "('Fantaspoa Film Festival', 'Far East Film Festival', 'San Luis Obispo International Film Festival')"
+  },
+  {
+    "date": "2022-04-29",
+    "value": 14,
+    "relevant_sport_event": "['World Snooker Championship']",
+    "relevant_film_event": "('Fantaspoa Film Festival', 'Far East Film Festival', 'San Luis Obispo International Film Festival', 'Indian Film Festival of Los Angeles', 'Jeonju International Film Festival', 'IndieLisboa International Film Festival', 'HotDocs')"
+  },
+  {
+    "date": "2022-04-30",
+    "value": 36,
+    "relevant_sport_event": "['World Snooker Championship']",
+    "relevant_film_event": "('Fantaspoa Film Festival', 'San Luis Obispo International Film Festival', 'Indian Film Festival of Los Angeles', 'Jeonju International Film Festival', 'IndieLisboa International Film Festival', 'HotDocs')"
+  },
+  {
+    "date": "2022-05-01",
+    "value": 11,
+    "relevant_sport_event": "['World Snooker Championship']",
+    "relevant_film_event": "('Jeonju International Film Festival', 'IndieLisboa International Film Festival', 'HotDocs', 'Belmont World Film\u00e2\u0080\u0099s International Film Series')"
+  },
+  {
+    "date": "2022-05-02",
+    "value": 78,
+    "relevant_sport_event": "['World Snooker Championship']",
+    "relevant_film_event": "('Jeonju International Film Festival', 'IndieLisboa International Film Festival', 'HotDocs', 'Belmont World Film\u00e2\u0080\u0099s International Film Series')"
+  },
+  {
+    "date": "2022-05-04",
+    "value": 232,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('Jeonju International Film Festival', 'IndieLisboa International Film Festival', 'HotDocs', 'Belmont World Film\u00e2\u0080\u0099s International Film Series')"
+  },
+  {
+    "date": "2022-05-05",
+    "value": 1,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('Jeonju International Film Festival', 'IndieLisboa International Film Festival', 'HotDocs', 'Belmont World Film\u00e2\u0080\u0099s International Film Series')"
+  },
+  {
+    "date": "2022-05-06",
+    "value": 470,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('Jeonju International Film Festival', 'IndieLisboa International Film Festival', 'HotDocs', 'Harlem International Film Festival', 'Frames of Representation', 'Belmont World Film\u00e2\u0080\u0099s International Film Series')"
+  },
+  {
+    "date": "2022-05-07",
+    "value": 66,
+    "relevant_sport_event": "['Kentucky Derby']",
+    "relevant_film_event": "('IndieLisboa International Film Festival', 'HotDocs', 'Harlem International Film Festival', 'Frames of Representation', 'Belmont World Film\u00e2\u0080\u0099s International Film Series')"
+  },
+  {
+    "date": "2022-05-08",
+    "value": 45,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('Frames of Representation', 'Belmont World Film\u00e2\u0080\u0099s International Film Series')"
+  },
+  {
+    "date": "2022-05-09",
+    "value": 27,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('Frames of Representation', 'Belmont World Film\u00e2\u0080\u0099s International Film Series')"
+  },
+  {
+    "date": "2022-05-10",
+    "value": 64,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('Frames of Representation', 'Belmont World Film\u00e2\u0080\u0099s International Film Series')"
+  },
+  {
+    "date": "2022-05-11",
+    "value": 116,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('Frames of Representation', 'Belmont World Film\u00e2\u0080\u0099s International Film Series', 'Brixton Village Screen Film Fest')"
+  },
+  {
+    "date": "2022-05-12",
+    "value": 65,
+    "relevant_sport_event": "['South-East Asian Games']",
+    "relevant_film_event": "('Belmont World Film\u00e2\u0080\u0099s International Film Series', 'Brixton Village Screen Film Fest', 'Beldocs International Documentary Film Festival', 'Israel Film Festival')"
+  },
+  {
+    "date": "2022-05-15",
+    "value": 1,
+    "relevant_sport_event": "['South-East Asian Games', 'World Masters Games (Summer)', 'IIHF World Championship']",
+    "relevant_film_event": "('Belmont World Film\u00e2\u0080\u0099s International Film Series', 'Beldocs International Documentary Film Festival', 'Israel Film Festival')"
+  },
+  {
+    "date": "2022-05-16",
+    "value": 205,
+    "relevant_sport_event": "['South-East Asian Games', 'World Masters Games (Summer)', 'IIHF World Championship']",
+    "relevant_film_event": "('Beldocs International Documentary Film Festival', 'Israel Film Festival')"
+  },
+  {
+    "date": "2022-05-17",
+    "value": 788,
+    "relevant_sport_event": "['South-East Asian Games', 'World Masters Games (Summer)', 'IIHF World Championship']",
+    "relevant_film_event": "('Beldocs International Documentary Film Festival', 'Israel Film Festival')"
+  },
+  {
+    "date": "2022-05-18",
+    "value": 75,
+    "relevant_sport_event": "['South-East Asian Games', 'World Masters Games (Summer)', 'IIHF World Championship']",
+    "relevant_film_event": "('Israel Film Festival', 'Cannes Film Festival')"
+  },
+  {
+    "date": "2022-05-19",
+    "value": 81,
+    "relevant_sport_event": "['South-East Asian Games', 'World Masters Games (Summer)', 'IIHF World Championship', 'US PGA']",
+    "relevant_film_event": "('Israel Film Festival', 'Cannes Film Festival')"
+  },
+  {
+    "date": "2022-05-20",
+    "value": 46,
+    "relevant_sport_event": "['South-East Asian Games', 'World Masters Games (Summer)', 'IIHF World Championship', 'US PGA']",
+    "relevant_film_event": "('Israel Film Festival', 'Cannes Film Festival')"
+  },
+  {
+    "date": "2022-05-21",
+    "value": 118,
+    "relevant_sport_event": "['South-East Asian Games', 'World Masters Games (Summer)', 'IIHF World Championship', 'US PGA']",
+    "relevant_film_event": "('Israel Film Festival', 'Cannes Film Festival')"
+  },
+  {
+    "date": "2022-05-22",
+    "value": 113,
+    "relevant_sport_event": "['South-East Asian Games', 'World Masters Games (Summer)', 'IIHF World Championship', 'US PGA', 'French Open']",
+    "relevant_film_event": "('Israel Film Festival', 'Cannes Film Festival')"
+  },
+  {
+    "date": "2022-05-23",
+    "value": 198,
+    "relevant_sport_event": "['South-East Asian Games', 'World Masters Games (Summer)', 'IIHF World Championship', 'French Open']",
+    "relevant_film_event": "('Israel Film Festival', 'Cannes Film Festival')"
+  },
+  {
+    "date": "2022-05-24",
+    "value": 34,
+    "relevant_sport_event": "['World Masters Games (Summer)', 'IIHF World Championship', 'French Open']",
+    "relevant_film_event": "('Israel Film Festival', 'Cannes Film Festival', 'Cheltenham International Film Festival')"
+  },
+  {
+    "date": "2022-05-25",
+    "value": 18,
+    "relevant_sport_event": "['World Masters Games (Summer)', 'IIHF World Championship', 'French Open']",
+    "relevant_film_event": "('Israel Film Festival', 'Cannes Film Festival', 'Nippon Connection Film Festival', 'Cheltenham International Film Festival')"
+  },
+  {
+    "date": "2022-05-26",
+    "value": 25,
+    "relevant_sport_event": "['World Masters Games (Summer)', 'IIHF World Championship', 'French Open']",
+    "relevant_film_event": "('Cannes Film Festival', 'Nippon Connection Film Festival', 'Cheltenham International Film Festival')"
+  },
+  {
+    "date": "2022-05-27",
+    "value": 10,
+    "relevant_sport_event": "['World Masters Games (Summer)', 'IIHF World Championship', 'French Open']",
+    "relevant_film_event": "('Cannes Film Festival', 'Nippon Connection Film Festival', 'Cheltenham International Film Festival', 'Docaviv', 'Inside Out Toronto LGBTQ+ Film Festival')"
+  },
+  {
+    "date": "2022-05-28",
+    "value": 5,
+    "relevant_sport_event": "['World Masters Games (Summer)', 'IIHF World Championship', 'French Open', 'UEFA Champions League Final']",
+    "relevant_film_event": "('Nippon Connection Film Festival', 'Cheltenham International Film Festival', 'Docaviv', 'Inside Out Toronto LGBTQ+ Film Festival')"
+  },
+  {
+    "date": "2022-05-29",
+    "value": 8,
+    "relevant_sport_event": "['World Masters Games (Summer)', 'IIHF World Championship', 'French Open', 'Indianapolis 500 ']",
+    "relevant_film_event": "('Cheltenham International Film Festival', 'Docaviv', 'Inside Out Toronto LGBTQ+ Film Festival')"
+  },
+  {
+    "date": "2022-05-30",
+    "value": 149,
+    "relevant_sport_event": "['French Open']",
+    "relevant_film_event": "('Cheltenham International Film Festival', 'Docaviv', 'Inside Out Toronto LGBTQ+ Film Festival', 'Krakow Film Festival')"
+  },
+  {
+    "date": "2022-05-31",
+    "value": 15,
+    "relevant_sport_event": "['French Open']",
+    "relevant_film_event": "('Cheltenham International Film Festival', 'Docaviv', 'Inside Out Toronto LGBTQ+ Film Festival', 'Krakow Film Festival')"
+  },
+  {
+    "date": "2022-06-01",
+    "value": 660,
+    "relevant_sport_event": "['French Open']",
+    "relevant_film_event": "('Cheltenham International Film Festival', 'Docaviv', 'Inside Out Toronto LGBTQ+ Film Festival', 'Monaco Streaming Film Festival', 'Krakow Film Festival')"
+  },
+  {
+    "date": "2022-06-02",
+    "value": 526,
+    "relevant_sport_event": "['French Open', 'NBA Finals']",
+    "relevant_film_event": "('Docaviv', 'Inside Out Toronto LGBTQ+ Film Festival', 'Krakow Film Festival')"
+  },
+  {
+    "date": "2022-06-03",
+    "value": 131,
+    "relevant_sport_event": "['French Open', 'NBA Finals']",
+    "relevant_film_event": "('Docaviv', 'Inside Out Toronto LGBTQ+ Film Festival', 'Krakow Film Festival')"
+  },
+  {
+    "date": "2022-06-04",
+    "value": 221,
+    "relevant_sport_event": "['French Open', 'NBA Finals']",
+    "relevant_film_event": "('Docaviv', 'Inside Out Toronto LGBTQ+ Film Festival', 'Krakow Film Festival', 'Krakow Film Festival')"
+  },
+  {
+    "date": "2022-06-05",
+    "value": 56,
+    "relevant_sport_event": "['French Open', 'NBA Finals']",
+    "relevant_film_event": "('Krakow Film Festival',)"
+  },
+  {
+    "date": "2022-06-06",
+    "value": 114,
+    "relevant_sport_event": "['NBA Finals']",
+    "relevant_film_event": "('Krakow Film Festival',)"
+  },
+  {
+    "date": "2022-06-07",
+    "value": 23,
+    "relevant_sport_event": "['NBA Finals']",
+    "relevant_film_event": "('Krakow Film Festival',)"
+  },
+  {
+    "date": "2022-06-08",
+    "value": 49,
+    "relevant_sport_event": "['NBA Finals']",
+    "relevant_film_event": "('Krakow Film Festival',)"
+  },
+  {
+    "date": "2022-06-09",
+    "value": 107,
+    "relevant_sport_event": "['NBA Finals']",
+    "relevant_film_event": "('Krakow Film Festival', 'Cine Las Americas', 'Tribeca Film Festival', 'Sydney Film Festival')"
+  },
+  {
+    "date": "2022-06-10",
+    "value": 3,
+    "relevant_sport_event": "['NBA Finals']",
+    "relevant_film_event": "('Krakow Film Festival', 'Cine Las Americas', 'Sundance Film Festival London', 'Balinale - Bali International Film Festival', 'Ramsgate International Film & TV Festival', 'Tribeca Film Festival', 'Sydney Film Festival')"
+  },
+  {
+    "date": "2022-06-12",
+    "value": 14,
+    "relevant_sport_event": "['NBA Finals']",
+    "relevant_film_event": "('Tribeca Film Festival', 'Sydney Film Festival')"
+  },
+  {
+    "date": "2022-06-13",
+    "value": 98,
+    "relevant_sport_event": "['NBA Finals']",
+    "relevant_film_event": "('BANFF World Media Festival', 'Tribeca Film Festival', 'Sydney Film Festival')"
+  },
+  {
+    "date": "2022-06-14",
+    "value": 482,
+    "relevant_sport_event": "['NBA Finals']",
+    "relevant_film_event": "('BANFF World Media Festival', 'Annecy International Animation Film Festival and Market', 'Tribeca Film Festival', 'Sydney Film Festival')"
+  },
+  {
+    "date": "2022-06-15",
+    "value": 19,
+    "relevant_sport_event": "['NBA Finals', 'Stanley Cup finals ']",
+    "relevant_film_event": "('Annecy International Animation Film Festival and Market', 'Tribeca Film Festival', 'Sydney Film Festival')"
+  },
+  {
+    "date": "2022-06-16",
+    "value": 190,
+    "relevant_sport_event": "['NBA Finals', 'Stanley Cup finals ', 'US Open']",
+    "relevant_film_event": "('Annecy International Animation Film Festival and Market', 'Tribeca Film Festival', 'Sydney Film Festival', 'Provincetown Film Festival')"
+  },
+  {
+    "date": "2022-06-17",
+    "value": 26,
+    "relevant_sport_event": "['Stanley Cup finals ', 'US Open']",
+    "relevant_film_event": "('Annecy International Animation Film Festival and Market', 'Tribeca Film Festival', 'Sydney Film Festival', 'Provincetown Film Festival')"
+  },
+  {
+    "date": "2022-06-18",
+    "value": 7,
+    "relevant_sport_event": "['Stanley Cup finals ', 'US Open', 'World Aquatics Championships']",
+    "relevant_film_event": "('Tribeca Film Festival', 'Sydney Film Festival', 'Provincetown Film Festival', 'Monte Carlo Television Festival', 'Transilvania International Film Festival')"
+  },
+  {
+    "date": "2022-06-19",
+    "value": 84,
+    "relevant_sport_event": "['Stanley Cup finals ', 'US Open', 'World Aquatics Championships']",
+    "relevant_film_event": "('Monte Carlo Television Festival', 'Transilvania International Film Festival')"
+  },
+  {
+    "date": "2022-06-20",
+    "value": 35,
+    "relevant_sport_event": "['Stanley Cup finals ', 'World Aquatics Championships']",
+    "relevant_film_event": "('Monte Carlo Television Festival', 'Transilvania International Film Festival')"
+  },
+  {
+    "date": "2022-06-21",
+    "value": 2,
+    "relevant_sport_event": "['Stanley Cup finals ', 'World Aquatics Championships']",
+    "relevant_film_event": "('Transilvania International Film Festival', 'CineEurope')"
+  },
+  {
+    "date": "2022-06-23",
+    "value": 10,
+    "relevant_sport_event": "['Stanley Cup finals ', 'World Aquatics Championships']",
+    "relevant_film_event": "('Transilvania International Film Festival', 'Ponta Lopud Film Festival', 'Nantucket Film Festival', 'Bentonville Film Festival')"
+  },
+  {
+    "date": "2022-06-24",
+    "value": 126,
+    "relevant_sport_event": "['Stanley Cup finals ', 'World Aquatics Championships']",
+    "relevant_film_event": "('Transilvania International Film Festival', 'Oak Cliff Film Festival', 'Ponta Lopud Film Festival', 'Nantucket Film Festival', 'Munich Film Festival', 'Brussels International Film Festival', 'Bentonville Film Festival')"
+  },
+  {
+    "date": "2022-06-25",
+    "value": 13,
+    "relevant_sport_event": "['Stanley Cup finals ', 'World Aquatics Championships']",
+    "relevant_film_event": "('Transilvania International Film Festival', 'Kingston International Film Festival', 'Oak Cliff Film Festival', 'Ponta Lopud Film Festival', 'Nantucket Film Festival', 'Munich Film Festival', 'Brussels International Film Festival', 'Bentonville Film Festival')"
+  },
+  {
+    "date": "2022-06-26",
+    "value": 9,
+    "relevant_sport_event": "['Stanley Cup finals ', 'World Aquatics Championships', '2021 Summer FISU World University Games']",
+    "relevant_film_event": "('Ponta Lopud Film Festival', 'Nantucket Film Festival', 'Munich Film Festival', 'Brussels International Film Festival', 'Bentonville Film Festival')"
+  },
+  {
+    "date": "2022-06-27",
+    "value": 184,
+    "relevant_sport_event": "['Stanley Cup finals ', 'World Aquatics Championships', '2021 Summer FISU World University Games', 'Wimbledon']",
+    "relevant_film_event": "('Munich Film Festival', 'Brussels International Film Festival', 'Taormina Film Fest', 'Bentonville Film Festival')"
+  },
+  {
+    "date": "2022-06-28",
+    "value": 80,
+    "relevant_sport_event": "['Stanley Cup finals ', 'World Aquatics Championships', '2021 Summer FISU World University Games', 'Wimbledon']",
+    "relevant_film_event": "('Munich Film Festival', 'Brussels International Film Festival', 'Taormina Film Fest', 'Bentonville Film Festival')"
+  },
+  {
+    "date": "2022-06-29",
+    "value": 84,
+    "relevant_sport_event": "['World Aquatics Championships', '2021 Summer FISU World University Games', 'Wimbledon']",
+    "relevant_film_event": "('Munich Film Festival', 'Brussels International Film Festival', 'Taormina Film Fest', 'Bentonville Film Festival')"
+  },
+  {
+    "date": "2022-06-30",
+    "value": 192,
+    "relevant_sport_event": "['World Aquatics Championships', '2021 Summer FISU World University Games', 'Wimbledon']",
+    "relevant_film_event": "('Munich Film Festival', 'Brussels International Film Festival', 'Taormina Film Fest', 'Bentonville Film Festival')"
+  },
+  {
+    "date": "2022-07-01",
+    "value": 501,
+    "relevant_sport_event": "['World Aquatics Championships', '2021 Summer FISU World University Games', 'Wimbledon', \"Women's FIH Hockey World Cup\", 'Tour de France']",
+    "relevant_film_event": "('Munich Film Festival', 'Brussels International Film Festival', 'Taormina Film Fest', 'Bentonville Film Festival')"
+  },
+  {
+    "date": "2022-07-02",
+    "value": 281,
+    "relevant_sport_event": "['World Aquatics Championships', '2021 Summer FISU World University Games', 'Wimbledon', \"Women's FIH Hockey World Cup\", 'Tour de France']",
+    "relevant_film_event": "('Bentonville Film Festival', 'Karlovy Vary International Film Festival')"
+  },
+  {
+    "date": "2022-07-03",
+    "value": 327,
+    "relevant_sport_event": "['World Aquatics Championships', '2021 Summer FISU World University Games', 'Wimbledon', \"Women's FIH Hockey World Cup\", 'Tour de France']",
+    "relevant_film_event": "('Karlovy Vary International Film Festival',)"
+  },
+  {
+    "date": "2022-07-04",
+    "value": 550,
+    "relevant_sport_event": "['2021 Summer FISU World University Games', 'Wimbledon', \"Women's FIH Hockey World Cup\", 'Tour de France']",
+    "relevant_film_event": "('Karlovy Vary International Film Festival',)"
+  },
+  {
+    "date": "2022-07-05",
+    "value": 273,
+    "relevant_sport_event": "['2021 Summer FISU World University Games', 'Wimbledon', \"Women's FIH Hockey World Cup\", 'Tour de France']",
+    "relevant_film_event": "('Karlovy Vary International Film Festival',)"
+  },
+  {
+    "date": "2022-07-06",
+    "value": 165,
+    "relevant_sport_event": "['2021 Summer FISU World University Games', 'Wimbledon', \"Women's FIH Hockey World Cup\", 'Tour de France']",
+    "relevant_film_event": "('Karlovy Vary International Film Festival', 'Galway Film Fleadh')"
+  },
+  {
+    "date": "2022-07-07",
+    "value": 35,
+    "relevant_sport_event": "['2021 Summer FISU World University Games', 'Wimbledon', \"Women's FIH Hockey World Cup\", 'Tour de France', 'World Games']",
+    "relevant_film_event": "('Karlovy Vary International Film Festival', 'Galway Film Fleadh')"
+  },
+  {
+    "date": "2022-07-08",
+    "value": 418,
+    "relevant_sport_event": "['Wimbledon', \"Women's FIH Hockey World Cup\", 'Tour de France', 'World Games']",
+    "relevant_film_event": "('Karlovy Vary International Film Festival', 'Galway Film Fleadh', 'Over-The-Rhine International Film Festival', 'Bucheon International Fantastic Film Festival')"
+  },
+  {
+    "date": "2022-07-09",
+    "value": 9,
+    "relevant_sport_event": "['Wimbledon', \"Women's FIH Hockey World Cup\", 'Tour de France', 'World Games']",
+    "relevant_film_event": "('Galway Film Fleadh', 'Over-The-Rhine International Film Festival', 'Bucheon International Fantastic Film Festival')"
+  },
+  {
+    "date": "2022-07-11",
+    "value": 18,
+    "relevant_sport_event": "[\"Women's FIH Hockey World Cup\", 'Tour de France', 'World Games']",
+    "relevant_film_event": "('Bucheon International Fantastic Film Festival',)"
+  },
+  {
+    "date": "2022-07-12",
+    "value": 145,
+    "relevant_sport_event": "[\"Women's FIH Hockey World Cup\", 'Tour de France', 'World Games']",
+    "relevant_film_event": "('Bucheon International Fantastic Film Festival',)"
+  },
+  {
+    "date": "2022-07-13",
+    "value": 98,
+    "relevant_sport_event": "[\"Women's FIH Hockey World Cup\", 'Tour de France', 'World Games']",
+    "relevant_film_event": "('Bucheon International Fantastic Film Festival',)"
+  },
+  {
+    "date": "2022-07-14",
+    "value": 1272,
+    "relevant_sport_event": "[\"Women's FIH Hockey World Cup\", 'Tour de France', 'World Games', 'The Open Championship']",
+    "relevant_film_event": "('Bucheon International Fantastic Film Festival',)"
+  },
+  {
+    "date": "2022-07-15",
+    "value": 49,
+    "relevant_sport_event": "[\"Women's FIH Hockey World Cup\", 'Tour de France', 'World Games', 'The Open Championship', 'IAAF World Championships']",
+    "relevant_film_event": "('Bucheon International Fantastic Film Festival', 'Fantasia Film Festival')"
+  },
+  {
+    "date": "2022-07-16",
+    "value": 459,
+    "relevant_sport_event": "[\"Women's FIH Hockey World Cup\", 'Tour de France', 'World Games', 'The Open Championship', 'IAAF World Championships']",
+    "relevant_film_event": "('Bucheon International Fantastic Film Festival', 'New York Asian Film Festival', 'Fantasia Film Festival')"
+  },
+  {
+    "date": "2022-07-17",
+    "value": 98,
+    "relevant_sport_event": "[\"Women's FIH Hockey World Cup\", 'Tour de France', 'World Games', 'The Open Championship', 'IAAF World Championships']",
+    "relevant_film_event": "('New York Asian Film Festival', 'Fantasia Film Festival')"
+  },
+  {
+    "date": "2022-07-18",
+    "value": 18,
+    "relevant_sport_event": "['Tour de France', 'IAAF World Championships']",
+    "relevant_film_event": "('New York Asian Film Festival', 'Fantasia Film Festival')"
+  },
+  {
+    "date": "2022-07-19",
+    "value": 168,
+    "relevant_sport_event": "['Tour de France', 'IAAF World Championships']",
+    "relevant_film_event": "('New York Asian Film Festival', 'Fantasia Film Festival')"
+  },
+  {
+    "date": "2022-07-20",
+    "value": 297,
+    "relevant_sport_event": "['Tour de France', 'IAAF World Championships', 'Summer X Games']",
+    "relevant_film_event": "('Indy Shorts International Film Festival', 'New York Asian Film Festival', 'Fantasia Film Festival')"
+  },
+  {
+    "date": "2022-07-21",
+    "value": 29,
+    "relevant_sport_event": "['Tour de France', 'IAAF World Championships', 'Summer X Games']",
+    "relevant_film_event": "('Indy Shorts International Film Festival', 'New York Asian Film Festival', 'Fantasia Film Festival')"
+  },
+  {
+    "date": "2022-07-22",
+    "value": 168,
+    "relevant_sport_event": "['Tour de France', 'IAAF World Championships', 'Summer X Games', 'World Police and Fire Games']",
+    "relevant_film_event": "('Indy Shorts International Film Festival', 'Comic-Con', 'Deep in the Heart Film Festival', 'New York Asian Film Festival', 'New Horizons International Film Festival', 'Jerusalem Film Festival', 'Fantasia Film Festival')"
+  },
+  {
+    "date": "2022-07-23",
+    "value": 169,
+    "relevant_sport_event": "['Tour de France', 'IAAF World Championships', 'Summer X Games', 'World Police and Fire Games']",
+    "relevant_film_event": "('Indy Shorts International Film Festival', 'Comic-Con', 'Deep in the Heart Film Festival', 'New York Asian Film Festival', 'New Horizons International Film Festival', 'Jerusalem Film Festival', 'Fantasia Film Festival')"
+  },
+  {
+    "date": "2022-07-24",
+    "value": 168,
+    "relevant_sport_event": "['Tour de France', 'IAAF World Championships', 'Summer X Games', 'World Police and Fire Games', 'Tour de France Femmes']",
+    "relevant_film_event": "('New York Asian Film Festival', 'New Horizons International Film Festival', 'Jerusalem Film Festival', 'Fantasia Film Festival')"
+  },
+  {
+    "date": "2022-07-25",
+    "value": 137,
+    "relevant_sport_event": "['World Police and Fire Games', 'Tour de France Femmes']",
+    "relevant_film_event": "('New York Asian Film Festival', 'New Horizons International Film Festival', 'Jerusalem Film Festival', 'Fantasia Film Festival')"
+  },
+  {
+    "date": "2022-07-26",
+    "value": 100,
+    "relevant_sport_event": "['World Police and Fire Games', 'Tour de France Femmes']",
+    "relevant_film_event": "('New York Asian Film Festival', 'New Horizons International Film Festival', 'Jerusalem Film Festival', 'Fantasia Film Festival')"
+  },
+  {
+    "date": "2022-07-27",
+    "value": 71,
+    "relevant_sport_event": "['World Police and Fire Games', 'Tour de France Femmes']",
+    "relevant_film_event": "('New York Asian Film Festival', 'New Horizons International Film Festival', 'Jerusalem Film Festival', 'Fantasia Film Festival')"
+  },
+  {
+    "date": "2022-07-28",
+    "value": 213,
+    "relevant_sport_event": "['World Police and Fire Games', 'Tour de France Femmes', 'Commonwealth Games', \"IFAF Women's American Football Championships\"]",
+    "relevant_film_event": "('New York Asian Film Festival', 'New Horizons International Film Festival', 'Jerusalem Film Festival', 'Fantasia Film Festival')"
+  },
+  {
+    "date": "2022-07-29",
+    "value": 114,
+    "relevant_sport_event": "['World Police and Fire Games', 'Tour de France Femmes', 'Commonwealth Games', \"IFAF Women's American Football Championships\"]",
+    "relevant_film_event": "('New York Asian Film Festival', 'New Horizons International Film Festival', 'Jerusalem Film Festival', 'Fantasia Film Festival')"
+  },
+  {
+    "date": "2022-07-30",
+    "value": 29,
+    "relevant_sport_event": "['World Police and Fire Games', 'Tour de France Femmes', 'Commonwealth Games', \"IFAF Women's American Football Championships\"]",
+    "relevant_film_event": "('New York Asian Film Festival', 'New Horizons International Film Festival', 'Jerusalem Film Festival', 'Fantasia Film Festival')"
+  },
+  {
+    "date": "2022-07-31",
+    "value": 146,
+    "relevant_sport_event": "['World Police and Fire Games', 'Tour de France Femmes', 'Commonwealth Games', \"IFAF Women's American Football Championships\"]",
+    "relevant_film_event": "('Fantasia Film Festival',)"
+  },
+  {
+    "date": "2022-08-01",
+    "value": 266,
+    "relevant_sport_event": "['Commonwealth Games', \"IFAF Women's American Football Championships\"]",
+    "relevant_film_event": "('Fantasia Film Festival',)"
+  },
+  {
+    "date": "2022-08-02",
+    "value": 154,
+    "relevant_sport_event": "['Commonwealth Games', \"IFAF Women's American Football Championships\"]",
+    "relevant_film_event": "('Fantasia Film Festival',)"
+  },
+  {
+    "date": "2022-08-03",
+    "value": 323,
+    "relevant_sport_event": "['Commonwealth Games', \"IFAF Women's American Football Championships\"]",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2022-08-04",
+    "value": 2,
+    "relevant_sport_event": "['Commonwealth Games', \"IFAF Women's American Football Championships\"]",
+    "relevant_film_event": "('Locarno Film Festival',)"
+  },
+  {
+    "date": "2022-08-05",
+    "value": 10,
+    "relevant_sport_event": "['Commonwealth Games', \"IFAF Women's American Football Championships\"]",
+    "relevant_film_event": "('Locarno Film Festival', 'Melbourne International Film Festival')"
+  },
+  {
+    "date": "2022-08-06",
+    "value": 192,
+    "relevant_sport_event": "['Commonwealth Games', \"IFAF Women's American Football Championships\", 'FEI World Equestrian Games']",
+    "relevant_film_event": "('Locarno Film Festival', 'Melbourne International Film Festival')"
+  },
+  {
+    "date": "2022-08-07",
+    "value": 462,
+    "relevant_sport_event": "['Commonwealth Games', \"IFAF Women's American Football Championships\", 'FEI World Equestrian Games']",
+    "relevant_film_event": "('Locarno Film Festival', 'Melbourne International Film Festival')"
+  },
+  {
+    "date": "2022-08-08",
+    "value": 274,
+    "relevant_sport_event": "['Commonwealth Games', \"IFAF Women's American Football Championships\", 'FEI World Equestrian Games']",
+    "relevant_film_event": "('Locarno Film Festival', 'Melbourne International Film Festival')"
+  },
+  {
+    "date": "2022-08-09",
+    "value": 207,
+    "relevant_sport_event": "['FEI World Equestrian Games', 'Islamic Solidarity Games']",
+    "relevant_film_event": "('Locarno Film Festival', 'Melbourne International Film Festival')"
+  },
+  {
+    "date": "2022-08-10",
+    "value": 224,
+    "relevant_sport_event": "['FEI World Equestrian Games', 'Islamic Solidarity Games']",
+    "relevant_film_event": "('Locarno Film Festival', 'Melbourne International Film Festival')"
+  },
+  {
+    "date": "2022-08-11",
+    "value": 174,
+    "relevant_sport_event": "['FEI World Equestrian Games', 'Islamic Solidarity Games', 'European Sports Championships']",
+    "relevant_film_event": "('Locarno Film Festival', 'Melbourne International Film Festival')"
+  },
+  {
+    "date": "2022-08-12",
+    "value": 503,
+    "relevant_sport_event": "['FEI World Equestrian Games', 'Islamic Solidarity Games', 'European Sports Championships']",
+    "relevant_film_event": "('Locarno Film Festival', 'Melbourne International Film Festival')"
+  },
+  {
+    "date": "2022-08-13",
+    "value": 1267,
+    "relevant_sport_event": "['FEI World Equestrian Games', 'Islamic Solidarity Games', 'European Sports Championships']",
+    "relevant_film_event": "('Sarajevo Film Festival', 'Melbourne International Film Festival', 'Edinburgh International Film Festival')"
+  },
+  {
+    "date": "2022-08-14",
+    "value": 1087,
+    "relevant_sport_event": "['FEI World Equestrian Games', 'Islamic Solidarity Games', 'European Sports Championships']",
+    "relevant_film_event": "('Sarajevo Film Festival', 'Melbourne International Film Festival', 'Edinburgh International Film Festival')"
+  },
+  {
+    "date": "2022-08-15",
+    "value": 927,
+    "relevant_sport_event": "['Islamic Solidarity Games', 'European Sports Championships']",
+    "relevant_film_event": "('Sarajevo Film Festival', 'Melbourne International Film Festival', 'Edinburgh International Film Festival')"
+  },
+  {
+    "date": "2022-08-16",
+    "value": 166,
+    "relevant_sport_event": "['Islamic Solidarity Games', 'European Sports Championships']",
+    "relevant_film_event": "('Sarajevo Film Festival', 'Melbourne International Film Festival', 'Edinburgh International Film Festival')"
+  },
+  {
+    "date": "2022-08-17",
+    "value": 931,
+    "relevant_sport_event": "['Islamic Solidarity Games', 'European Sports Championships']",
+    "relevant_film_event": "('Sarajevo Film Festival', 'Melbourne International Film Festival', 'Edinburgh International Film Festival')"
+  },
+  {
+    "date": "2022-08-18",
+    "value": 630,
+    "relevant_sport_event": "['Islamic Solidarity Games', 'European Sports Championships']",
+    "relevant_film_event": "('Sarajevo Film Festival', 'Melbourne International Film Festival', 'Edinburgh International Film Festival')"
+  },
+  {
+    "date": "2022-08-19",
+    "value": 798,
+    "relevant_sport_event": "['European Sports Championships']",
+    "relevant_film_event": "('Melbourne International Film Festival', 'Edinburgh International Film Festival')"
+  },
+  {
+    "date": "2022-08-20",
+    "value": 374,
+    "relevant_sport_event": "['European Sports Championships']",
+    "relevant_film_event": "('Melbourne International Film Festival',)"
+  },
+  {
+    "date": "2022-08-21",
+    "value": 768,
+    "relevant_sport_event": "['European Sports Championships']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2022-08-22",
+    "value": 583,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2022-08-23",
+    "value": 250,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('Sidewalk Film Festival',)"
+  },
+  {
+    "date": "2022-08-24",
+    "value": 91,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('Sidewalk Film Festival',)"
+  },
+  {
+    "date": "2022-08-25",
+    "value": 478,
+    "relevant_sport_event": "None",
+    "relevant_film_event": "('Sidewalk Film Festival',)"
+  },
+  {
+    "date": "2022-08-26",
+    "value": 478,
+    "relevant_sport_event": "['World Volleyball Championships (men)']",
+    "relevant_film_event": "('Sidewalk Film Festival', 'FrightFest')"
+  },
+  {
+    "date": "2022-08-27",
+    "value": 269,
+    "relevant_sport_event": "['World Volleyball Championships (men)']",
+    "relevant_film_event": "('Sidewalk Film Festival', 'FrightFest')"
+  },
+  {
+    "date": "2022-08-28",
+    "value": 282,
+    "relevant_sport_event": "['World Volleyball Championships (men)']",
+    "relevant_film_event": "('FrightFest',)"
+  },
+  {
+    "date": "2022-08-29",
+    "value": 300,
+    "relevant_sport_event": "['World Volleyball Championships (men)', 'US Open']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2022-08-30",
+    "value": 398,
+    "relevant_sport_event": "['World Volleyball Championships (men)', 'US Open']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2022-08-31",
+    "value": 320,
+    "relevant_sport_event": "['World Volleyball Championships (men)', 'US Open']",
+    "relevant_film_event": "None"
+  },
+  {
+    "date": "2022-09-01",
+    "value": 607,
+    "relevant_sport_event": "['World Volleyball Championships (men)', 'US Open']",
+    "relevant_film_event": "('Venice International Film Festival',)"
+  },
+  {
+    "date": "2022-09-02",
+    "value": 130,
+    "relevant_sport_event": "['World Volleyball Championships (men)', 'US Open']",
+    "relevant_film_event": "('Cork French Film Festival', 'Venice International Film Festival')"
+  },
+  {
+    "date": "2022-09-03",
+    "value": 725,
+    "relevant_sport_event": "['World Volleyball Championships (men)', 'US Open']",
+    "relevant_film_event": "('Cork French Film Festival', 'Venice International Film Festival', 'Deauville American Film Festival')"
+  },
+  {
+    "date": "2022-09-04",
+    "value": 663,
+    "relevant_sport_event": "['World Volleyball Championships (men)', 'US Open']",
+    "relevant_film_event": "('Venice International Film Festival', 'Deauville American Film Festival')"
+  },
+  {
+    "date": "2022-09-05",
+    "value": 907,
+    "relevant_sport_event": "['World Volleyball Championships (men)', 'US Open']",
+    "relevant_film_event": "('Venice International Film Festival', 'Deauville American Film Festival')"
+  },
+  {
+    "date": "2022-09-06",
+    "value": 354,
+    "relevant_sport_event": "['World Volleyball Championships (men)', 'US Open']",
+    "relevant_film_event": "('Venice International Film Festival', 'Deauville American Film Festival')"
+  },
+  {
+    "date": "2022-09-07",
+    "value": 304,
+    "relevant_sport_event": "['World Volleyball Championships (men)', 'US Open']",
+    "relevant_film_event": "('Venice International Film Festival', 'Deauville American Film Festival')"
+  },
+  {
+    "date": "2022-09-08",
+    "value": 410,
+    "relevant_sport_event": "['World Volleyball Championships (men)', 'US Open']",
+    "relevant_film_event": "('Venice International Film Festival', 'Deauville American Film Festival')"
+  },
+  {
+    "date": "2022-09-09",
+    "value": 141,
+    "relevant_sport_event": "['World Volleyball Championships (men)', 'US Open', 'Rugby World Cup Sevens']",
+    "relevant_film_event": "('Venice International Film Festival', 'Deauville American Film Festival', 'Toronto International Film Festival')"
+  },
+  {
+    "date": "2022-09-10",
+    "value": 321,
+    "relevant_sport_event": "['World Volleyball Championships (men)', 'US Open', 'Rugby World Cup Sevens', 'Asian Games']",
+    "relevant_film_event": "('Deauville American Film Festival', 'Toronto International Film Festival')"
+  },
+  {
+    "date": "2022-09-11",
+    "value": 276,
+    "relevant_sport_event": "['World Volleyball Championships (men)', 'US Open', 'Rugby World Cup Sevens', 'Asian Games']",
+    "relevant_film_event": "('Toronto International Film Festival',)"
+  },
+  {
+    "date": "2022-09-12",
+    "value": 269,
+    "relevant_sport_event": "['Asian Games']",
+    "relevant_film_event": "('Toronto International Film Festival',)"
+  },
+  {
+    "date": "2022-09-13",
+    "value": 78,
+    "relevant_sport_event": "['Asian Games']",
+    "relevant_film_event": "('Toronto International Film Festival',)"
+  },
+  {
+    "date": "2022-09-14",
+    "value": 492,
+    "relevant_sport_event": "['Asian Games']",
+    "relevant_film_event": "('Toronto International Film Festival',)"
+  },
+  {
+    "date": "2022-09-15",
+    "value": 288,
+    "relevant_sport_event": "['Asian Games']",
+    "relevant_film_event": "('Toronto International Film Festival',)"
+  },
+  {
+    "date": "2022-09-16",
+    "value": 299,
+    "relevant_sport_event": "['Asian Games']",
+    "relevant_film_event": "('Toronto International Film Festival', 'Prague Independent Film Festival')"
+  },
+  {
+    "date": "2022-09-17",
+    "value": 42,
+    "relevant_sport_event": "['Asian Games']",
+    "relevant_film_event": "('Toronto International Film Festival', 'Prague Independent Film Festival', 'San Sebastian International Film Festival')"
+  },
+  {
+    "date": "2022-09-18",
+    "value": 462,
+    "relevant_sport_event": "['Asian Games', ' UCI Road World Championships', 'World Rowing Championships']",
+    "relevant_film_event": "('San Sebastian International Film Festival',)"
+  },
+  {
+    "date": "2022-09-19",
+    "value": 466,
+    "relevant_sport_event": "['Asian Games', ' UCI Road World Championships', 'World Rowing Championships', 'Presidents Cup']",
+    "relevant_film_event": "('San Sebastian International Film Festival',)"
+  },
+  {
+    "date": "2022-09-20",
+    "value": 285,
+    "relevant_sport_event": "['Asian Games', ' UCI Road World Championships', 'World Rowing Championships', 'Presidents Cup']",
+    "relevant_film_event": "('San Sebastian International Film Festival',)"
+  },
+  {
+    "date": "2022-09-21",
+    "value": 53,
+    "relevant_sport_event": "['Asian Games', ' UCI Road World Championships', 'World Rowing Championships', 'Presidents Cup']",
+    "relevant_film_event": "('San Sebastian International Film Festival', 'Prishtina International Film Festival')"
+  },
+  {
+    "date": "2022-09-22",
+    "value": 56,
+    "relevant_sport_event": "['Asian Games', ' UCI Road World Championships', 'World Rowing Championships', 'Presidents Cup', \"FIBA Women's Basketball World Cup\"]",
+    "relevant_film_event": "('Finnish Film Affair', 'San Sebastian International Film Festival', 'Prishtina International Film Festival', 'Calabasas Film Festival')"
+  },
+  {
+    "date": "2022-09-24",
+    "value": 405,
+    "relevant_sport_event": "['Asian Games', ' UCI Road World Championships', 'World Rowing Championships', 'Presidents Cup', \"FIBA Women's Basketball World Cup\", 'World Volleyball Championships (women)', 'Grand Final']",
+    "relevant_film_event": "('Prishtina International Film Festival', 'Calabasas Film Festival', 'Zurich Film Festival', 'Calgary International Film Festival', 'Out on Film')"
+  },
+  {
+    "date": "2022-09-25",
+    "value": 285,
+    "relevant_sport_event": "['Asian Games', ' UCI Road World Championships', 'World Rowing Championships', 'Presidents Cup', \"FIBA Women's Basketball World Cup\", 'World Volleyball Championships (women)']",
+    "relevant_film_event": "('Zurich Film Festival', 'Calgary International Film Festival', 'Out on Film')"
+  },
+  {
+    "date": "2022-09-26",
+    "value": 199,
+    "relevant_sport_event": "[\"FIBA Women's Basketball World Cup\", 'World Volleyball Championships (women)']",
+    "relevant_film_event": "('Zurich Film Festival', 'Calgary International Film Festival', 'Out on Film')"
+  },
+  {
+    "date": "2022-09-27",
+    "value": 33,
+    "relevant_sport_event": "[\"FIBA Women's Basketball World Cup\", 'World Volleyball Championships (women)']",
+    "relevant_film_event": "('Zurich Film Festival', 'Calgary International Film Festival', 'Out on Film')"
+  },
+  {
+    "date": "2022-09-28",
+    "value": 53,
+    "relevant_sport_event": "[\"FIBA Women's Basketball World Cup\", 'World Volleyball Championships (women)']",
+    "relevant_film_event": "('Zurich Film Festival', 'Calgary International Film Festival', 'Out on Film', 'Encounters Short Film Festival')"
+  },
+  {
+    "date": "2022-09-29",
+    "value": 12,
+    "relevant_sport_event": "[\"FIBA Women's Basketball World Cup\", 'World Volleyball Championships (women)']",
+    "relevant_film_event": "('Zurich Film Festival', 'Calgary International Film Festival', 'Out on Film', 'Encounters Short Film Festival', 'Tallgrass Film Festival', 'Dinard Festival of British Film')"
+  },
+  {
+    "date": "2022-09-30",
+    "value": 7,
+    "relevant_sport_event": "[\"FIBA Women's Basketball World Cup\", 'World Volleyball Championships (women)', 'World Championship']",
+    "relevant_film_event": "('Zurich Film Festival', 'Calgary International Film Festival', 'Out on Film', 'Encounters Short Film Festival', 'Tallgrass Film Festival', 'Dinard Festival of British Film', 'Filmfest Hamburg', 'Korean Film Festival', 'Reykjavik International Film Festival')"
+  },
+  {
+    "date": "2022-10-01",
+    "value": 28,
+    "relevant_sport_event": "[\"FIBA Women's Basketball World Cup\", 'World Volleyball Championships (women)', 'World Championship', 'South American Games']",
+    "relevant_film_event": "('Zurich Film Festival', 'Calgary International Film Festival', 'Out on Film', 'Encounters Short Film Festival', 'Tallgrass Film Festival', 'Dinard Festival of British Film', 'Filmfest Hamburg', 'Korean Film Festival', 'Reykjavik International Film Festival', 'New York Film Festival')"
+  },
+  {
+    "date": "2022-10-03",
+    "value": 43,
+    "relevant_sport_event": "['World Volleyball Championships (women)', 'World Championship', 'South American Games']",
+    "relevant_film_event": "('Filmfest Hamburg', 'Korean Film Festival', 'Reykjavik International Film Festival', 'New York Film Festival')"
+  },
+  {
+    "date": "2022-10-04",
+    "value": 29,
+    "relevant_sport_event": "['World Volleyball Championships (women)', 'World Championship', 'South American Games']",
+    "relevant_film_event": "('Filmfest Hamburg', 'Korean Film Festival', 'Reykjavik International Film Festival', 'New York Film Festival')"
+  },
+  {
+    "date": "2022-10-05",
+    "value": 71,
+    "relevant_sport_event": "['World Volleyball Championships (women)', 'World Championship', 'South American Games']",
+    "relevant_film_event": "('Filmfest Hamburg', 'Korean Film Festival', 'Reykjavik International Film Festival', 'New York Film Festival')"
+  },
+  {
+    "date": "2022-10-06",
+    "value": 161,
+    "relevant_sport_event": "['World Volleyball Championships (women)', 'World Championship', 'South American Games']",
+    "relevant_film_event": "('Filmfest Hamburg', 'Korean Film Festival', 'Reykjavik International Film Festival', 'New York Film Festival', 'BFI London Film Festival', 'Busan International Film Festival')"
+  },
+  {
+    "date": "2022-10-07",
+    "value": 99,
+    "relevant_sport_event": "['World Volleyball Championships (women)', 'World Championship', 'South American Games']",
+    "relevant_film_event": "('Filmfest Hamburg', 'Reykjavik International Film Festival', 'Mile High Horror Film Festival', 'New York Film Festival', 'BFI London Film Festival', 'Busan International Film Festival', 'DocLisboa', 'Heartland International Film Festival', 'Mill Valley Film Festival')"
+  },
+  {
+    "date": "2022-10-08",
+    "value": 266,
+    "relevant_sport_event": "['World Volleyball Championships (women)', 'World Championship', 'South American Games', 'Womens World Cup']",
+    "relevant_film_event": "('Reykjavik International Film Festival', 'Mile High Horror Film Festival', 'New York Film Festival', 'BFI London Film Festival', 'Busan International Film Festival', 'DocLisboa', 'Heartland International Film Festival', 'Mill Valley Film Festival', 'Hot Springs Documentary Film Festival', 'Hamptons International Film Festival')"
+  },
+  {
+    "date": "2022-10-09",
+    "value": 166,
+    "relevant_sport_event": "['World Volleyball Championships (women)', 'World Championship', 'South American Games', 'Womens World Cup']",
+    "relevant_film_event": "('Mile High Horror Film Festival', 'New York Film Festival', 'BFI London Film Festival', 'Busan International Film Festival', 'DocLisboa', 'Heartland International Film Festival', 'Mill Valley Film Festival', 'Hot Springs Documentary Film Festival', 'Hamptons International Film Festival', 'Haifa Film Festival')"
+  },
+  {
+    "date": "2022-10-10",
+    "value": 20,
+    "relevant_sport_event": "['World Volleyball Championships (women)', 'South American Games', 'Womens World Cup']",
+    "relevant_film_event": "('Mile High Horror Film Festival', 'New York Film Festival', 'BFI London Film Festival', 'Busan International Film Festival', 'DocLisboa', 'Heartland International Film Festival', 'Mill Valley Film Festival', 'Hot Springs Documentary Film Festival', 'Hamptons International Film Festival', 'Haifa Film Festival')"
+  },
+  {
+    "date": "2022-10-11",
+    "value": 36,
+    "relevant_sport_event": "['World Volleyball Championships (women)', 'South American Games', 'Womens World Cup']",
+    "relevant_film_event": "('Mile High Horror Film Festival', 'New York Film Festival', 'BFI London Film Festival', 'Busan International Film Festival', 'DocLisboa', 'Heartland International Film Festival', 'Mill Valley Film Festival', 'Hot Springs Documentary Film Festival', 'Hamptons International Film Festival', 'The American French Film Festival', 'Haifa Film Festival')"
+  },
+  {
+    "date": "2022-10-12",
+    "value": 27,
+    "relevant_sport_event": "['World Volleyball Championships (women)', 'South American Games', 'Womens World Cup', 'World Track Championships']",
+    "relevant_film_event": "('New York Film Festival', 'BFI London Film Festival', 'Busan International Film Festival', 'DocLisboa', 'Heartland International Film Festival', 'Mill Valley Film Festival', 'Hot Springs Documentary Film Festival', 'Hamptons International Film Festival', 'The American French Film Festival', 'MIA Market', 'Haifa Film Festival', 'Film Fest Ghent')"
+  },
+  {
+    "date": "2022-10-13",
+    "value": 20,
+    "relevant_sport_event": "['World Volleyball Championships (women)', 'South American Games', 'Womens World Cup', 'World Track Championships']",
+    "relevant_film_event": "('New York Film Festival', 'BFI London Film Festival', 'Busan International Film Festival', 'DocLisboa', 'Heartland International Film Festival', 'Mill Valley Film Festival', 'Hot Springs Documentary Film Festival', 'Hamptons International Film Festival', 'The American French Film Festival', 'MIA Market', 'Haifa Film Festival', 'Film Fest Ghent')"
+  },
+  {
+    "date": "2022-10-14",
+    "value": 19,
+    "relevant_sport_event": "['World Volleyball Championships (women)', 'South American Games', 'Womens World Cup', 'World Track Championships']",
+    "relevant_film_event": "('New York Film Festival', 'BFI London Film Festival', 'DocLisboa', 'Heartland International Film Festival', 'Mill Valley Film Festival', 'Hot Springs Documentary Film Festival', 'Hamptons International Film Festival', 'The American French Film Festival', 'MIA Market', 'Haifa Film Festival', 'Newport Beach Film Festival', 'Film Fest Ghent', 'Rome Film Festival')"
+  },
+  {
+    "date": "2022-10-15",
+    "value": 19,
+    "relevant_sport_event": "['World Volleyball Championships (women)', 'South American Games', 'Womens World Cup', 'World Track Championships', 'World Cup']",
+    "relevant_film_event": "('New York Film Festival', 'BFI London Film Festival', 'DocLisboa', 'Heartland International Film Festival', 'Mill Valley Film Festival', 'Hamptons International Film Festival', 'The American French Film Festival', 'Haifa Film Festival', 'Newport Beach Film Festival', 'Film Fest Ghent', 'Rome Film Festival')"
+  },
+  {
+    "date": "2022-10-16",
+    "value": 16,
+    "relevant_sport_event": "['Womens World Cup', 'World Track Championships', 'World Cup', 'ICC World T20 (men)']",
+    "relevant_film_event": "('Haifa Film Festival', 'Newport Beach Film Festival', 'Film Fest Ghent', 'Rome Film Festival')"
+  },
+  {
+    "date": "2022-10-17",
+    "value": 10,
+    "relevant_sport_event": "['Womens World Cup', 'World Cup', 'ICC World T20 (men)']",
+    "relevant_film_event": "('Newport Beach Film Festival', 'Film Fest Ghent', 'Rome Film Festival')"
+  },
+  {
+    "date": "2022-10-18",
+    "value": 11,
+    "relevant_sport_event": "['Womens World Cup', 'World Cup', 'ICC World T20 (men)']",
+    "relevant_film_event": "('Newport Beach Film Festival', 'MIPCOM', 'Film Fest Ghent', 'Rome Film Festival', 'DOK Leipzig')"
+  },
+  {
+    "date": "2022-11-07",
+    "value": 8,
+    "relevant_sport_event": "['Womens World Cup', 'World Cup', 'ICC World T20 (men)']",
+    "relevant_film_event": "('Belfast Film Festival', 'Thessaloniki International Film Festival', 'Geneva International Film Festival', 'Fort Lauderdale International Film Festival', 'London Korean Film Festival', 'French Film Festival')"
+  },
+  {
+    "date": "2022-11-08",
+    "value": 74,
+    "relevant_sport_event": "['Womens World Cup', 'World Cup', 'ICC World T20 (men)']",
+    "relevant_film_event": "('Belfast Film Festival', 'Thessaloniki International Film Festival', 'Geneva International Film Festival', 'Fort Lauderdale International Film Festival', 'London Korean Film Festival', 'French Film Festival')"
+  },
+  {
+    "date": "2022-12-01",
+    "value": 79,
+    "relevant_sport_event": "['FIFA World Cup']",
+    "relevant_film_event": "('British Urban Film Festival', 'Ventana Sur', 'Singapore International Film Festival', 'Singapore Media Festival', 'French Film Festival')"
+  },
+  {
+    "date": "2022-12-05",
+    "value": 1,
+    "relevant_sport_event": "['FIFA World Cup', 'World Championships']",
+    "relevant_film_event": "('Singapore Media Festival', 'Red Sea International Film Festival', 'French Film Festival')"
+  },
+  {
+    "date": "2022-12-07",
+    "value": 22,
+    "relevant_sport_event": "['FIFA World Cup', 'World Championships']",
+    "relevant_film_event": "('Singapore Media Festival', 'Red Sea International Film Festival', 'French Film Festival')"
+  },
+  {
+    "date": "2022-12-08",
+    "value": 382,
+    "relevant_sport_event": "['FIFA World Cup', 'World Championships']",
+    "relevant_film_event": "('Singapore Media Festival', 'Asia TV Forum & Market', 'Red Sea International Film Festival', 'French Film Festival')"
+  }
+]

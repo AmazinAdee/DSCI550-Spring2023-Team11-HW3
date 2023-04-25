@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pie Chart</title>
+   <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.min.js"></script>
+  </head>
+  <body>
+    <select id="visualizationSelect" onchange="changeVisualization()">
+      <option value="data1">Adults Primary Interest</option>
+      <option value="data2">Teens Primary Interest</option>
+      <option value="data3">Young Adults Primary Interest</option>
+    </select>
+    <br />
+    <br />
+    <svg width="1000" height="400"></svg>
+    <script>
+
+      function drawChart(data) {
+        var svg = d3.select("svg"),
+          width = svg.attr("width"),
+          height = svg.attr("height"),
+          radius = 200;
+
+        var g = svg.append("g").attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
+
+
+        var colors = [
+            '#1f77b4', '#ffae42', '#2ca02c', '#d62728', '#9467bd',
+            '#8c564b', '#e377c2', '#7f7f7f', '#bcbd22', '#17becf',
+            '#aec7e8', '#ffbb78', '#98df8a', '#ff9896', '#c5b0d5',
+            '#c49c94', '#f7b6d2', '#c7c7c7', '#dbdb8d', '#9edae5'
+        ];
+
+        var ordScale = d3.scaleOrdinal()
+                 .domain(data.map(function(d) { return d.name; })) // Use only the category names
+                 .range(colors);
+
+        var pie = d3.pie().value(function(d) { 
+                return d.share; 
+            });
+
+        var arc = g.selectAll("arc")
+                   .data(pie(data))
+                   .enter();
+
+        var path = d3.arc()
+                     .outerRadius(radius)
+                     .innerRadius(0);
+
+        arc.append("path")
+           .attr("d", path)
+           .attr("fill", function(d) { return ordScale(d.data.name); })
+           .each(function(d) { this._current = d; });
+
+        var label = d3.arc()
+                      .outerRadius(radius + 10)
+                      .innerRadius(radius + 10);
+
+        // Add the legend
+        var legend = d3.legendColor()
+               .shape('circle')
+               .shapeRadius(7)
+               .orient('vertical')
+               .scale(ordScale)
+               .labels(data.map(function(d) { 
+                   return d.name + " (" + d.share.toFixed(2) + "%)"; 
+               }));
+
+
+
+        svg.append("g")
+           .attr("transform", "translate(20, 20)")
+           .call(legend);
+
+           } 
+
+      // Data 1 and Data 2
+      const data1 = [{"name": "Education","share": 0.961538462},{"name": "Technology","share": 54.80769231},
+  {
+    "name": "Economy",
+    "share": 0.961538462
+  },
+  {
+    "name": "History",
+    "share": 0.961538462
+  },
+  {
+    "name": "art",
+    "share": 0.961538462
+  },
+  {
+    "name": "open call invitation",
+    "share": 0.961538462
+  },
+  {
+    "name": "art show",
+    "share": 0.961538462
+  },
+  {
+    "name": "metaverse",
+    "share": 1.923076923
+  },
+  {
+    "name": "arsenal",
+    "share": 19.23076923
+  },
+  {
+    "name": "cochin",
+    "share": 0.961538462
+  },
+  {
+    "name": "digital real  estate",
+    "share": 0.961538462
+  },
+  {
+    "name": "Politics",
+    "share": 2.884615385
+  },
+  {
+    "name": "content  hub",
+    "share": 0.961538462
+  },
+  {
+    "name": "ims",
+    "share": 0.961538462
+  },
+  {
+    "name": "Health",
+    "share": 0.961538462
+  },
+  {
+    "name": "new delhi",
+    "share": 0.961538462
+  },
+  {
+    "name": "iit ",
+    "share": 0.961538462
+  },
+  {
+    "name": "sports",
+    "share": 1.923076923
+  },
+  {
+    "name": "pune",
+    "share": 0.961538462
+  },
+  {
+    "name": "content hub",
+    "share": 0.961538462
+  },
+  {
+    "name": "asia",
+    "share": 0.961538462
+  },
+  {
+    "name": "events",
+    "share": 0.961538462
+  },
+  {
+    "name": "landing pages",
+    "share": 0.961538462
+  },
+  {
+    "name": "nagpur",
+    "share": 0.961538462
+  },
+  {
+    "name": "audience",
+    "share": 0.961538462
+  },
+];
+      const data2 = [{"name": "Technology","share": 79.76653696},
+          {"name": "aliaaholics","share": 0.778210117
+          },
+          {"name": "#debina","share": 0.389105058},
+          {"name": "Politics","share": 1.167315175},
+          {"name": "sexual health","share": 0.389105058},
+          {"name": "#bhediya","share": 0.389105058},
+          {"name": "#katrina",
+            "share": 0.778210117},
+          {"name": "Sports",
+            "share": 1.167315175},
+          {"name": "Education","share": 1.167315175},
+          {"name": "History","share": 0.389105058},
+          {"name": "subhamita sarkar","share": 0.389105058},
+          {"name": "where is my job?","share": 0.389105058},
+          {"name": "sex education","share": 0.389105058},
+          {"name": "confidence","share": 0.389105058},
+          {"name":  "#vaishalitakkar","share": 0.389105058},
+          {"name": "#rohan","share": 0.389105058},
+          {"name": "introduction","share": 0.389105058},
+          {"name": "pm kisan","share": 0.389105058},
+          {"name": "#varun dhawan","share": 0.389105058},
+          {"name": "#ayushmann","share": 0.778210117},
+          {"name": "#tamannaah","share": 0.389105058},
+          {"name": "sfi","share": 0.389105058},
+          {"name": "Food","share": 0.778210117},
+          {"name": "arsenal","share": 0.389105058},
+          {"name": "mycleanplate","share": 0.389105058},
+          {"name": "#happybirthday","share": 0.389105058},
+          {"name": "#suicide","share": 0.389105058},
+          {"name": "#gandhi","share": 0.389105058},
+          {"name": "#salmankhan","share": 0.778210117},
+          {"name": "#manishsisodia","share": 0.778210117},
+          {"name": "Entertainment","share": 0.389105058},
+          {"name": "Economy","share": 0.389105058},
+          {"name": "Inequality","share": 0.389105058},
+          {"name": "Health","share": 0.389105058},
+          {"name": "service","share": 0.389105058},
+          {"name": "alia bhatt","share": 0.778210117},
+          {"name": "#rakulpreet","share": 0.389105058},
+          {"name": "Science","share": 0.389105058},
+          {"name": "#deepika","share": 0.389105058},
+          {"name": "#sonamkapoor","share": 0.389105058}];
+
+      const data3 = [{"name": "Science","share": 0.470219436},
+{"name": "Health","share": 0.78369906},
+{"name": "Technology", "share": 61.59874608},
+{"name": "Entertainment","share": 6.269592476},
+{"name": "kati bihu","share": 0.156739812},
+{"name": "potters making diyas","share": 0.156739812},
+{"name": "Food","share": 2.194357367},
+{"name": "#vaginal examination in labour","share": 0.156739812},
+{"name": "thecleanplate","share": 0.470219436},
+{"name": "#bathing effect the digestion","share": 0.156739812},
+{"name": "Sports",
+    "share": 2.037617555
+  },
+  {
+    "name": "#heartburn",
+    "share": 0.156739812
+  },
+  {
+    "name": "viral videos",
+    "share": 0.156739812
+  },
+  {
+    "name": "History",
+    "share": 1.410658307
+  },
+  {
+    "name": "football",
+    "share": 7.210031348
+  },
+  {
+    "name": "psg",
+    "share": 0.156739812
+  },
+  {
+    "name": "laliga",
+    "share": 0.470219436
+  },
+  {
+    "name": "kedarnath",
+    "share": 0.156739812
+  },
+  {
+    "name": "movie quotes",
+    "share": 0.156739812
+  },
+  {
+    "name": "movies quotes",
+    "share": 0.156739812
+  },
+  {
+    "name": "virginia woolf",
+    "share": 0.156739812
+  },
+  {
+    "name": "gratitude",
+    "share": 0.156739812
+  },
+  {
+    "name": "coconut oil",
+    "share": 0.156739812
+  },
+  {
+    "name": "reasons",
+    "share": 0.156739812
+  },
+  {
+    "name": "acrophobia",
+    "share": 0.470219436
+  },
+  {
+    "name": "symptoms",
+    "share": 0.156739812
+  },
+  {
+    "name": "mycleanplate",
+    "share": 1.097178683
+  },
+  {
+    "name": "cji chandrachud",
+    "share": 0.156739812
+  },
+  {
+    "name": "bilkis bano case",
+    "share": 0.156739812
+  },
+  {
+    "name": "#brain",
+    "share": 0.156739812
+  },
+  {
+    "name": "car life",
+    "share": 0.156739812
+  },
+  {
+    "name": "diogo jota",
+    "share": 0.156739812
+  },
+  {
+    "name": "#menopause",
+    "share": 0.156739812
+  },
+  {
+    "name": "#healthy and guilt free",
+    "share": 0.156739812
+  },
+  {
+    "name": "canada",
+    "share": 0.156739812
+  },
+  {
+    "name": "france",
+    "share": 0.156739812
+  },
+  {
+    "name": "china",
+    "share": 0.313479624
+  },
+  {
+    "name": "blackpink",
+    "share": 0.156739812
+  },
+  {
+    "name": "worldfoodday2022",
+    "share": 0.156739812
+  },
+  {
+    "name": "#stophazaragenocide",
+    "share": 0.156739812
+  },
+  {
+    "name": "indian army",
+    "share": 0.156739812
+  },
+  {
+    "name": "viral video",
+    "share": 0.156739812
+  },
+  {
+    "name": "Inequality",
+    "share": 0.313479624
+  },
+  {
+    "name": "manish sisodia",
+    "share": 0.156739812
+  },
+  {
+    "name": "u17worldcup",
+    "share": 0.626959248
+  },
+  {
+    "name": "#article14live",
+    "share": 0.156739812
+  },
+  {
+    "name": "daily affirmation",
+    "share": 0.156739812
+  },
+  {
+    "name": "advice",
+    "share": 0.156739812
+  },
+  {
+    "name": "intermittent fasting",
+    "share": 0.940438871
+  },
+  {
+    "name": "horror movies",
+    "share": 0.156739812
+  },
+  {
+    "name": "maya angelou",
+    "share": 0.156739812
+  },
+  {
+    "name": "positivity",
+    "share": 0.313479624
+  },
+  {
+    "name": "glowing skin",
+    "share": 0.156739812
+  },
+  {
+    "name": "isl2022-23",
+    "share": 0.156739812
+  },
+  {
+    "name": "premierleague",
+    "share": 0.470219436
+  },
+  {
+    "name": "Environment",
+    "share": 0.156739812
+  },
+  {
+    "name": "#pain during childbirth",
+    "share": 0.156739812
+  },
+  {
+    "name": "#health research",
+    "share": 0.156739812
+  },
+  {
+    "name": "#worldfoodday",
+    "share": 0.156739812
+  },
+  {
+    "name": "hindi songs",
+    "share": 0.156739812
+  },
+  {
+    "name": "#sweets",
+    "share": 0.156739812
+  },
+  {
+    "name": "justice dy chandrachud",
+    "share": 0.156739812
+  },
+  {
+    "name": "xi jinping",
+    "share": 0.156739812
+  },
+  {
+    "name": "Economy",
+    "share": 0.470219436
+  },
+  {
+    "name": "pixtory",
+    "share": 0.156739812
+  },
+  {
+    "name": "seperation anxiety disorder",
+    "share": 0.78369906
+  },
+  {
+    "name": "emily dickinson",
+    "share": 0.156739812
+  },
+  {
+    "name": "skincare",
+    "share": 0.156739812
+  },
+  {
+    "name": "harry potter",
+    "share": 0.156739812
+  },
+  {
+    "name": "netflix",
+    "share": 0.313479624
+  },
+  {
+    "name": "abdul kalam",
+    "share": 0.156739812
+  },
+  {
+    "name": "#health facts",
+    "share": 0.156739812
+  },
+  {
+    "name": "fatordafootballstadium",
+    "share": 0.156739812
+  },
+  {
+    "name": "jitendra shastri",
+    "share": 0.156739812
+  },
+  {
+    "name": "poetry",
+    "share": 0.156739812
+  },
+  {
+    "name": "webtoon",
+    "share": 0.156739812
+  },
+  {
+    "name": "daily inspo",
+    "share": 0.156739812
+  },
+  {
+    "name": "love",
+    "share": 0.156739812
+  },
+  {
+    "name": "womensfootball",
+    "share": 0.156739812
+  },
+  {
+    "name": "#ywp",
+    "share": 0.156739812
+  },
+  {
+    "name": "pixstory",
+    "share": 0.156739812
+  },
+  {
+    "name": "indianfootball",
+    "share": 0.156739812
+  },
+  {
+    "name": "mental health",
+    "share": 0.156739812
+  },
+  {
+    "name": "# great humanitarian",
+    "share": 0.156739812
+  },
+  {
+    "name": "aquaphobia",
+    "share": 0.626959248
+  },
+  {
+    "name": "treatment",
+    "share": 0.156739812
+  },
+  {
+    "name": "eye makeup",
+    "share": 0.156739812
+  },
+  {
+    "name": "sylvia plath",
+    "share": 0.156739812
+  }];
+
+      // Function to handle the selection change
+      function changeVisualization() {
+        const selectedValue = document.getElementById(
+          "visualizationSelect"
+        ).value;
+        d3.select("svg").html(""); // Clear the SVG content
+
+        if (selectedValue === "data1") {
+          drawChart(data1);
+        } else if (selectedValue === "data2") {
+          drawChart(data2);
+        } else if (selectedValue === "data3") {
+          drawChart(data3);
+        }
+      }
+
+      // Initialize the visualization with Data 1
+      drawChart(data1);
+    </script>
+  </body>
+</html>
