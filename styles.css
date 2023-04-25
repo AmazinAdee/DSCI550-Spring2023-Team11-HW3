@@ -1,0 +1,141 @@
+/* CSS Document */
+
+*{
+	box-sizing: border-box;
+	margin: 0px;
+	border: 0px;
+}
+
+
+body{
+	line-height: 180%;
+	background-color: #FEFFFF;
+}
+
+p{
+	font-family: Comfortaa-Light;
+}
+
+.centerBold{
+	font-family: Comfortaa-Bold;
+	text-align: center;
+}
+
+.regular{
+	font-family: Comfortaa-Regular;
+}
+
+nav{
+	font-family: Comfortaa-Regular;
+	height: 100px;
+	width: 100%;
+	position: fixed;
+	z-index: 10;
+	left: 0;
+	right: 0;
+	top: 0;
+	background-color: #FEFFFF ;
+}
+
+a.nameCard{
+	color: #3b3b3b;
+	font-family: Comfortaa-Bold;
+	font-size: 28px;
+	line-height: 100px;
+	padding-left:4%;
+	text-decoration: none;
+}
+
+.main-text{
+	padding: 22% 18% 13% 18%;
+	background-color: #243051;
+}
+
+
+nav .navigation{
+	/*font-size: 30px;
+	color: #243051;
+	float: right;
+	line-height: 100px;
+	margin-right: 40px;
+	cursor: pointer;*/
+	display: none;
+	position: absolute;
+	right: 5%;
+	top: 50%;
+	line-height: 100px;
+	margin-right: 40px;
+	transform: translateY(-50%);
+}
+
+nav .navigation .lines{
+	width: 30px;
+	height: 5px;
+	background-color: #243051;
+	margin: 5px;
+	border-radius: 3px;
+	transition: all .3s ease-in-out;
+}
+
+#toggle{
+	display: none;
+}
+
+nav ul{
+	float: right;
+	margin-right: 40px;
+}
+
+nav ul li{
+	display: inline-block;
+	list-style: none;
+	line-height: 100px;
+	margin: 0 5px;
+}
+
+nav ul li a{
+	text-decoration: none;
+	color: grey;
+	font-size: 15px;
+}
+
+nav ul li a.active{
+	color: #243051;
+	font-family: Comfortaa-Bold;
+	border-bottom: 5px solid #243051;
+}
+
+nav ul li a:hover{
+	color: #557A95;
+	border-bottom: 5px solid #557A95;
+	font-family: Comfortaa-Bold;
+	transition: 0.1s;
+}
+
+/*.main-text{
+	background-color: #243051;
+}
+*/
+h1.centerBold{
+	line-height: 180%;
+	color: #FEFFFF;
+}
+
+h6.centerBold{
+	line-height: 180%;
+	font-size: 15px;
+	color: #ABD0E6;
+	padding-bottom: 2%;
+}
+
+h2.regular{
+	padding: 3%;
+}
+
+
+footer h6.centerBold{
+	padding: 30px 0;
+	background-color: #243051;
+}
+
+
